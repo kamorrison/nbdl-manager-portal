@@ -1,0 +1,4373 @@
+[
+  {
+    "category_record": "105-64-2",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "31_savage",
+    "historical_team_names": [
+      "31 Savage"
+    ],
+    "history": {
+      "best_playoff_finish": 1,
+      "category_losses": 238,
+      "category_record": "259-238-7",
+      "category_ties": 7,
+      "category_win_pct": 0.5208,
+      "category_wins": 259,
+      "championships": 1,
+      "deepest_round_reached": "final",
+      "finals_appearances": 1,
+      "finals_conversion_rate": 1.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 1,
+      "finals_wins_round": 1,
+      "franchise_display_name": "31 Savage",
+      "franchise_slug": "31_savage",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 7.0,
+      "playoff_appearances": 1,
+      "playoff_matchup_losses": 0,
+      "playoff_matchup_record": "2-0-1",
+      "playoff_matchup_ties": 1,
+      "playoff_matchup_win_pct": 0.8333,
+      "playoff_matchup_wins": 2,
+      "quarterfinal_appearances": 1,
+      "quarterfinal_losses": 0,
+      "quarterfinal_wins": 1,
+      "regular_season_matchup_losses": 25,
+      "regular_season_matchup_record": "30-25-1",
+      "regular_season_matchup_ties": 1,
+      "regular_season_matchup_win_pct": 0.5446,
+      "regular_season_matchup_wins": 30,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 1,
+      "semifinal_losses": 0,
+      "semifinal_wins": 1,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 1.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 25,
+      "total_matchup_record": "32-25-2",
+      "total_matchup_ties": 2,
+      "total_matchup_win_pct": 0.5593,
+      "total_matchup_wins": 32
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/01bcf6e0b2a25d826be6d5b6facf9b870526d918c4c5de9fb35464aa4ffc2781.jpg",
+    "manager_id": "derrick",
+    "manager_name": "Derrick",
+    "owned_picks": [
+      {
+        "current_franchise_id": "31_savage",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "31_savage",
+        "overall_pick": "20",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P20",
+        "pick_number": "20",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "31_savage",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "31_savage",
+        "overall_pick": "40",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P20",
+        "pick_number": "20",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P20",
+      "2026-R2-P20"
+    ],
+    "platform_team_id": "466.l.7100.t.2",
+    "playoff_seed": 2,
+    "rank": 1,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.6395",
+        "player_name": "LaMelo Ball",
+        "position": "PG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10108",
+        "player_name": "Amen Thompson",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6401",
+        "player_name": "Deni Avdija",
+        "position": "G",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6701",
+        "player_name": "Ousmane Dieng",
+        "position": "SF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10274",
+        "player_name": "Kel'el Ware",
+        "position": "PF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10489",
+        "player_name": "Jamir Watkins",
+        "position": "F",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6600",
+        "player_name": "Jericho Sims",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5640",
+        "player_name": "Jakob Poeltl",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10304",
+        "player_name": "Ajay Mitchell",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6047",
+        "player_name": "Mitchell Robinson",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6698",
+        "player_name": "Dyson Daniels",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6548",
+        "player_name": "Josh Giddey",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10465",
+        "player_name": "Cedric Coward",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10316",
+        "player_name": "Daniss Jenkins",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6742",
+        "player_name": "Karlo Matković",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6226",
+        "player_name": "Daniel Gafford",
+        "position": "IL+",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10279",
+        "player_name": "Jaylon Tyson",
+        "position": "IL+",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10272",
+        "player_name": "Kyshawn George",
+        "position": "IL+",
+        "status": "Injured"
+      }
+    ],
+    "roster_count": 18,
+    "slug": "31-savage",
+    "submitted_at": "",
+    "team_name": "31 Savage",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "90-79-2",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "ben_s_swag_team",
+    "historical_team_names": [
+      "Ben's Swag Team"
+    ],
+    "history": {
+      "best_playoff_finish": null,
+      "category_losses": 228,
+      "category_record": "268-228-8",
+      "category_ties": 8,
+      "category_win_pct": 0.5397,
+      "category_wins": 268,
+      "championships": 0,
+      "deepest_round_reached": "quarterfinal",
+      "finals_appearances": 0,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 0,
+      "finals_wins_round": 0,
+      "franchise_display_name": "Ben's Swag Team",
+      "franchise_slug": "ben_s_swag_team",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 0.0,
+      "playoff_appearances": 1,
+      "playoff_matchup_losses": 1,
+      "playoff_matchup_record": "0-1-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.0,
+      "playoff_matchup_wins": 0,
+      "quarterfinal_appearances": 1,
+      "quarterfinal_losses": 1,
+      "quarterfinal_wins": 0,
+      "regular_season_matchup_losses": 28,
+      "regular_season_matchup_record": "28-28-0",
+      "regular_season_matchup_ties": 0,
+      "regular_season_matchup_win_pct": 0.5,
+      "regular_season_matchup_wins": 28,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 0,
+      "semifinal_losses": 0,
+      "semifinal_wins": 0,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 30,
+      "total_matchup_record": "29-30-0",
+      "total_matchup_ties": 0,
+      "total_matchup_win_pct": 0.4915,
+      "total_matchup_wins": 29
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://s.yimg.com/cv/apiv2/default/nba/nba_10_b.png",
+    "manager_id": "bg",
+    "manager_name": "BG",
+    "owned_picks": [
+      {
+        "current_franchise_id": "ben_s_swag_team",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "ben_s_swag_team",
+        "overall_pick": "12",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P12",
+        "pick_number": "12",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "ben_s_swag_team",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "ben_s_swag_team",
+        "overall_pick": "32",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P12",
+        "pick_number": "12",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P12",
+      "2026-R2-P12"
+    ],
+    "platform_team_id": "466.l.7100.t.3",
+    "playoff_seed": null,
+    "rank": 9,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.4390",
+        "player_name": "Russell Westbrook",
+        "position": "PG",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6754",
+        "player_name": "Julian Champagnie",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6022",
+        "player_name": "Shai Gilgeous-Alexander",
+        "position": "G",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6745",
+        "player_name": "Gui Santos",
+        "position": "SF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5769",
+        "player_name": "Lauri Markkanen",
+        "position": "PF",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5324",
+        "player_name": "Zach LaVine",
+        "position": "F",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5471",
+        "player_name": "Myles Turner",
+        "position": "C",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.4901",
+        "player_name": "Tobias Harris",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10075",
+        "player_name": "Jordan Walsh",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5327",
+        "player_name": "Jusuf Nurkić",
+        "position": "Util",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6766",
+        "player_name": "Simone Fontecchio",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10498",
+        "player_name": "Sion James",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6175",
+        "player_name": "Tyler Herro",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10275",
+        "player_name": "Tristan da Silva",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5905",
+        "player_name": "Royce O'Neale",
+        "position": "BN",
+        "status": "Available"
+      }
+    ],
+    "roster_count": 15,
+    "slug": "ben-s-swag-team",
+    "submitted_at": "",
+    "team_name": "Ben's Swag Team",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "88-83-0",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "bosh_roid",
+    "historical_team_names": [
+      "Bosh Roid"
+    ],
+    "history": {
+      "best_playoff_finish": null,
+      "category_losses": 179,
+      "category_record": "151-179-3",
+      "category_ties": 3,
+      "category_win_pct": 0.458,
+      "category_wins": 151,
+      "championships": 0,
+      "deepest_round_reached": "none",
+      "finals_appearances": 0,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 0,
+      "finals_wins_round": 0,
+      "franchise_display_name": "Bosh Roid",
+      "franchise_slug": "bosh_roid",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 0.0,
+      "playoff_appearances": 0,
+      "playoff_matchup_losses": 0,
+      "playoff_matchup_record": "0-0-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.0,
+      "playoff_matchup_wins": 0,
+      "quarterfinal_appearances": 0,
+      "quarterfinal_losses": 0,
+      "quarterfinal_wins": 0,
+      "regular_season_matchup_losses": 22,
+      "regular_season_matchup_record": "15-22-0",
+      "regular_season_matchup_ties": 0,
+      "regular_season_matchup_win_pct": 0.4054,
+      "regular_season_matchup_wins": 15,
+      "season_count": 2,
+      "seasons": [
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 0,
+      "semifinal_losses": 0,
+      "semifinal_wins": 0,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 22,
+      "total_matchup_record": "15-22-0",
+      "total_matchup_ties": 0,
+      "total_matchup_win_pct": 0.4054,
+      "total_matchup_wins": 15
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://s.yimg.com/cv/apiv2/default/nba/nba_2_r.png",
+    "manager_id": "ross",
+    "manager_name": "ross",
+    "owned_picks": [
+      {
+        "current_franchise_id": "bosh_roid",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "bosh_roid",
+        "overall_pick": "10",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P10",
+        "pick_number": "10",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "bosh_roid",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "bosh_roid",
+        "overall_pick": "30",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P10",
+        "pick_number": "10",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P10",
+      "2026-R2-P10"
+    ],
+    "platform_team_id": "466.l.7100.t.7",
+    "playoff_seed": null,
+    "rank": 11,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.10333",
+        "player_name": "Jamal Shead",
+        "position": "PG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6516",
+        "player_name": "Jalen Suggs",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6218",
+        "player_name": "Kevin Porter Jr.",
+        "position": "G",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6515",
+        "player_name": "Scottie Barnes",
+        "position": "SF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6514",
+        "player_name": "Evan Mobley",
+        "position": "PF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6420",
+        "player_name": "Jaden McDaniels",
+        "position": "F",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6564",
+        "player_name": "Isaiah Jackson",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6691",
+        "player_name": "Paolo Banchero",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10485",
+        "player_name": "Will Richard",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10452",
+        "player_name": "Kasparas Jakučionis",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10494",
+        "player_name": "Javon Small",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10462",
+        "player_name": "Ace Bailey",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10456",
+        "player_name": "Danny Wolf",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10115",
+        "player_name": "Brandin Podziemski",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10110",
+        "player_name": "Taylor Hendricks",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10097",
+        "player_name": "Dereck Lively II",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5823",
+        "player_name": "Zach Collins",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10305",
+        "player_name": "Johnny Furphy",
+        "position": "IL+",
+        "status": "Injured"
+      }
+    ],
+    "roster_count": 18,
+    "slug": "bosh-roid",
+    "submitted_at": "",
+    "team_name": "Bosh Roid",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "55-116-0",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "da_bum_tiss",
+    "historical_team_names": [
+      "Da Bum Tiss"
+    ],
+    "history": {
+      "best_playoff_finish": null,
+      "category_losses": 264,
+      "category_record": "233-264-7",
+      "category_ties": 7,
+      "category_win_pct": 0.4692,
+      "category_wins": 233,
+      "championships": 0,
+      "deepest_round_reached": "quarterfinal",
+      "finals_appearances": 0,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 0,
+      "finals_wins_round": 0,
+      "franchise_display_name": "Da Bum Tiss",
+      "franchise_slug": "da_bum_tiss",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 0.0,
+      "playoff_appearances": 1,
+      "playoff_matchup_losses": 1,
+      "playoff_matchup_record": "0-1-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.0,
+      "playoff_matchup_wins": 0,
+      "quarterfinal_appearances": 1,
+      "quarterfinal_losses": 1,
+      "quarterfinal_wins": 0,
+      "regular_season_matchup_losses": 35,
+      "regular_season_matchup_record": "20-35-1",
+      "regular_season_matchup_ties": 1,
+      "regular_season_matchup_win_pct": 0.3661,
+      "regular_season_matchup_wins": 20,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 0,
+      "semifinal_losses": 0,
+      "semifinal_wins": 0,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 38,
+      "total_matchup_record": "20-38-1",
+      "total_matchup_ties": 1,
+      "total_matchup_win_pct": 0.3475,
+      "total_matchup_wins": 20
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://s.yimg.com/cv/apiv2/default/nba/nba_1.png",
+    "manager_id": "rohan",
+    "manager_name": "Rohan",
+    "owned_picks": [
+      {
+        "current_franchise_id": "da_bum_tiss",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "da_bum_tiss",
+        "overall_pick": "1",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P1",
+        "pick_number": "1",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "da_bum_tiss",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "da_bum_tiss",
+        "overall_pick": "21",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P1",
+        "pick_number": "1",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P1",
+      "2026-R2-P1"
+    ],
+    "platform_team_id": "466.l.7100.t.4",
+    "playoff_seed": null,
+    "rank": 20,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.6551",
+        "player_name": "Davion Mitchell",
+        "position": "PG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5317",
+        "player_name": "Marcus Smart",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5159",
+        "player_name": "Kentavious Caldwell-Pope",
+        "position": "G",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.4912",
+        "player_name": "Jimmy Butler III",
+        "position": "SF",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10121",
+        "player_name": "Noah Clowney",
+        "position": "PF",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6402",
+        "player_name": "Jalen Smith",
+        "position": "F",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6206",
+        "player_name": "Goga Bitadze",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6408",
+        "player_name": "Isaiah Stewart",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6450",
+        "player_name": "Paul Reed",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6400",
+        "player_name": "Obi Toppin",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6429",
+        "player_name": "Vít Krejčí",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6581",
+        "player_name": "Neemias Queta",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5637",
+        "player_name": "Buddy Hield",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5294",
+        "player_name": "Joel Embiid",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.3930",
+        "player_name": "Chris Paul",
+        "position": "BN",
+        "status": "NotAvailable"
+      },
+      {
+        "player_id": "466.p.6791",
+        "player_name": "Dominick Barlow",
+        "position": "IL+",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6757",
+        "player_name": "Scotty Pippen Jr.",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6404",
+        "player_name": "Tyrese Haliburton",
+        "position": "IL+",
+        "status": "Injured"
+      }
+    ],
+    "roster_count": 18,
+    "slug": "da-bum-tiss",
+    "submitted_at": "",
+    "team_name": "Da Bum Tiss",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "58-111-2",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "da_docta_s_perfect_team",
+    "historical_team_names": [
+      "Da Docta's Perfect Team"
+    ],
+    "history": {
+      "best_playoff_finish": null,
+      "category_losses": 323,
+      "category_record": "177-323-4",
+      "category_ties": 4,
+      "category_win_pct": 0.3552,
+      "category_wins": 177,
+      "championships": 0,
+      "deepest_round_reached": "none",
+      "finals_appearances": 0,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 0,
+      "finals_wins_round": 0,
+      "franchise_display_name": "Da Docta's Perfect Team",
+      "franchise_slug": "da_docta_s_perfect_team",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 0.0,
+      "playoff_appearances": 0,
+      "playoff_matchup_losses": 0,
+      "playoff_matchup_record": "0-0-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.0,
+      "playoff_matchup_wins": 0,
+      "quarterfinal_appearances": 0,
+      "quarterfinal_losses": 0,
+      "quarterfinal_wins": 0,
+      "regular_season_matchup_losses": 45,
+      "regular_season_matchup_record": "11-45-0",
+      "regular_season_matchup_ties": 0,
+      "regular_season_matchup_win_pct": 0.1964,
+      "regular_season_matchup_wins": 11,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 0,
+      "semifinal_losses": 0,
+      "semifinal_wins": 0,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 45,
+      "total_matchup_record": "11-45-0",
+      "total_matchup_ties": 0,
+      "total_matchup_win_pct": 0.1964,
+      "total_matchup_wins": 11
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://s.yimg.com/cv/apiv2/default/nba/nba_5_d.png",
+    "manager_id": "da_docta",
+    "manager_name": "Da Docta",
+    "owned_picks": [
+      {
+        "current_franchise_id": "da_docta_s_perfect_team",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "da_docta_s_perfect_team",
+        "overall_pick": "5",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P5",
+        "pick_number": "5",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "da_docta_s_perfect_team",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "da_docta_s_perfect_team",
+        "overall_pick": "25",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P5",
+        "pick_number": "5",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P5",
+      "2026-R2-P5"
+    ],
+    "platform_team_id": "466.l.7100.t.5",
+    "playoff_seed": null,
+    "rank": 19,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.10276",
+        "player_name": "Jared McCain",
+        "position": "PG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10461",
+        "player_name": "Walter Clayton Jr.",
+        "position": "SG",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6021",
+        "player_name": "Mikal Bridges",
+        "position": "G",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6597",
+        "player_name": "Aaron Wiggins",
+        "position": "SF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6396",
+        "player_name": "Patrick Williams",
+        "position": "PF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6422",
+        "player_name": "Desmond Bane",
+        "position": "F",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10080",
+        "player_name": "Trayce Jackson-Davis",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6035",
+        "player_name": "Anfernee Simons",
+        "position": "Util",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10281",
+        "player_name": "Rob Dillingham",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10445",
+        "player_name": "Egor Dëmin",
+        "position": "Util",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5013",
+        "player_name": "Harrison Barnes",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5490",
+        "player_name": "Kevon Looney",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6030",
+        "player_name": "Kevin Huerter",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6693",
+        "player_name": "Jabari Smith Jr.",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6016",
+        "player_name": "Trae Young",
+        "position": "IL+",
+        "status": "Injured"
+      }
+    ],
+    "roster_count": 15,
+    "slug": "da-docta-s-perfect-team",
+    "submitted_at": "",
+    "team_name": "Da Docta's Perfect Team",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "64-106-1",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "fade_away_2_excellence",
+    "historical_team_names": [
+      "Fade Away 2 Excellence"
+    ],
+    "history": {
+      "best_playoff_finish": null,
+      "category_losses": 106,
+      "category_record": "64-106-1",
+      "category_ties": 1,
+      "category_win_pct": 0.3772,
+      "category_wins": 64,
+      "championships": 0,
+      "deepest_round_reached": "none",
+      "finals_appearances": 0,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 0,
+      "finals_wins_round": 0,
+      "franchise_display_name": "Fade Away 2 Excellence",
+      "franchise_slug": "fade_away_2_excellence",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 0.0,
+      "playoff_appearances": 0,
+      "playoff_matchup_losses": 0,
+      "playoff_matchup_record": "0-0-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.0,
+      "playoff_matchup_wins": 0,
+      "quarterfinal_appearances": 0,
+      "quarterfinal_losses": 0,
+      "quarterfinal_wins": 0,
+      "regular_season_matchup_losses": 14,
+      "regular_season_matchup_record": "5-14-0",
+      "regular_season_matchup_ties": 0,
+      "regular_season_matchup_win_pct": 0.2632,
+      "regular_season_matchup_wins": 5,
+      "season_count": 1,
+      "seasons": [
+        "2025_26"
+      ],
+      "semifinal_appearances": 0,
+      "semifinal_losses": 0,
+      "semifinal_wins": 0,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 14,
+      "total_matchup_record": "5-14-0",
+      "total_matchup_ties": 0,
+      "total_matchup_win_pct": 0.2632,
+      "total_matchup_wins": 5
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/12ced0715b962aabc20aaac0c134535556757e70685ea13b6e5e6705d3fcd45a.jpg",
+    "manager_id": "karl",
+    "manager_name": "Karl",
+    "owned_picks": [
+      {
+        "current_franchise_id": "fade_away_2_excellence",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "fade_away_2_excellence",
+        "overall_pick": "2",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P2",
+        "pick_number": "2",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "fade_away_2_excellence",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "fade_away_2_excellence",
+        "overall_pick": "22",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P2",
+        "pick_number": "2",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P2",
+      "2026-R2-P2"
+    ],
+    "platform_team_id": "466.l.7100.t.12",
+    "playoff_seed": null,
+    "rank": 17,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.10508",
+        "player_name": "Caleb Love",
+        "position": "PG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6569",
+        "player_name": "Cam Thomas",
+        "position": "SG",
+        "status": "NotAvailable"
+      },
+      {
+        "player_id": "466.p.5187",
+        "player_name": "Dennis Schröder",
+        "position": "G",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.3704",
+        "player_name": "LeBron James",
+        "position": "SF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6412",
+        "player_name": "Precious Achiuwa",
+        "position": "PF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6217",
+        "player_name": "Keldon Johnson",
+        "position": "F",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6703",
+        "player_name": "Jalen Duren",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10471",
+        "player_name": "Mohamed Diawara",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10084",
+        "player_name": "Jordan Miller",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6397",
+        "player_name": "Isaac Okoro",
+        "position": "Util",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5161",
+        "player_name": "CJ McCollum",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6568",
+        "player_name": "Bones Hyland",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10078",
+        "player_name": "Tristan Vukcevic",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5858",
+        "player_name": "Dillon Brooks",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5642",
+        "player_name": "Domantas Sabonis",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6712",
+        "player_name": "Walker Kessler",
+        "position": "IL+",
+        "status": "Injured"
+      }
+    ],
+    "roster_count": 16,
+    "slug": "fade-away-2-excellence",
+    "submitted_at": "",
+    "team_name": "Fade Away 2 Excellence",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "58-111-2",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "gamma_squad",
+    "historical_team_names": [
+      "Gamma Squad"
+    ],
+    "history": {
+      "best_playoff_finish": 1,
+      "category_losses": 249,
+      "category_record": "249-249-6",
+      "category_ties": 6,
+      "category_win_pct": 0.5,
+      "category_wins": 249,
+      "championships": 1,
+      "deepest_round_reached": "final",
+      "finals_appearances": 1,
+      "finals_conversion_rate": 1.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 1,
+      "finals_wins_round": 1,
+      "franchise_display_name": "Gamma Squad",
+      "franchise_slug": "gamma_squad",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 8.0,
+      "playoff_appearances": 2,
+      "playoff_matchup_losses": 1,
+      "playoff_matchup_record": "4-1-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.8,
+      "playoff_matchup_wins": 4,
+      "quarterfinal_appearances": 2,
+      "quarterfinal_losses": 0,
+      "quarterfinal_wins": 2,
+      "regular_season_matchup_losses": 27,
+      "regular_season_matchup_record": "28-27-1",
+      "regular_season_matchup_ties": 1,
+      "regular_season_matchup_win_pct": 0.5089,
+      "regular_season_matchup_wins": 28,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 2,
+      "semifinal_losses": 1,
+      "semifinal_wins": 1,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.5,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 29,
+      "total_matchup_record": "32-29-1",
+      "total_matchup_ties": 1,
+      "total_matchup_win_pct": 0.5242,
+      "total_matchup_wins": 32
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/0a1c294dbc2c71011ee0a723a00ee91aae79392ca7f0e6f61465058076abd047.png",
+    "manager_id": "kurt",
+    "manager_name": "Kurt",
+    "owned_picks": [
+      {
+        "current_franchise_id": "gamma_squad",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "gamma_squad",
+        "overall_pick": "6",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P6",
+        "pick_number": "6",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "gamma_squad",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "gamma_squad",
+        "overall_pick": "26",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P6",
+        "pick_number": "6",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P6",
+      "2026-R2-P6"
+    ],
+    "platform_team_id": "466.l.7100.t.6",
+    "playoff_seed": null,
+    "rank": 18,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.6513",
+        "player_name": "Jalen Green",
+        "position": "PG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6073",
+        "player_name": "Duncan Robinson",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6032",
+        "player_name": "Grayson Allen",
+        "position": "G",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6025",
+        "player_name": "Michael Porter Jr.",
+        "position": "SF",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5658",
+        "player_name": "Pascal Siakam",
+        "position": "PF",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5185",
+        "player_name": "Giannis Antetokounmpo",
+        "position": "F",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.4886",
+        "player_name": "Jonas Valančiūnas",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5651",
+        "player_name": "Caris LeVert",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6036",
+        "player_name": "Moritz Wagner",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5739",
+        "player_name": "Gary Payton II",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6171",
+        "player_name": "Rui Hachimura",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5693",
+        "player_name": "Dorian Finney-Smith",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6452",
+        "player_name": "Sam Merrill",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10145",
+        "player_name": "Craig Porter Jr.",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6256",
+        "player_name": "Dean Wade",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.4840",
+        "player_name": "Kyrie Irving",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6166",
+        "player_name": "De'Andre Hunter",
+        "position": "IL+",
+        "status": "Injured"
+      }
+    ],
+    "roster_count": 17,
+    "slug": "gamma-squad",
+    "submitted_at": "",
+    "team_name": "Gamma Squad",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "102-67-2",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "girth_god",
+    "historical_team_names": [
+      "Girth God"
+    ],
+    "history": {
+      "best_playoff_finish": null,
+      "category_losses": 213,
+      "category_record": "285-213-6",
+      "category_ties": 6,
+      "category_win_pct": 0.5714,
+      "category_wins": 285,
+      "championships": 0,
+      "deepest_round_reached": "semifinal",
+      "finals_appearances": 0,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 0,
+      "finals_wins_round": 0,
+      "franchise_display_name": "Girth God",
+      "franchise_slug": "girth_god",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 2.0,
+      "playoff_appearances": 2,
+      "playoff_matchup_losses": 2,
+      "playoff_matchup_record": "2-2-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.5,
+      "playoff_matchup_wins": 2,
+      "quarterfinal_appearances": 2,
+      "quarterfinal_losses": 0,
+      "quarterfinal_wins": 2,
+      "regular_season_matchup_losses": 21,
+      "regular_season_matchup_record": "35-21-0",
+      "regular_season_matchup_ties": 0,
+      "regular_season_matchup_win_pct": 0.625,
+      "regular_season_matchup_wins": 35,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 2,
+      "semifinal_losses": 2,
+      "semifinal_wins": 0,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 25,
+      "total_matchup_record": "37-25-0",
+      "total_matchup_ties": 0,
+      "total_matchup_win_pct": 0.5968,
+      "total_matchup_wins": 37
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/97e5ba02e5eff2ca1c285814f7ca647d20ad6d06b0bfd8ddae11dd61b66e3338.jpg",
+    "manager_id": "luis",
+    "manager_name": "Luis",
+    "owned_picks": [
+      {
+        "current_franchise_id": "girth_god",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "girth_god",
+        "overall_pick": "18",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P18",
+        "pick_number": "18",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "girth_god",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "girth_god",
+        "overall_pick": "38",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P18",
+        "pick_number": "18",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P18",
+      "2026-R2-P18"
+    ],
+    "platform_team_id": "466.l.7100.t.8",
+    "playoff_seed": 5,
+    "rank": 4,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.4622",
+        "player_name": "Jrue Holiday",
+        "position": "PG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6165",
+        "player_name": "RJ Barrett",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.4244",
+        "player_name": "Kevin Durant",
+        "position": "G",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10277",
+        "player_name": "Baylor Scheierman",
+        "position": "SF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6619",
+        "player_name": "Sam Hauser",
+        "position": "PF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6735",
+        "player_name": "Josh Minott",
+        "position": "F",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10313",
+        "player_name": "Oso Ighodaro",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5506",
+        "player_name": "Norman Powell",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6406",
+        "player_name": "Aaron Nesmith",
+        "position": "Util",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5836",
+        "player_name": "OG Anunoby",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5647",
+        "player_name": "Guerschon Yabusele",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10468",
+        "player_name": "Cooper Flagg",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10310",
+        "player_name": "Justin Edwards",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5015",
+        "player_name": "Andre Drummond",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6053",
+        "player_name": "Bruce Brown",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.4612",
+        "player_name": "Stephen Curry",
+        "position": "IL+",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.4897",
+        "player_name": "Nikola Vučević",
+        "position": "IL+",
+        "status": "Available"
+      }
+    ],
+    "roster_count": 17,
+    "slug": "girth-god",
+    "submitted_at": "",
+    "team_name": "Girth God",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "66-105-0",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "guns_buns",
+    "historical_team_names": [
+      "Guns & Buns"
+    ],
+    "history": {
+      "best_playoff_finish": null,
+      "category_losses": 326,
+      "category_record": "177-326-1",
+      "category_ties": 1,
+      "category_win_pct": 0.3522,
+      "category_wins": 177,
+      "championships": 0,
+      "deepest_round_reached": "none",
+      "finals_appearances": 0,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 0,
+      "finals_wins_round": 0,
+      "franchise_display_name": "Guns & Buns",
+      "franchise_slug": "guns_buns",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 0.0,
+      "playoff_appearances": 0,
+      "playoff_matchup_losses": 0,
+      "playoff_matchup_record": "0-0-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.0,
+      "playoff_matchup_wins": 0,
+      "quarterfinal_appearances": 0,
+      "quarterfinal_losses": 0,
+      "quarterfinal_wins": 0,
+      "regular_season_matchup_losses": 46,
+      "regular_season_matchup_record": "10-46-0",
+      "regular_season_matchup_ties": 0,
+      "regular_season_matchup_win_pct": 0.1786,
+      "regular_season_matchup_wins": 10,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 0,
+      "semifinal_losses": 0,
+      "semifinal_wins": 0,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 46,
+      "total_matchup_record": "10-46-0",
+      "total_matchup_ties": 0,
+      "total_matchup_win_pct": 0.1786,
+      "total_matchup_wins": 10
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/159bb4e0082e0af4b981cac5176d345b29106968ebd226264e7e99ca87b0785a.jpg",
+    "manager_id": "rick",
+    "manager_name": "Rick",
+    "owned_picks": [
+      {
+        "current_franchise_id": "guns_buns",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "guns_buns",
+        "overall_pick": "7",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P7",
+        "pick_number": "7",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "guns_buns",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "guns_buns",
+        "overall_pick": "27",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P7",
+        "pick_number": "7",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P7",
+      "2026-R2-P7"
+    ],
+    "platform_team_id": "466.l.7100.t.9",
+    "playoff_seed": null,
+    "rank": 16,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.10114",
+        "player_name": "Marcus Sasser",
+        "position": "PG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.4892",
+        "player_name": "Klay Thompson",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10112",
+        "player_name": "Julian Strawther",
+        "position": "G",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6557",
+        "player_name": "Corey Kispert",
+        "position": "SF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6163",
+        "player_name": "Zion Williamson",
+        "position": "PF",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5832",
+        "player_name": "John Collins",
+        "position": "F",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5958",
+        "player_name": "Deandre Ayton",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5197",
+        "player_name": "Rudy Gobert",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10265",
+        "player_name": "Matas Buzelis",
+        "position": "Util",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6617",
+        "player_name": "Jay Huff",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10447",
+        "player_name": "Khaman Maluach",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6632",
+        "player_name": "Justin Champagnie",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10051",
+        "player_name": "Sidy Cissoko",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10464",
+        "player_name": "Yang Hansen",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6267",
+        "player_name": "Max Strus",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6695",
+        "player_name": "Jaden Ivey",
+        "position": "IL+",
+        "status": "NotAvailable"
+      },
+      {
+        "player_id": "466.p.6164",
+        "player_name": "Ja Morant",
+        "position": "IL+",
+        "status": "Injured"
+      }
+    ],
+    "roster_count": 17,
+    "slug": "guns-buns",
+    "submitted_at": "",
+    "team_name": "Guns & Buns",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "90-80-1",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "hart_of_new_york",
+    "historical_team_names": [
+      "Hart of New York"
+    ],
+    "history": {
+      "best_playoff_finish": null,
+      "category_losses": 232,
+      "category_record": "268-232-4",
+      "category_ties": 4,
+      "category_win_pct": 0.5357,
+      "category_wins": 268,
+      "championships": 0,
+      "deepest_round_reached": "quarterfinal",
+      "finals_appearances": 0,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 0,
+      "finals_wins_round": 0,
+      "franchise_display_name": "Hart of New York",
+      "franchise_slug": "hart_of_new_york",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 0.0,
+      "playoff_appearances": 1,
+      "playoff_matchup_losses": 1,
+      "playoff_matchup_record": "0-1-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.0,
+      "playoff_matchup_wins": 0,
+      "quarterfinal_appearances": 1,
+      "quarterfinal_losses": 1,
+      "quarterfinal_wins": 0,
+      "regular_season_matchup_losses": 20,
+      "regular_season_matchup_record": "36-20-0",
+      "regular_season_matchup_ties": 0,
+      "regular_season_matchup_win_pct": 0.6429,
+      "regular_season_matchup_wins": 36,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 0,
+      "semifinal_losses": 0,
+      "semifinal_wins": 0,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 21,
+      "total_matchup_record": "38-21-0",
+      "total_matchup_ties": 0,
+      "total_matchup_win_pct": 0.6441,
+      "total_matchup_wins": 38
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/a7739bca01f0f668e01a88ad30492e34a759fb2b623dfed487c4b5543257dba8.jpg",
+    "manager_id": "4evrl8",
+    "manager_name": "4EVRL8",
+    "owned_picks": [
+      {
+        "current_franchise_id": "hart_of_new_york",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "hart_of_new_york",
+        "overall_pick": "11",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P11",
+        "pick_number": "11",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "hart_of_new_york",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "hart_of_new_york",
+        "overall_pick": "31",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P11",
+        "pick_number": "11",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P11",
+      "2026-R2-P11"
+    ],
+    "platform_team_id": "466.l.7100.t.10",
+    "playoff_seed": null,
+    "rank": 10,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.6772",
+        "player_name": "Pat Spencer",
+        "position": "PG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6755",
+        "player_name": "AJ Green",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6014",
+        "player_name": "Luka Dončić",
+        "position": "G",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5843",
+        "player_name": "Josh Hart",
+        "position": "SF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5482",
+        "player_name": "Bobby Portis",
+        "position": "PF",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6173",
+        "player_name": "Cameron Johnson",
+        "position": "F",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5959",
+        "player_name": "Marvin Bagley III",
+        "position": "C",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6709",
+        "player_name": "Jake LaRavia",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6733",
+        "player_name": "Moussa Diabaté",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6471",
+        "player_name": "Anthony Gill",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6606",
+        "player_name": "Austin Reaves",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6210",
+        "player_name": "Grant Williams",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10476",
+        "player_name": "Ryan Kalkbrenner",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5292",
+        "player_name": "Andrew Wiggins",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5464",
+        "player_name": "Kristaps Porziņģis",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5660",
+        "player_name": "Dejounte Murray",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6037",
+        "player_name": "Landry Shamet",
+        "position": "IL+",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6694",
+        "player_name": "Keegan Murray",
+        "position": "IL+",
+        "status": "Injured"
+      }
+    ],
+    "roster_count": 18,
+    "slug": "hart-of-new-york",
+    "submitted_at": "",
+    "team_name": "Hart of New York",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "104-66-1",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "himmy_butlers",
+    "historical_team_names": [
+      "Himmy Butlers"
+    ],
+    "history": {
+      "best_playoff_finish": null,
+      "category_losses": 209,
+      "category_record": "289-209-6",
+      "category_ties": 6,
+      "category_win_pct": 0.5794,
+      "category_wins": 289,
+      "championships": 0,
+      "deepest_round_reached": "quarterfinal",
+      "finals_appearances": 0,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 0,
+      "finals_wins_round": 0,
+      "franchise_display_name": "Himmy Butlers",
+      "franchise_slug": "himmy_butlers",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 0.0,
+      "playoff_appearances": 3,
+      "playoff_matchup_losses": 3,
+      "playoff_matchup_record": "0-3-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.0,
+      "playoff_matchup_wins": 0,
+      "quarterfinal_appearances": 3,
+      "quarterfinal_losses": 3,
+      "quarterfinal_wins": 0,
+      "regular_season_matchup_losses": 15,
+      "regular_season_matchup_record": "40-15-1",
+      "regular_season_matchup_ties": 1,
+      "regular_season_matchup_win_pct": 0.7232,
+      "regular_season_matchup_wins": 40,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 0,
+      "semifinal_losses": 0,
+      "semifinal_wins": 0,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 19,
+      "total_matchup_record": "45-19-1",
+      "total_matchup_ties": 1,
+      "total_matchup_win_pct": 0.7,
+      "total_matchup_wins": 45
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/71dbeabb6945c4a00e23172a0d9b6809fd3a6c8cecda9d8edcbccb3a4cffc861.jpg",
+    "manager_id": "kooks",
+    "manager_name": "Kooks",
+    "owned_picks": [
+      {
+        "current_franchise_id": "himmy_butlers",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "himmy_butlers",
+        "overall_pick": "17",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P17",
+        "pick_number": "17",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "himmy_butlers",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "himmy_butlers",
+        "overall_pick": "37",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P17",
+        "pick_number": "17",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P17",
+      "2026-R2-P17"
+    ],
+    "platform_team_id": "466.l.7100.t.11",
+    "playoff_seed": 4,
+    "rank": 5,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.10278",
+        "player_name": "Ja'Kobe Walter",
+        "position": "PG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10312",
+        "player_name": "Pelle Larsson",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6411",
+        "player_name": "Saddiq Bey",
+        "position": "SF",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6724",
+        "player_name": "Jaylin Williams",
+        "position": "PF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6556",
+        "player_name": "Moses Moody",
+        "position": "F",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5352",
+        "player_name": "Nikola Jokić",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6499",
+        "player_name": "Naji Marshall",
+        "position": "Util",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6596",
+        "player_name": "Sandro Mamukelashvili",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6212",
+        "player_name": "Ty Jerome",
+        "position": "Util",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6572",
+        "player_name": "Santi Aldama",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6028",
+        "player_name": "Donte DiVincenzo",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5473",
+        "player_name": "Devin Booker",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6253",
+        "player_name": "Naz Reid",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.4563",
+        "player_name": "James Harden",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6549",
+        "player_name": "Jonathan Kuminga",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6571",
+        "player_name": "Day'Ron Sharpe",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10463",
+        "player_name": "Thomas Sorber",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6550",
+        "player_name": "Franz Wagner",
+        "position": "IL+",
+        "status": "Available"
+      }
+    ],
+    "roster_count": 18,
+    "slug": "himmy-butlers",
+    "submitted_at": "",
+    "team_name": "Himmy Butlers",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "72-96-3",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "legendary",
+    "historical_team_names": [
+      "Legendary 🤩"
+    ],
+    "history": {
+      "best_playoff_finish": null,
+      "category_losses": 233,
+      "category_record": "259-233-12",
+      "category_ties": 12,
+      "category_win_pct": 0.5258,
+      "category_wins": 259,
+      "championships": 0,
+      "deepest_round_reached": "semifinal",
+      "finals_appearances": 0,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 0,
+      "finals_wins_round": 0,
+      "franchise_display_name": "Legendary 🤩",
+      "franchise_slug": "legendary",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 1.0,
+      "playoff_appearances": 1,
+      "playoff_matchup_losses": 1,
+      "playoff_matchup_record": "1-1-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.5,
+      "playoff_matchup_wins": 1,
+      "quarterfinal_appearances": 1,
+      "quarterfinal_losses": 0,
+      "quarterfinal_wins": 1,
+      "regular_season_matchup_losses": 26,
+      "regular_season_matchup_record": "28-26-2",
+      "regular_season_matchup_ties": 2,
+      "regular_season_matchup_win_pct": 0.5179,
+      "regular_season_matchup_wins": 28,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 1,
+      "semifinal_losses": 1,
+      "semifinal_wins": 0,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 27,
+      "total_matchup_record": "30-27-2",
+      "total_matchup_ties": 2,
+      "total_matchup_win_pct": 0.5254,
+      "total_matchup_wins": 30
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://s.yimg.com/cv/apiv2/default/nba/nba_2_k.png",
+    "manager_id": "kenny",
+    "manager_name": "kenny",
+    "owned_picks": [
+      {
+        "current_franchise_id": "legendary",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "legendary",
+        "overall_pick": "3",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P3",
+        "pick_number": "3",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "legendary",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "legendary",
+        "overall_pick": "23",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P3",
+        "pick_number": "3",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P3",
+      "2026-R2-P3"
+    ],
+    "platform_team_id": "466.l.7100.t.13",
+    "playoff_seed": null,
+    "rank": 15,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.10282",
+        "player_name": "Isaiah Collier",
+        "position": "PG",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5602",
+        "player_name": "Jaylen Brown",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5727",
+        "player_name": "Fred VanVleet",
+        "position": "G",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5840",
+        "player_name": "Kyle Kuzma",
+        "position": "SF",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5073",
+        "player_name": "Khris Middleton",
+        "position": "PF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6174",
+        "player_name": "P.J. Washington",
+        "position": "F",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5663",
+        "player_name": "Ivica Zubac",
+        "position": "C",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10289",
+        "player_name": "Yves Missi",
+        "position": "Util",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5350",
+        "player_name": "Jerami Grant",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6023",
+        "player_name": "Miles Bridges",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5069",
+        "player_name": "Draymond Green",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.4472",
+        "player_name": "Brook Lopez",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6167",
+        "player_name": "Darius Garland",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5433",
+        "player_name": "D'Angelo Russell",
+        "position": "BN",
+        "status": "Injured"
+      }
+    ],
+    "roster_count": 14,
+    "slug": "legendary",
+    "submitted_at": "",
+    "team_name": "Legendary 🤩",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "94-77-0",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "motorcade_scooter",
+    "historical_team_names": [
+      "MotorCade Scooter 🏍️ 🛵💨"
+    ],
+    "history": {
+      "best_playoff_finish": null,
+      "category_losses": 258,
+      "category_record": "236-258-10",
+      "category_ties": 10,
+      "category_win_pct": 0.4782,
+      "category_wins": 236,
+      "championships": 0,
+      "deepest_round_reached": "quarterfinal",
+      "finals_appearances": 0,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 0,
+      "finals_wins_round": 0,
+      "franchise_display_name": "MotorCade Scooter 🏍️ 🛵💨",
+      "franchise_slug": "motorcade_scooter",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 0.0,
+      "playoff_appearances": 1,
+      "playoff_matchup_losses": 1,
+      "playoff_matchup_record": "0-1-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.0,
+      "playoff_matchup_wins": 0,
+      "quarterfinal_appearances": 1,
+      "quarterfinal_losses": 1,
+      "quarterfinal_wins": 0,
+      "regular_season_matchup_losses": 31,
+      "regular_season_matchup_record": "23-31-2",
+      "regular_season_matchup_ties": 2,
+      "regular_season_matchup_win_pct": 0.4286,
+      "regular_season_matchup_wins": 23,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 0,
+      "semifinal_losses": 0,
+      "semifinal_wins": 0,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 34,
+      "total_matchup_record": "23-34-2",
+      "total_matchup_ties": 2,
+      "total_matchup_win_pct": 0.4068,
+      "total_matchup_wins": 23
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/3006391f4530cc2905d9032dc113581df5fa081b2c1c8febdf4ea07c8e2fb3a1.jpg",
+    "manager_id": "dane",
+    "manager_name": "Dane",
+    "owned_picks": [
+      {
+        "current_franchise_id": "motorcade_scooter",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "motorcade_scooter",
+        "overall_pick": "14",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P14",
+        "pick_number": "14",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "motorcade_scooter",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "motorcade_scooter",
+        "overall_pick": "34",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P14",
+        "pick_number": "14",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P14",
+      "2026-R2-P14"
+    ],
+    "platform_team_id": "466.l.7100.t.14",
+    "playoff_seed": 7,
+    "rank": 8,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.5638",
+        "player_name": "Jamal Murray",
+        "position": "PG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10470",
+        "player_name": "Kobe Sanders",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10048",
+        "player_name": "Scoot Henderson",
+        "position": "G",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10280",
+        "player_name": "Terrence Shannon Jr.",
+        "position": "SF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10103",
+        "player_name": "Jarace Walker",
+        "position": "PF",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10315",
+        "player_name": "Kyle Filipowski",
+        "position": "F",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6018",
+        "player_name": "Wendell Carter Jr.",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10511",
+        "player_name": "Ryan Nembhard",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10448",
+        "player_name": "Tre Johnson",
+        "position": "Util",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10335",
+        "player_name": "Adem Bona",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6512",
+        "player_name": "Cade Cunningham",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10263",
+        "player_name": "Ronald Holland II",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10116",
+        "player_name": "Olivier-Maxence Prosper",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6725",
+        "player_name": "Max Christie",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5824",
+        "player_name": "Malik Monk",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6705",
+        "player_name": "Mark Williams",
+        "position": "IL+",
+        "status": "Questionable"
+      },
+      {
+        "player_id": "466.p.6578",
+        "player_name": "Miles McBride",
+        "position": "IL+",
+        "status": "Available"
+      }
+    ],
+    "roster_count": 17,
+    "slug": "motorcade-scooter",
+    "submitted_at": "",
+    "team_name": "MotorCade Scooter 🏍️ 🛵💨",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "105-65-1",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "speedsters",
+    "historical_team_names": [
+      "Speedsters"
+    ],
+    "history": {
+      "best_playoff_finish": 1,
+      "category_losses": 189,
+      "category_record": "312-189-3",
+      "category_ties": 3,
+      "category_win_pct": 0.622,
+      "category_wins": 312,
+      "championships": 1,
+      "deepest_round_reached": "final",
+      "finals_appearances": 2,
+      "finals_conversion_rate": 0.5,
+      "finals_losses_round": 1,
+      "finals_round_appearances": 2,
+      "finals_wins_round": 1,
+      "franchise_display_name": "Speedsters",
+      "franchise_slug": "speedsters",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 11.0,
+      "playoff_appearances": 3,
+      "playoff_matchup_losses": 2,
+      "playoff_matchup_record": "6-2-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.75,
+      "playoff_matchup_wins": 6,
+      "quarterfinal_appearances": 3,
+      "quarterfinal_losses": 0,
+      "quarterfinal_wins": 3,
+      "regular_season_matchup_losses": 13,
+      "regular_season_matchup_record": "42-13-1",
+      "regular_season_matchup_ties": 1,
+      "regular_season_matchup_win_pct": 0.7589,
+      "regular_season_matchup_wins": 42,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 3,
+      "semifinal_losses": 1,
+      "semifinal_wins": 2,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.3333,
+      "top_regular_season_seeds": 1,
+      "total_matchup_losses": 15,
+      "total_matchup_record": "49-15-1",
+      "total_matchup_ties": 1,
+      "total_matchup_win_pct": 0.7615,
+      "total_matchup_wins": 49
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/d7cfae7034e934d20cb49223b4a34606416ee97f2e1eb2ea19e60cd24b021eb1.jpg",
+    "manager_id": "jim",
+    "manager_name": "Jim",
+    "owned_picks": [
+      {
+        "current_franchise_id": "speedsters",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "speedsters",
+        "overall_pick": "19",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P19",
+        "pick_number": "19",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "speedsters",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "speedsters",
+        "overall_pick": "39",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P19",
+        "pick_number": "19",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P19",
+      "2026-R2-P19"
+    ],
+    "platform_team_id": "466.l.7100.t.15",
+    "playoff_seed": 3,
+    "rank": 3,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.6616",
+        "player_name": "Jordan Goodwin",
+        "position": "PG",
+        "status": "Questionable"
+      },
+      {
+        "player_id": "466.p.6734",
+        "player_name": "Ryan Rollins",
+        "position": "SG",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5601",
+        "player_name": "Brandon Ingram",
+        "position": "G",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6786",
+        "player_name": "Daeqwon Plowden",
+        "position": "SF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5827",
+        "player_name": "Bam Adebayo",
+        "position": "PF",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5765",
+        "player_name": "Jayson Tatum",
+        "position": "F",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10510",
+        "player_name": "Dylan Cardwell",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6418",
+        "player_name": "Payton Pritchard",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10459",
+        "player_name": "Hugo González",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6559",
+        "player_name": "Trey Murphy III",
+        "position": "Util",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6255",
+        "player_name": "John Konchar",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6205",
+        "player_name": "Nickeil Alexander-Walker",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6403",
+        "player_name": "Devin Vassell",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6679",
+        "player_name": "Brandon Williams",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5475",
+        "player_name": "Kelly Oubre Jr.",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6057",
+        "player_name": "De'Anthony Melton",
+        "position": "IL+",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6398",
+        "player_name": "Onyeka Okongwu",
+        "position": "IL+",
+        "status": "Available"
+      }
+    ],
+    "roster_count": 17,
+    "slug": "speedsters",
+    "submitted_at": "",
+    "team_name": "Speedsters",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "87-82-2",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "spike_lee_s_diary",
+    "historical_team_names": [
+      "Spike Lee's Diary"
+    ],
+    "history": {
+      "best_playoff_finish": null,
+      "category_losses": 235,
+      "category_record": "262-235-7",
+      "category_ties": 7,
+      "category_win_pct": 0.5268,
+      "category_wins": 262,
+      "championships": 0,
+      "deepest_round_reached": "quarterfinal",
+      "finals_appearances": 0,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 0,
+      "finals_wins_round": 0,
+      "franchise_display_name": "Spike Lee's Diary",
+      "franchise_slug": "spike_lee_s_diary",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 0.0,
+      "playoff_appearances": 1,
+      "playoff_matchup_losses": 1,
+      "playoff_matchup_record": "0-1-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.0,
+      "playoff_matchup_wins": 0,
+      "quarterfinal_appearances": 1,
+      "quarterfinal_losses": 1,
+      "quarterfinal_wins": 0,
+      "regular_season_matchup_losses": 20,
+      "regular_season_matchup_record": "34-20-2",
+      "regular_season_matchup_ties": 2,
+      "regular_season_matchup_win_pct": 0.625,
+      "regular_season_matchup_wins": 34,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 0,
+      "semifinal_losses": 0,
+      "semifinal_wins": 0,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 23,
+      "total_matchup_record": "34-23-2",
+      "total_matchup_ties": 2,
+      "total_matchup_win_pct": 0.5932,
+      "total_matchup_wins": 34
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/9a7554535997dc6bbfde9f4253016a9b20909ebdb7efccca841f5bb935354d38.jpg",
+    "manager_id": "knickstape",
+    "manager_name": "KnicksTape",
+    "owned_picks": [
+      {
+        "current_franchise_id": "spike_lee_s_diary",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "spike_lee_s_diary",
+        "overall_pick": "4",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P4",
+        "pick_number": "4",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "spike_lee_s_diary",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "spike_lee_s_diary",
+        "overall_pick": "24",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P4",
+        "pick_number": "4",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P4",
+      "2026-R2-P4"
+    ],
+    "platform_team_id": "466.l.7100.t.16",
+    "playoff_seed": null,
+    "rank": 12,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.6417",
+        "player_name": "Immanuel Quickley",
+        "position": "PG",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6567",
+        "player_name": "Quentin Grimes",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6696",
+        "player_name": "Bennedict Mathurin",
+        "position": "G",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10113",
+        "player_name": "Ben Sheppard",
+        "position": "SF",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5432",
+        "player_name": "Karl-Anthony Towns",
+        "position": "PF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10466",
+        "player_name": "Carter Bryant",
+        "position": "F",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6604",
+        "player_name": "Trendon Watford",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5835",
+        "player_name": "Jarrett Allen",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6044",
+        "player_name": "Jalen Brunson",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6580",
+        "player_name": "Ayo Dosunmu",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5747",
+        "player_name": "Derrick Jones Jr.",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6562",
+        "player_name": "Jalen Johnson",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6433",
+        "player_name": "Tre Jones",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6434",
+        "player_name": "Nick Richards",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5009",
+        "player_name": "Bradley Beal",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6552",
+        "player_name": "Ziaire Williams",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6753",
+        "player_name": "Keon Ellis",
+        "position": "IL+",
+        "status": "Available"
+      }
+    ],
+    "roster_count": 17,
+    "slug": "spike-lee-s-diary",
+    "submitted_at": "",
+    "team_name": "Spike Lee's Diary",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "79-91-1",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "steveblake_express",
+    "historical_team_names": [
+      "SteveBlake Express"
+    ],
+    "history": {
+      "best_playoff_finish": null,
+      "category_losses": 246,
+      "category_record": "249-246-9",
+      "category_ties": 9,
+      "category_win_pct": 0.503,
+      "category_wins": 249,
+      "championships": 0,
+      "deepest_round_reached": "none",
+      "finals_appearances": 0,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 0,
+      "finals_wins_round": 0,
+      "franchise_display_name": "SteveBlake Express",
+      "franchise_slug": "steveblake_express",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 0.0,
+      "playoff_appearances": 0,
+      "playoff_matchup_losses": 0,
+      "playoff_matchup_record": "0-0-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.0,
+      "playoff_matchup_wins": 0,
+      "quarterfinal_appearances": 0,
+      "quarterfinal_losses": 0,
+      "quarterfinal_wins": 0,
+      "regular_season_matchup_losses": 33,
+      "regular_season_matchup_record": "23-33-0",
+      "regular_season_matchup_ties": 0,
+      "regular_season_matchup_win_pct": 0.4107,
+      "regular_season_matchup_wins": 23,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 0,
+      "semifinal_losses": 0,
+      "semifinal_wins": 0,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 33,
+      "total_matchup_record": "23-33-0",
+      "total_matchup_ties": 0,
+      "total_matchup_win_pct": 0.4107,
+      "total_matchup_wins": 23
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24950113769_3fed683844.jpg",
+    "manager_id": "prasana",
+    "manager_name": "Prasana",
+    "owned_picks": [
+      {
+        "current_franchise_id": "steveblake_express",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "steveblake_express",
+        "overall_pick": "8",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P8",
+        "pick_number": "8",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "steveblake_express",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "steveblake_express",
+        "overall_pick": "28",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P8",
+        "pick_number": "8",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P8",
+      "2026-R2-P8"
+    ],
+    "platform_team_id": "466.l.7100.t.17",
+    "playoff_seed": null,
+    "rank": 14,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.4246",
+        "player_name": "Mike Conley",
+        "position": "PG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6208",
+        "player_name": "Matisse Thybulle",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5754",
+        "player_name": "Alex Caruso",
+        "position": "G",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6737",
+        "player_name": "Vince Williams Jr.",
+        "position": "SF",
+        "status": "NotAvailable"
+      },
+      {
+        "player_id": "466.p.6052",
+        "player_name": "Jarred Vanderbilt",
+        "position": "PF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6269",
+        "player_name": "Javonte Green",
+        "position": "F",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6038",
+        "player_name": "Robert Williams III",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5903",
+        "player_name": "Luke Kornet",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6751",
+        "player_name": "Collin Gillespie",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5856",
+        "player_name": "Isaiah Hartenstein",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5768",
+        "player_name": "Jonathan Isaac",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6652",
+        "player_name": "Dru Smith",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5842",
+        "player_name": "Derrick White",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6219",
+        "player_name": "Nic Claxton",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6577",
+        "player_name": "Herbert Jones",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5007",
+        "player_name": "Anthony Davis",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6015",
+        "player_name": "Jaren Jackson Jr.",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10294",
+        "player_name": "Alex Sarr",
+        "position": "IL+",
+        "status": "Injured"
+      }
+    ],
+    "roster_count": 18,
+    "slug": "steveblake-express",
+    "submitted_at": "",
+    "team_name": "SteveBlake Express",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "108-63-0",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "sub_0_j",
+    "historical_team_names": [
+      "Sub-0 J"
+    ],
+    "history": {
+      "best_playoff_finish": 2,
+      "category_losses": 181,
+      "category_record": "318-181-5",
+      "category_ties": 5,
+      "category_win_pct": 0.6359,
+      "category_wins": 318,
+      "championships": 0,
+      "deepest_round_reached": "final",
+      "finals_appearances": 1,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 1,
+      "finals_round_appearances": 1,
+      "finals_wins_round": 0,
+      "franchise_display_name": "Sub-0 J",
+      "franchise_slug": "sub_0_j",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 4.0,
+      "playoff_appearances": 3,
+      "playoff_matchup_losses": 3,
+      "playoff_matchup_record": "3-3-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.5,
+      "playoff_matchup_wins": 3,
+      "quarterfinal_appearances": 3,
+      "quarterfinal_losses": 1,
+      "quarterfinal_wins": 2,
+      "regular_season_matchup_losses": 9,
+      "regular_season_matchup_record": "47-9-0",
+      "regular_season_matchup_ties": 0,
+      "regular_season_matchup_win_pct": 0.8393,
+      "regular_season_matchup_wins": 47,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 2,
+      "semifinal_losses": 1,
+      "semifinal_wins": 1,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 2,
+      "total_matchup_losses": 13,
+      "total_matchup_record": "52-13-0",
+      "total_matchup_ties": 0,
+      "total_matchup_win_pct": 0.8,
+      "total_matchup_wins": 52
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/93ab21e80bfefa43829f0d9f1da8581209ba5fefb81f8253874d0259006aea72.png",
+    "manager_id": "killa",
+    "manager_name": "Killa",
+    "owned_picks": [
+      {
+        "current_franchise_id": "sub_0_j",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "sub_0_j",
+        "overall_pick": "15",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P15",
+        "pick_number": "15",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "sub_0_j",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "sub_0_j",
+        "overall_pick": "35",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P15",
+        "pick_number": "15",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P15",
+      "2026-R2-P15"
+    ],
+    "platform_team_id": "466.l.7100.t.1",
+    "playoff_seed": 1,
+    "rank": 7,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.6721",
+        "player_name": "Andrew Nembhard",
+        "position": "PG",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10469",
+        "player_name": "Nique Clifford",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10458",
+        "player_name": "Ben Saraf",
+        "position": "G",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.4896",
+        "player_name": "Kawhi Leonard",
+        "position": "SF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10092",
+        "player_name": "Jaime Jaquez Jr.",
+        "position": "PF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6441",
+        "player_name": "Isaiah Joe",
+        "position": "F",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10444",
+        "player_name": "Derik Queen",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5636",
+        "player_name": "Kris Dunn",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10099",
+        "player_name": "Bilal Coulibaly",
+        "position": "Util",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10544",
+        "player_name": "LJ Cryer",
+        "position": "Util",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6019",
+        "player_name": "Collin Sexton",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5825",
+        "player_name": "Luke Kennard",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6216",
+        "player_name": "Jordan Poole",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5855",
+        "player_name": "Thomas Bryant",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6720",
+        "player_name": "Peyton Watson",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.5012",
+        "player_name": "Damian Lillard",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6413",
+        "player_name": "Tyrese Maxey",
+        "position": "IL+",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6355",
+        "player_name": "Anthony Edwards",
+        "position": "IL+",
+        "status": "Available"
+      }
+    ],
+    "roster_count": 18,
+    "slug": "sub-0-j",
+    "submitted_at": "",
+    "team_name": "Sub-0 J",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "98-71-2",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "syracuse_nationals",
+    "historical_team_names": [
+      "Syracuse nationals"
+    ],
+    "history": {
+      "best_playoff_finish": null,
+      "category_losses": 298,
+      "category_record": "200-298-6",
+      "category_ties": 6,
+      "category_win_pct": 0.4028,
+      "category_wins": 200,
+      "championships": 0,
+      "deepest_round_reached": "quarterfinal",
+      "finals_appearances": 0,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 0,
+      "finals_wins_round": 0,
+      "franchise_display_name": "Syracuse nationals",
+      "franchise_slug": "syracuse_nationals",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 0.0,
+      "playoff_appearances": 1,
+      "playoff_matchup_losses": 1,
+      "playoff_matchup_record": "0-1-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.0,
+      "playoff_matchup_wins": 0,
+      "quarterfinal_appearances": 1,
+      "quarterfinal_losses": 1,
+      "quarterfinal_wins": 0,
+      "regular_season_matchup_losses": 39,
+      "regular_season_matchup_record": "17-39-0",
+      "regular_season_matchup_ties": 0,
+      "regular_season_matchup_win_pct": 0.3036,
+      "regular_season_matchup_wins": 17,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 0,
+      "semifinal_losses": 0,
+      "semifinal_wins": 0,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 41,
+      "total_matchup_record": "18-41-0",
+      "total_matchup_ties": 0,
+      "total_matchup_win_pct": 0.3051,
+      "total_matchup_wins": 18
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/45375416351_378ec1.png",
+    "manager_id": "teddy",
+    "manager_name": "teddy",
+    "owned_picks": [
+      {
+        "current_franchise_id": "syracuse_nationals",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "syracuse_nationals",
+        "overall_pick": "16",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P16",
+        "pick_number": "16",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "syracuse_nationals",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "syracuse_nationals",
+        "overall_pick": "36",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P16",
+        "pick_number": "16",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P16",
+      "2026-R2-P16"
+    ],
+    "platform_team_id": "466.l.7100.t.18",
+    "playoff_seed": 6,
+    "rank": 6,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.10288",
+        "player_name": "Reed Sheppard",
+        "position": "PG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10450",
+        "player_name": "Kon Knueppel",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6707",
+        "player_name": "Tari Eason",
+        "position": "G",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10449",
+        "player_name": "Will Riley",
+        "position": "SF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10104",
+        "player_name": "Brandon Miller",
+        "position": "PF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6558",
+        "player_name": "Alperen Sengun",
+        "position": "F",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10285",
+        "player_name": "Donovan Clingan",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6692",
+        "player_name": "Chet Holmgren",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10440",
+        "player_name": "Jeremiah Fears",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10107",
+        "player_name": "Cason Wallace",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10117",
+        "player_name": "Kobe Brown",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5474",
+        "player_name": "Cameron Payne",
+        "position": "BN",
+        "status": "NotAvailable"
+      },
+      {
+        "player_id": "466.p.10296",
+        "player_name": "Zaccharie Risacher",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10283",
+        "player_name": "Cody Williams",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10443",
+        "player_name": "Collin Murray-Boyles",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10340",
+        "player_name": "Jaylen Wells",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10095",
+        "player_name": "Anthony Black",
+        "position": "IL+",
+        "status": "Available"
+      }
+    ],
+    "roster_count": 17,
+    "slug": "syracuse-nationals",
+    "submitted_at": "",
+    "team_name": "Syracuse nationals",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "82-87-2",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "walson_s_wonderful_team",
+    "historical_team_names": [
+      "Walson's Wonderful Team"
+    ],
+    "history": {
+      "best_playoff_finish": null,
+      "category_losses": 254,
+      "category_record": "244-254-6",
+      "category_ties": 6,
+      "category_win_pct": 0.4901,
+      "category_wins": 244,
+      "championships": 0,
+      "deepest_round_reached": "none",
+      "finals_appearances": 0,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 0,
+      "finals_round_appearances": 0,
+      "finals_wins_round": 0,
+      "franchise_display_name": "Walson's Wonderful Team",
+      "franchise_slug": "walson_s_wonderful_team",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 0.0,
+      "playoff_appearances": 0,
+      "playoff_matchup_losses": 0,
+      "playoff_matchup_record": "0-0-0",
+      "playoff_matchup_ties": 0,
+      "playoff_matchup_win_pct": 0.0,
+      "playoff_matchup_wins": 0,
+      "quarterfinal_appearances": 0,
+      "quarterfinal_losses": 0,
+      "quarterfinal_wins": 0,
+      "regular_season_matchup_losses": 25,
+      "regular_season_matchup_record": "29-25-2",
+      "regular_season_matchup_ties": 2,
+      "regular_season_matchup_win_pct": 0.5357,
+      "regular_season_matchup_wins": 29,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 0,
+      "semifinal_losses": 0,
+      "semifinal_wins": 0,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 25,
+      "total_matchup_record": "29-25-2",
+      "total_matchup_ties": 2,
+      "total_matchup_win_pct": 0.5357,
+      "total_matchup_wins": 29
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://s.yimg.com/cv/apiv2/default/nba/nba_12_w.png",
+    "manager_id": "walson",
+    "manager_name": "Walson",
+    "owned_picks": [
+      {
+        "current_franchise_id": "walson_s_wonderful_team",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "walson_s_wonderful_team",
+        "overall_pick": "9",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P9",
+        "pick_number": "9",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "walson_s_wonderful_team",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "walson_s_wonderful_team",
+        "overall_pick": "29",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P9",
+        "pick_number": "9",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P9",
+      "2026-R2-P9"
+    ],
+    "platform_team_id": "466.l.7100.t.19",
+    "playoff_seed": null,
+    "rank": 13,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.5767",
+        "player_name": "De'Aaron Fox",
+        "position": "PG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10290",
+        "player_name": "Stephon Castle",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10467",
+        "player_name": "Dylan Harper",
+        "position": "G",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10101",
+        "player_name": "Gradey Dick",
+        "position": "SF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6655",
+        "player_name": "Micah Potter",
+        "position": "PF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5318",
+        "player_name": "Julius Randle",
+        "position": "F",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6170",
+        "player_name": "Jaxson Hayes",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10120",
+        "player_name": "Nick Smith Jr.",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6169",
+        "player_name": "Coby White",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6254",
+        "player_name": "Luguentz Dort",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5194",
+        "player_name": "Tim Hardaway Jr.",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5826",
+        "player_name": "Donovan Mitchell",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5357",
+        "player_name": "Jordan Clarkson",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5295",
+        "player_name": "Aaron Gordon",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.4614",
+        "player_name": "DeMar DeRozan",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.4725",
+        "player_name": "Paul George",
+        "position": "IL+",
+        "status": "Available"
+      }
+    ],
+    "roster_count": 16,
+    "slug": "walson-s-wonderful-team",
+    "submitted_at": "",
+    "team_name": "Walson's Wonderful Team",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  },
+  {
+    "category_record": "92-77-2",
+    "commissioner_notes": "",
+    "decision_is_default": true,
+    "decision_is_explicit": false,
+    "decision_status": "not_submitted",
+    "draft_year": 2026,
+    "franchise_id": "wemby_s",
+    "historical_team_names": [
+      "Wemby's"
+    ],
+    "history": {
+      "best_playoff_finish": 2,
+      "category_losses": 282,
+      "category_record": "214-282-8",
+      "category_ties": 8,
+      "category_win_pct": 0.4325,
+      "category_wins": 214,
+      "championships": 0,
+      "deepest_round_reached": "final",
+      "finals_appearances": 1,
+      "finals_conversion_rate": 0.0,
+      "finals_losses_round": 1,
+      "finals_round_appearances": 1,
+      "finals_wins_round": 0,
+      "franchise_display_name": "Wemby's",
+      "franchise_slug": "wemby_s",
+      "manager_status": "unknown",
+      "playoff_advancement_score": 3.0,
+      "playoff_appearances": 1,
+      "playoff_matchup_losses": 0,
+      "playoff_matchup_record": "2-0-1",
+      "playoff_matchup_ties": 1,
+      "playoff_matchup_win_pct": 0.8333,
+      "playoff_matchup_wins": 2,
+      "quarterfinal_appearances": 1,
+      "quarterfinal_losses": 0,
+      "quarterfinal_wins": 1,
+      "regular_season_matchup_losses": 37,
+      "regular_season_matchup_record": "18-37-1",
+      "regular_season_matchup_ties": 1,
+      "regular_season_matchup_win_pct": 0.3304,
+      "regular_season_matchup_wins": 18,
+      "season_count": 3,
+      "seasons": [
+        "2023_24",
+        "2024_25",
+        "2025_26"
+      ],
+      "semifinal_appearances": 1,
+      "semifinal_losses": 0,
+      "semifinal_wins": 1,
+      "third_place_appearances": 0,
+      "third_place_losses": 0,
+      "third_place_wins": 0,
+      "title_conversion_rate": 0.0,
+      "top_regular_season_seeds": 0,
+      "total_matchup_losses": 37,
+      "total_matchup_record": "20-37-2",
+      "total_matchup_ties": 2,
+      "total_matchup_win_pct": 0.3559,
+      "total_matchup_wins": 20
+    },
+    "intended_rookie_selections": 2,
+    "keeper_status": "action_required",
+    "keepers_declared": null,
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/73e0ce0d72dd9e9ce4768be9a1981874f566b2f56d3b8d7548fbad6c673f844f.png",
+    "manager_id": "mitchell",
+    "manager_name": "Mitchell",
+    "owned_picks": [
+      {
+        "current_franchise_id": "wemby_s",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "wemby_s",
+        "overall_pick": "13",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R1-P13",
+        "pick_number": "13",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "inferred_standard_allocation"
+      },
+      {
+        "current_franchise_id": "wemby_s",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "wemby_s",
+        "overall_pick": "33",
+        "ownership_confirmed": "false",
+        "pick_id": "2026-R2-P13",
+        "pick_number": "13",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "inferred_standard_allocation"
+      }
+    ],
+    "picks_skipped": [],
+    "picks_used": [
+      "2026-R1-P13",
+      "2026-R2-P13"
+    ],
+    "platform_team_id": "466.l.7100.t.20",
+    "playoff_seed": 8,
+    "rank": 2,
+    "required_yahoo_keepers": 13,
+    "roster": [
+      {
+        "player_id": "466.p.10455",
+        "player_name": "Nolan Traore",
+        "position": "PG",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10293",
+        "player_name": "Devin Carter",
+        "position": "SG",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6711",
+        "player_name": "Christian Braun",
+        "position": "G",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.5322",
+        "player_name": "Doug McDermott",
+        "position": "SF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10527",
+        "player_name": "Chaney Johnson",
+        "position": "PF",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10559",
+        "player_name": "Julian Reese",
+        "position": "F",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10496",
+        "player_name": "Maxime Raynaud",
+        "position": "C",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10454",
+        "player_name": "VJ Edgecombe",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.6702",
+        "player_name": "Jalen Williams",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10065",
+        "player_name": "Toumani Camara",
+        "position": "Util",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10327",
+        "player_name": "Cam Spencer",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10122",
+        "player_name": "Brice Sensabaugh",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10096",
+        "player_name": "Ausar Thompson",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10094",
+        "player_name": "Victor Wembanyama",
+        "position": "BN",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10070",
+        "player_name": "GG Jackson",
+        "position": "BN",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.10287",
+        "player_name": "Zach Edey",
+        "position": "IL+",
+        "status": "Injured"
+      },
+      {
+        "player_id": "466.p.6697",
+        "player_name": "Shaedon Sharpe",
+        "position": "IL+",
+        "status": "Available"
+      },
+      {
+        "player_id": "466.p.10100",
+        "player_name": "Keyonte George",
+        "position": "IL+",
+        "status": "Injured"
+      }
+    ],
+    "roster_count": 18,
+    "slug": "wemby-s",
+    "submitted_at": "",
+    "team_name": "Wemby's",
+    "total_owned_picks": 2,
+    "usable_owned_picks": 2,
+    "validation_messages": [],
+    "validation_status": "valid"
+  }
+]

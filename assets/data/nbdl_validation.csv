@@ -1,0 +1,61 @@
+severity,status,category,season,team,manager,issue,detail,recommended_fix,blocking
+warning,open,draft_picks,,da_bum_tiss,,Pick ownership is unconfirmed,2026-R1-P1,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,fade_away_2_excellence,,Pick ownership is unconfirmed,2026-R1-P2,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,legendary,,Pick ownership is unconfirmed,2026-R1-P3,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,spike_lee_s_diary,,Pick ownership is unconfirmed,2026-R1-P4,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,da_docta_s_perfect_team,,Pick ownership is unconfirmed,2026-R1-P5,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,gamma_squad,,Pick ownership is unconfirmed,2026-R1-P6,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,guns_buns,,Pick ownership is unconfirmed,2026-R1-P7,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,steveblake_express,,Pick ownership is unconfirmed,2026-R1-P8,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,walson_s_wonderful_team,,Pick ownership is unconfirmed,2026-R1-P9,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,bosh_roid,,Pick ownership is unconfirmed,2026-R1-P10,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,hart_of_new_york,,Pick ownership is unconfirmed,2026-R1-P11,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,ben_s_swag_team,,Pick ownership is unconfirmed,2026-R1-P12,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,wemby_s,,Pick ownership is unconfirmed,2026-R1-P13,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,motorcade_scooter,,Pick ownership is unconfirmed,2026-R1-P14,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,sub_0_j,,Pick ownership is unconfirmed,2026-R1-P15,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,syracuse_nationals,,Pick ownership is unconfirmed,2026-R1-P16,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,himmy_butlers,,Pick ownership is unconfirmed,2026-R1-P17,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,girth_god,,Pick ownership is unconfirmed,2026-R1-P18,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,speedsters,,Pick ownership is unconfirmed,2026-R1-P19,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,31_savage,,Pick ownership is unconfirmed,2026-R1-P20,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,da_bum_tiss,,Pick ownership is unconfirmed,2026-R2-P1,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,fade_away_2_excellence,,Pick ownership is unconfirmed,2026-R2-P2,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,legendary,,Pick ownership is unconfirmed,2026-R2-P3,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,spike_lee_s_diary,,Pick ownership is unconfirmed,2026-R2-P4,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,da_docta_s_perfect_team,,Pick ownership is unconfirmed,2026-R2-P5,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,gamma_squad,,Pick ownership is unconfirmed,2026-R2-P6,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,guns_buns,,Pick ownership is unconfirmed,2026-R2-P7,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,steveblake_express,,Pick ownership is unconfirmed,2026-R2-P8,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,walson_s_wonderful_team,,Pick ownership is unconfirmed,2026-R2-P9,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,bosh_roid,,Pick ownership is unconfirmed,2026-R2-P10,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,hart_of_new_york,,Pick ownership is unconfirmed,2026-R2-P11,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,ben_s_swag_team,,Pick ownership is unconfirmed,2026-R2-P12,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,wemby_s,,Pick ownership is unconfirmed,2026-R2-P13,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,motorcade_scooter,,Pick ownership is unconfirmed,2026-R2-P14,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,sub_0_j,,Pick ownership is unconfirmed,2026-R2-P15,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,syracuse_nationals,,Pick ownership is unconfirmed,2026-R2-P16,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,himmy_butlers,,Pick ownership is unconfirmed,2026-R2-P17,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,girth_god,,Pick ownership is unconfirmed,2026-R2-P18,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,speedsters,,Pick ownership is unconfirmed,2026-R2-P19,Update the commissioner-maintained input and rebuild.,False
+warning,open,draft_picks,,31_savage,,Pick ownership is unconfirmed,2026-R2-P20,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,31 Savage,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Ben's Swag Team,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Bosh Roid,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Da Bum Tiss,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Da Docta's Perfect Team,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Fade Away 2 Excellence,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Gamma Squad,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Girth God,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Guns & Buns,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Hart of New York,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Himmy Butlers,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Legendary 🤩,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,MotorCade Scooter 🏍️ 🛵💨,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Speedsters,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Spike Lee's Diary,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,SteveBlake Express,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Sub-0 J,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Syracuse nationals,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Walson's Wonderful Team,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False
+warning,open,keeper_requirements,,Wemby's,,Manager decision is missing,Current calculation is an inferred default.,Update the commissioner-maintained input and rebuild.,False

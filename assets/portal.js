@@ -1,0 +1,3 @@
+
+document.querySelectorAll('th[data-sort]').forEach(function(th){th.addEventListener('click',function(){var table=th.closest('table'),body=table.tBodies[0],i=Array.from(th.parentNode.children).indexOf(th),rows=Array.from(body.rows),asc=th.dataset.dir!=='asc';rows.sort(function(a,b){return a.cells[i].innerText.localeCompare(b.cells[i].innerText,undefined,{numeric:true})*(asc?1:-1)});rows.forEach(function(r){body.appendChild(r)});th.dataset.dir=asc?'asc':'desc'})});
+document.querySelectorAll('[data-filter]').forEach(function(input){input.addEventListener('input',function(){var target=document.querySelector(input.dataset.filter),q=input.value.toLowerCase();target.querySelectorAll('tbody tr').forEach(function(row){row.hidden=row.innerText.toLowerCase().indexOf(q)<0})})});

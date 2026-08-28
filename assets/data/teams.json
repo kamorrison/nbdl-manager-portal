@@ -1,0 +1,322 @@
+[
+  {
+    "category_record": "105-64-2",
+    "franchise_id": "31_savage",
+    "historical_team_names": [
+      "31 Savage"
+    ],
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/01bcf6e0b2a25d826be6d5b6facf9b870526d918c4c5de9fb35464aa4ffc2781.jpg",
+    "manager_id": "derrick",
+    "manager_name": "Derrick",
+    "platform_team_id": "466.l.7100.t.2",
+    "playoff_seed": 2,
+    "rank": 1,
+    "roster_count": 18,
+    "slug": "31-savage",
+    "team_name": "31 Savage"
+  },
+  {
+    "category_record": "90-79-2",
+    "franchise_id": "ben_s_swag_team",
+    "historical_team_names": [
+      "Ben's Swag Team"
+    ],
+    "logo_url": "https://s.yimg.com/cv/apiv2/default/nba/nba_10_b.png",
+    "manager_id": "bg",
+    "manager_name": "BG",
+    "platform_team_id": "466.l.7100.t.3",
+    "playoff_seed": null,
+    "rank": 9,
+    "roster_count": 15,
+    "slug": "ben-s-swag-team",
+    "team_name": "Ben's Swag Team"
+  },
+  {
+    "category_record": "88-83-0",
+    "franchise_id": "bosh_roid",
+    "historical_team_names": [
+      "Bosh Roid"
+    ],
+    "logo_url": "https://s.yimg.com/cv/apiv2/default/nba/nba_2_r.png",
+    "manager_id": "ross",
+    "manager_name": "ross",
+    "platform_team_id": "466.l.7100.t.7",
+    "playoff_seed": null,
+    "rank": 11,
+    "roster_count": 18,
+    "slug": "bosh-roid",
+    "team_name": "Bosh Roid"
+  },
+  {
+    "category_record": "55-116-0",
+    "franchise_id": "da_bum_tiss",
+    "historical_team_names": [
+      "Da Bum Tiss"
+    ],
+    "logo_url": "https://s.yimg.com/cv/apiv2/default/nba/nba_1.png",
+    "manager_id": "rohan",
+    "manager_name": "Rohan",
+    "platform_team_id": "466.l.7100.t.4",
+    "playoff_seed": null,
+    "rank": 20,
+    "roster_count": 18,
+    "slug": "da-bum-tiss",
+    "team_name": "Da Bum Tiss"
+  },
+  {
+    "category_record": "58-111-2",
+    "franchise_id": "da_docta_s_perfect_team",
+    "historical_team_names": [
+      "Da Docta's Perfect Team"
+    ],
+    "logo_url": "https://s.yimg.com/cv/apiv2/default/nba/nba_5_d.png",
+    "manager_id": "da_docta",
+    "manager_name": "Da Docta",
+    "platform_team_id": "466.l.7100.t.5",
+    "playoff_seed": null,
+    "rank": 19,
+    "roster_count": 15,
+    "slug": "da-docta-s-perfect-team",
+    "team_name": "Da Docta's Perfect Team"
+  },
+  {
+    "category_record": "64-106-1",
+    "franchise_id": "fade_away_2_excellence",
+    "historical_team_names": [
+      "Fade Away 2 Excellence"
+    ],
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/12ced0715b962aabc20aaac0c134535556757e70685ea13b6e5e6705d3fcd45a.jpg",
+    "manager_id": "karl",
+    "manager_name": "Karl",
+    "platform_team_id": "466.l.7100.t.12",
+    "playoff_seed": null,
+    "rank": 17,
+    "roster_count": 16,
+    "slug": "fade-away-2-excellence",
+    "team_name": "Fade Away 2 Excellence"
+  },
+  {
+    "category_record": "58-111-2",
+    "franchise_id": "gamma_squad",
+    "historical_team_names": [
+      "Gamma Squad"
+    ],
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/0a1c294dbc2c71011ee0a723a00ee91aae79392ca7f0e6f61465058076abd047.png",
+    "manager_id": "kurt",
+    "manager_name": "Kurt",
+    "platform_team_id": "466.l.7100.t.6",
+    "playoff_seed": null,
+    "rank": 18,
+    "roster_count": 17,
+    "slug": "gamma-squad",
+    "team_name": "Gamma Squad"
+  },
+  {
+    "category_record": "102-67-2",
+    "franchise_id": "girth_god",
+    "historical_team_names": [
+      "Girth God"
+    ],
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/97e5ba02e5eff2ca1c285814f7ca647d20ad6d06b0bfd8ddae11dd61b66e3338.jpg",
+    "manager_id": "luis",
+    "manager_name": "Luis",
+    "platform_team_id": "466.l.7100.t.8",
+    "playoff_seed": 5,
+    "rank": 4,
+    "roster_count": 17,
+    "slug": "girth-god",
+    "team_name": "Girth God"
+  },
+  {
+    "category_record": "66-105-0",
+    "franchise_id": "guns_buns",
+    "historical_team_names": [
+      "Guns & Buns"
+    ],
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/159bb4e0082e0af4b981cac5176d345b29106968ebd226264e7e99ca87b0785a.jpg",
+    "manager_id": "rick",
+    "manager_name": "Rick",
+    "platform_team_id": "466.l.7100.t.9",
+    "playoff_seed": null,
+    "rank": 16,
+    "roster_count": 17,
+    "slug": "guns-buns",
+    "team_name": "Guns & Buns"
+  },
+  {
+    "category_record": "90-80-1",
+    "franchise_id": "hart_of_new_york",
+    "historical_team_names": [
+      "Hart of New York"
+    ],
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/a7739bca01f0f668e01a88ad30492e34a759fb2b623dfed487c4b5543257dba8.jpg",
+    "manager_id": "4evrl8",
+    "manager_name": "4EVRL8",
+    "platform_team_id": "466.l.7100.t.10",
+    "playoff_seed": null,
+    "rank": 10,
+    "roster_count": 18,
+    "slug": "hart-of-new-york",
+    "team_name": "Hart of New York"
+  },
+  {
+    "category_record": "104-66-1",
+    "franchise_id": "himmy_butlers",
+    "historical_team_names": [
+      "Himmy Butlers"
+    ],
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/71dbeabb6945c4a00e23172a0d9b6809fd3a6c8cecda9d8edcbccb3a4cffc861.jpg",
+    "manager_id": "kooks",
+    "manager_name": "Kooks",
+    "platform_team_id": "466.l.7100.t.11",
+    "playoff_seed": 4,
+    "rank": 5,
+    "roster_count": 18,
+    "slug": "himmy-butlers",
+    "team_name": "Himmy Butlers"
+  },
+  {
+    "category_record": "72-96-3",
+    "franchise_id": "legendary",
+    "historical_team_names": [
+      "Legendary 🤩"
+    ],
+    "logo_url": "https://s.yimg.com/cv/apiv2/default/nba/nba_2_k.png",
+    "manager_id": "kenny",
+    "manager_name": "kenny",
+    "platform_team_id": "466.l.7100.t.13",
+    "playoff_seed": null,
+    "rank": 15,
+    "roster_count": 14,
+    "slug": "legendary",
+    "team_name": "Legendary 🤩"
+  },
+  {
+    "category_record": "94-77-0",
+    "franchise_id": "motorcade_scooter",
+    "historical_team_names": [
+      "MotorCade Scooter 🏍️ 🛵💨"
+    ],
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/3006391f4530cc2905d9032dc113581df5fa081b2c1c8febdf4ea07c8e2fb3a1.jpg",
+    "manager_id": "dane",
+    "manager_name": "Dane",
+    "platform_team_id": "466.l.7100.t.14",
+    "playoff_seed": 7,
+    "rank": 8,
+    "roster_count": 17,
+    "slug": "motorcade-scooter",
+    "team_name": "MotorCade Scooter 🏍️ 🛵💨"
+  },
+  {
+    "category_record": "105-65-1",
+    "franchise_id": "speedsters",
+    "historical_team_names": [
+      "Speedsters"
+    ],
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/d7cfae7034e934d20cb49223b4a34606416ee97f2e1eb2ea19e60cd24b021eb1.jpg",
+    "manager_id": "jim",
+    "manager_name": "Jim",
+    "platform_team_id": "466.l.7100.t.15",
+    "playoff_seed": 3,
+    "rank": 3,
+    "roster_count": 17,
+    "slug": "speedsters",
+    "team_name": "Speedsters"
+  },
+  {
+    "category_record": "87-82-2",
+    "franchise_id": "spike_lee_s_diary",
+    "historical_team_names": [
+      "Spike Lee's Diary"
+    ],
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/9a7554535997dc6bbfde9f4253016a9b20909ebdb7efccca841f5bb935354d38.jpg",
+    "manager_id": "knickstape",
+    "manager_name": "KnicksTape",
+    "platform_team_id": "466.l.7100.t.16",
+    "playoff_seed": null,
+    "rank": 12,
+    "roster_count": 17,
+    "slug": "spike-lee-s-diary",
+    "team_name": "Spike Lee's Diary"
+  },
+  {
+    "category_record": "79-91-1",
+    "franchise_id": "steveblake_express",
+    "historical_team_names": [
+      "SteveBlake Express"
+    ],
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24950113769_3fed683844.jpg",
+    "manager_id": "prasana",
+    "manager_name": "Prasana",
+    "platform_team_id": "466.l.7100.t.17",
+    "playoff_seed": null,
+    "rank": 14,
+    "roster_count": 18,
+    "slug": "steveblake-express",
+    "team_name": "SteveBlake Express"
+  },
+  {
+    "category_record": "108-63-0",
+    "franchise_id": "sub_0_j",
+    "historical_team_names": [
+      "Sub-0 J"
+    ],
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/93ab21e80bfefa43829f0d9f1da8581209ba5fefb81f8253874d0259006aea72.png",
+    "manager_id": "killa",
+    "manager_name": "Killa",
+    "platform_team_id": "466.l.7100.t.1",
+    "playoff_seed": 1,
+    "rank": 7,
+    "roster_count": 18,
+    "slug": "sub-0-j",
+    "team_name": "Sub-0 J"
+  },
+  {
+    "category_record": "98-71-2",
+    "franchise_id": "syracuse_nationals",
+    "historical_team_names": [
+      "Syracuse nationals"
+    ],
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/45375416351_378ec1.png",
+    "manager_id": "teddy",
+    "manager_name": "teddy",
+    "platform_team_id": "466.l.7100.t.18",
+    "playoff_seed": 6,
+    "rank": 6,
+    "roster_count": 17,
+    "slug": "syracuse-nationals",
+    "team_name": "Syracuse nationals"
+  },
+  {
+    "category_record": "82-87-2",
+    "franchise_id": "walson_s_wonderful_team",
+    "historical_team_names": [
+      "Walson's Wonderful Team"
+    ],
+    "logo_url": "https://s.yimg.com/cv/apiv2/default/nba/nba_12_w.png",
+    "manager_id": "walson",
+    "manager_name": "Walson",
+    "platform_team_id": "466.l.7100.t.19",
+    "playoff_seed": null,
+    "rank": 13,
+    "roster_count": 16,
+    "slug": "walson-s-wonderful-team",
+    "team_name": "Walson's Wonderful Team"
+  },
+  {
+    "category_record": "92-77-2",
+    "franchise_id": "wemby_s",
+    "historical_team_names": [
+      "Wemby's"
+    ],
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/73e0ce0d72dd9e9ce4768be9a1981874f566b2f56d3b8d7548fbad6c673f844f.png",
+    "manager_id": "mitchell",
+    "manager_name": "Mitchell",
+    "platform_team_id": "466.l.7100.t.20",
+    "playoff_seed": 8,
+    "rank": 2,
+    "roster_count": 18,
+    "slug": "wemby-s",
+    "team_name": "Wemby's"
+  }
+]
