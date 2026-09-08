@@ -1,0 +1,21 @@
+{
+  "canonical_trades": 33,
+  "confirmed": 12,
+  "conflicts": 0,
+  "correctly_assigned": 0,
+  "draft_years": [
+    2026,
+    2027
+  ],
+  "duplicate_ownership": 0,
+  "duplicates_merged": 16,
+  "empty_rows_skipped": 30,
+  "expected_picks": 80,
+  "needs_review": 18,
+  "player_mismatches": 13,
+  "probable": 3,
+  "publication_ready": false,
+  "trades_imported": 49,
+  "unknown_historical_franchises": 1,
+  "unresolved": 80
+}

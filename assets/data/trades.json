@@ -1,0 +1,1760 @@
+[
+  {
+    "assets": [
+      {
+        "asset_type": "draft_pick",
+        "draft_year": null,
+        "from_team": "ben_s_swag_team",
+        "original_owner": null,
+        "raw_asset": "Picks 1, 7-1, 10-1, 12-1",
+        "round": null,
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "draft_pick",
+        "draft_year": null,
+        "from_team": "himmy_butlers",
+        "original_owner": null,
+        "raw_asset": "Picks 1-4, 2-17, 5-4, 15-17",
+        "round": null,
+        "to_team": "ben_s_swag_team"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2023-07-10",
+    "external_trade_id": "1",
+    "notes": "",
+    "problems": [
+      "Could not determine draft_year of Picks 1, 7-1, 10-1, 12-1",
+      "Could not determine round of Picks 1, 7-1, 10-1, 12-1",
+      "Could not determine original_owner of Picks 1, 7-1, 10-1, 12-1",
+      "Could not determine draft_year of Picks 1-4, 2-17, 5-4, 15-17",
+      "Could not determine round of Picks 1-4, 2-17, 5-4, 15-17",
+      "Could not determine original_owner of Picks 1-4, 2-17, 5-4, 15-17"
+    ],
+    "season": "2023-24",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-2"
+      }
+    ],
+    "teams": [
+      "ben_s_swag_team",
+      "himmy_butlers"
+    ],
+    "trade_id": "trade_13ca55373aa003bc"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "draft_pick",
+        "draft_year": null,
+        "from_team": null,
+        "original_owner": null,
+        "raw_asset": "Picks 8, 133",
+        "round": null,
+        "to_team": "speedsters"
+      },
+      {
+        "asset_type": "draft_pick",
+        "draft_year": null,
+        "from_team": null,
+        "original_owner": null,
+        "raw_asset": "Picks 9, 33, 53, 68",
+        "round": null,
+        "to_team": "syracuse_nationals"
+      },
+      {
+        "asset_type": "draft_pick",
+        "draft_year": null,
+        "from_team": null,
+        "original_owner": null,
+        "raw_asset": "Picks 5, 36,56, 92, 136",
+        "round": null,
+        "to_team": "wemby_s"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2023-07-18",
+    "external_trade_id": "2",
+    "notes": "",
+    "problems": [
+      "Unidentified franchise or asset sender",
+      "Could not determine draft_year of Picks 8, 133",
+      "Could not determine round of Picks 8, 133",
+      "Could not determine original_owner of Picks 8, 133",
+      "Unidentified franchise or asset sender",
+      "Could not determine draft_year of Picks 9, 33, 53, 68",
+      "Could not determine round of Picks 9, 33, 53, 68",
+      "Could not determine original_owner of Picks 9, 33, 53, 68",
+      "Unidentified franchise or asset sender",
+      "Could not determine draft_year of Picks 5, 36,56, 92, 136",
+      "Could not determine round of Picks 5, 36,56, 92, 136",
+      "Could not determine original_owner of Picks 5, 36,56, 92, 136",
+      "Multi-team receipt table omits explicit senders; do not infer direction"
+    ],
+    "season": "2023-24",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-3"
+      }
+    ],
+    "teams": [
+      "speedsters",
+      "syracuse_nationals",
+      "wemby_s"
+    ],
+    "trade_id": "trade_5e4fe1e2b445c1dd"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "draft_pick",
+        "draft_year": null,
+        "from_team": "fade_away_2_excellence",
+        "original_owner": null,
+        "raw_asset": "Picks 126, 155",
+        "round": null,
+        "to_team": "wemby_s"
+      },
+      {
+        "asset_type": "draft_pick",
+        "draft_year": null,
+        "from_team": "wemby_s",
+        "original_owner": null,
+        "raw_asset": "Picks 108, 173",
+        "round": null,
+        "to_team": "fade_away_2_excellence"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2023-07-24",
+    "external_trade_id": "3",
+    "notes": "",
+    "problems": [
+      "Could not determine draft_year of Picks 126, 155",
+      "Could not determine round of Picks 126, 155",
+      "Could not determine original_owner of Picks 126, 155",
+      "Could not determine draft_year of Picks 108, 173",
+      "Could not determine round of Picks 108, 173",
+      "Could not determine original_owner of Picks 108, 173"
+    ],
+    "season": "2023-24",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-4"
+      }
+    ],
+    "teams": [
+      "fade_away_2_excellence",
+      "wemby_s"
+    ],
+    "trade_id": "trade_006e0123e2cabb84"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "draft_pick",
+        "draft_year": null,
+        "from_team": "spike_lee_s_diary",
+        "original_owner": null,
+        "raw_asset": "Picks 7-15, 9-15",
+        "round": null,
+        "to_team": "da_bum_tiss"
+      },
+      {
+        "asset_type": "draft_pick",
+        "draft_year": null,
+        "from_team": "da_bum_tiss",
+        "original_owner": null,
+        "raw_asset": "Picks 6-12, 12-12",
+        "round": null,
+        "to_team": "spike_lee_s_diary"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2023-07-24",
+    "external_trade_id": "4",
+    "notes": "",
+    "problems": [
+      "Could not determine draft_year of Picks 7-15, 9-15",
+      "Could not determine round of Picks 7-15, 9-15",
+      "Could not determine original_owner of Picks 7-15, 9-15",
+      "Could not determine draft_year of Picks 6-12, 12-12",
+      "Could not determine round of Picks 6-12, 12-12",
+      "Could not determine original_owner of Picks 6-12, 12-12"
+    ],
+    "season": "2023-24",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-5"
+      }
+    ],
+    "teams": [
+      "da_bum_tiss",
+      "spike_lee_s_diary"
+    ],
+    "trade_id": "trade_a3da0e7e402b5069"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "draft_pick",
+        "draft_year": 2024,
+        "from_team": "bosh_roid",
+        "original_owner": null,
+        "raw_asset": "2024 1st",
+        "round": 1,
+        "to_team": "syracuse_nationals"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "bosh_roid",
+        "player_id": null,
+        "player_name": "11-?",
+        "raw_asset": "11-?",
+        "to_team": "syracuse_nationals"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "syracuse_nationals",
+        "player_id": "5349",
+        "player_name": "Spencer Dinwiddie",
+        "raw_asset": "Spencer Dinwiddie",
+        "to_team": "bosh_roid"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2023-07-25",
+    "external_trade_id": "6",
+    "notes": "",
+    "problems": [
+      "Could not determine original_owner of 2024 1st",
+      "Unrecognized player/other asset: 11-?"
+    ],
+    "season": "2023-24",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-7"
+      }
+    ],
+    "teams": [
+      "bosh_roid",
+      "syracuse_nationals"
+    ],
+    "trade_id": "trade_733ae29a20f08495"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "draft_pick",
+        "draft_year": 2024,
+        "from_team": "himmy_butlers",
+        "original_owner": null,
+        "raw_asset": "Picks 11-17, 2024 1st",
+        "round": 1,
+        "to_team": "syracuse_nationals"
+      },
+      {
+        "asset_type": "draft_pick",
+        "draft_year": null,
+        "from_team": "syracuse_nationals",
+        "original_owner": null,
+        "raw_asset": "Pick 9-8",
+        "round": null,
+        "to_team": "himmy_butlers"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2023-07-25",
+    "external_trade_id": "5",
+    "notes": "",
+    "problems": [
+      "Could not determine original_owner of Picks 11-17, 2024 1st",
+      "Could not determine draft_year of Pick 9-8",
+      "Could not determine round of Pick 9-8",
+      "Could not determine original_owner of Pick 9-8"
+    ],
+    "season": "2023-24",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-6"
+      }
+    ],
+    "teams": [
+      "himmy_butlers",
+      "syracuse_nationals"
+    ],
+    "trade_id": "trade_c4c0a41341ae1712"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "5958",
+        "player_name": "Deandre Ayton",
+        "raw_asset": "Deandre Ayton",
+        "to_team": "spike_lee_s_diary"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "5484",
+        "player_name": "Tyus Jones",
+        "raw_asset": "Tyus Jones",
+        "to_team": "spike_lee_s_diary"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "6028",
+        "player_name": "Donte DiVincenzo",
+        "raw_asset": "Donte DiVincenzo",
+        "to_team": "spike_lee_s_diary"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "spike_lee_s_diary",
+        "player_id": "5835",
+        "player_name": "Jarrett Allen",
+        "raw_asset": "Jarrett Allen",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "spike_lee_s_diary",
+        "player_id": "10107",
+        "player_name": "Cason Wallace",
+        "raw_asset": "Cason Wallace",
+        "to_team": "himmy_butlers"
+      }
+    ],
+    "confidence": "confirmed",
+    "date": "2023-12-29",
+    "external_trade_id": "7",
+    "notes": "",
+    "problems": [],
+    "season": "2023-24",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-8"
+      },
+      {
+        "source": "yahoo",
+        "source_reference": "data/raw/yahoo/nbdl/2023-24/Yahoo-428.l.2296-Transaction.csv#428.l.2296.tr.304"
+      }
+    ],
+    "teams": [
+      "himmy_butlers",
+      "spike_lee_s_diary"
+    ],
+    "trade_id": "trade_2b5fd55bb1cc9f1c"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "bosh_roid",
+        "player_id": "4896",
+        "player_name": "Kawhi Leonard",
+        "raw_asset": "Kawahi Leonard",
+        "to_team": "sub_0_j"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "sub_0_j",
+        "player_id": "10097",
+        "player_name": "Dereck Lively II",
+        "raw_asset": "Derrick Lively",
+        "to_team": "bosh_roid"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "sub_0_j",
+        "player_id": "6173",
+        "player_name": "Cameron Johnson",
+        "raw_asset": "Cameron Johnson",
+        "to_team": "bosh_roid"
+      }
+    ],
+    "confidence": "confirmed",
+    "date": "2024-01-13",
+    "external_trade_id": "8",
+    "notes": "",
+    "problems": [],
+    "season": "2023-24",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-9"
+      },
+      {
+        "source": "yahoo",
+        "source_reference": "data/raw/yahoo/nbdl/2023-24/Yahoo-428.l.2296-Transaction.csv#428.l.2296.tr.378"
+      }
+    ],
+    "teams": [
+      "bosh_roid",
+      "sub_0_j"
+    ],
+    "trade_id": "trade_483c369077d57bdb"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "speedsters",
+        "player_id": "6567",
+        "player_name": "Quentin Grimes",
+        "raw_asset": "Quentin Grimes",
+        "to_team": "bosh_roid"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "speedsters",
+        "player_id": "5823",
+        "player_name": "Zach Collins",
+        "raw_asset": "Zach Collins",
+        "to_team": "bosh_roid"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "speedsters",
+        "player_id": "10110",
+        "player_name": "Taylor Hendricks",
+        "raw_asset": "Taylor Hendricks",
+        "to_team": "bosh_roid"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "bosh_roid",
+        "player_id": "6031",
+        "player_name": "Josh Okogie",
+        "raw_asset": "Josh Okogie",
+        "to_team": "speedsters"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "bosh_roid",
+        "player_id": "6606",
+        "player_name": "Austin Reaves",
+        "raw_asset": "Austin Reaves",
+        "to_team": "speedsters"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "bosh_roid",
+        "player_id": "6173",
+        "player_name": "Cameron Johnson",
+        "raw_asset": "Cameron Johnson",
+        "to_team": "speedsters"
+      }
+    ],
+    "confidence": "confirmed",
+    "date": "2024-01-22",
+    "external_trade_id": "10",
+    "notes": "",
+    "problems": [],
+    "season": "2023-24",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-11"
+      },
+      {
+        "source": "yahoo",
+        "source_reference": "data/raw/yahoo/nbdl/2023-24/Yahoo-428.l.2296-Transaction.csv#428.l.2296.tr.413"
+      }
+    ],
+    "teams": [
+      "bosh_roid",
+      "speedsters"
+    ],
+    "trade_id": "trade_00b31a6b4e4f7543"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "da_bum_tiss",
+        "player_id": "6398",
+        "player_name": "Onyeka Okongwu",
+        "raw_asset": "Onyeka Okongwu",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "da_bum_tiss",
+        "player_id": "6057",
+        "player_name": "De'Anthony Melton",
+        "raw_asset": "De'Anthony Melton",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "draft_pick",
+        "draft_year": 2024,
+        "from_team": "da_bum_tiss",
+        "original_owner": null,
+        "raw_asset": "2024 1st (pick 12)",
+        "round": 1,
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "6437",
+        "player_name": "Jordan Nwora",
+        "raw_asset": "Jordan Nwora",
+        "to_team": "da_bum_tiss"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "4912",
+        "player_name": "Jimmy Butler",
+        "raw_asset": "Jimmy Butler",
+        "to_team": "da_bum_tiss"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2024-01-22",
+    "external_trade_id": "9",
+    "notes": "",
+    "problems": [
+      "Could not determine original_owner of 2024 1st (pick 12)"
+    ],
+    "season": "2023-24",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-10"
+      },
+      {
+        "source": "yahoo",
+        "source_reference": "data/raw/yahoo/nbdl/2023-24/Yahoo-428.l.2296-Transaction.csv#428.l.2296.tr.411"
+      }
+    ],
+    "teams": [
+      "da_bum_tiss",
+      "himmy_butlers"
+    ],
+    "trade_id": "trade_891c085888d3aea5"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "31_savage",
+        "player_id": "6427",
+        "player_name": "Xavier Tillman",
+        "raw_asset": "Xavier Tilman Sr",
+        "to_team": "bosh_roid"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "31_savage",
+        "player_id": "5763",
+        "player_name": "Markelle Fultz",
+        "raw_asset": "Markelle Fultz",
+        "to_team": "bosh_roid"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "bosh_roid",
+        "player_id": "5640",
+        "player_name": "Jakob Poeltl",
+        "raw_asset": "Jakob Poeltl",
+        "to_team": "31_savage"
+      }
+    ],
+    "confidence": "confirmed",
+    "date": "2024-01-23",
+    "external_trade_id": "11",
+    "notes": "",
+    "problems": [],
+    "season": "2023-24",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-12"
+      },
+      {
+        "source": "yahoo",
+        "source_reference": "data/raw/yahoo/nbdl/2023-24/Yahoo-428.l.2296-Transaction.csv#428.l.2296.tr.417"
+      }
+    ],
+    "teams": [
+      "31_savage",
+      "bosh_roid"
+    ],
+    "trade_id": "trade_2a07236639126342"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "draft_pick",
+        "draft_year": 2024,
+        "from_team": "speedsters",
+        "original_owner": null,
+        "raw_asset": "2024 1st",
+        "round": 1,
+        "to_team": "31_savage"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "speedsters",
+        "player_id": "6791",
+        "player_name": "Dominick Barlow",
+        "raw_asset": "Dominick Barlow",
+        "to_team": "31_savage"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "31_savage",
+        "player_id": "6450",
+        "player_name": "Paul Reed",
+        "raw_asset": "Paul Reed",
+        "to_team": "speedsters"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2024-02-04",
+    "external_trade_id": "12",
+    "notes": "",
+    "problems": [
+      "Could not determine original_owner of 2024 1st"
+    ],
+    "season": "2023-24",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-13"
+      },
+      {
+        "source": "yahoo",
+        "source_reference": "data/raw/yahoo/nbdl/2023-24/Yahoo-428.l.2296-Transaction.csv#428.l.2296.tr.465"
+      }
+    ],
+    "teams": [
+      "31_savage",
+      "speedsters"
+    ],
+    "trade_id": "trade_f0c367b0a06379b7"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "6400",
+        "player_name": "Obi Toppin",
+        "raw_asset": "Obi Toppin",
+        "to_team": "da_bum_tiss"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "da_bum_tiss",
+        "player_id": "5739",
+        "player_name": "Gary Payton II",
+        "raw_asset": "Gary Payton II",
+        "to_team": "himmy_butlers"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2024-02-11",
+    "notes": "Yahoo T1/T2 denote receiving team; Yahoo omits off-platform picks.",
+    "problems": [
+      "Possible duplicate/conflicting source with trade_2d3935f185b1f4ad"
+    ],
+    "season": "2023-24",
+    "sources": [
+      {
+        "source": "yahoo",
+        "source_reference": "data/raw/yahoo/nbdl/2023-24/Yahoo-428.l.2296-Transaction.csv#428.l.2296.tr.496"
+      }
+    ],
+    "teams": [
+      "da_bum_tiss",
+      "himmy_butlers"
+    ],
+    "trade_id": "trade_7f65e7f9d5642e16"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "da_bum_tiss",
+        "player_id": "5739",
+        "player_name": "Gary Payton II",
+        "raw_asset": "Gary Payton ll",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "6400",
+        "player_name": "Obi Toppin",
+        "raw_asset": "Obi Toppin",
+        "to_team": "da_bum_tiss"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2024-02-12",
+    "external_trade_id": "13",
+    "notes": "",
+    "problems": [
+      "Possible duplicate/conflicting source with trade_7f65e7f9d5642e16"
+    ],
+    "season": "2023-24",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-14"
+      }
+    ],
+    "teams": [
+      "da_bum_tiss",
+      "himmy_butlers"
+    ],
+    "trade_id": "trade_2d3935f185b1f4ad"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "draft_pick",
+        "draft_year": 2025,
+        "from_team": "himmy_butlers",
+        "original_owner": "himmy_butlers",
+        "raw_asset": "Himmy 2025 1st",
+        "round": 1,
+        "to_team": "syracuse_nationals"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "10107",
+        "player_name": "Cason Wallace",
+        "raw_asset": "Cason Wallace",
+        "to_team": "syracuse_nationals"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "syracuse_nationals",
+        "player_id": "6023",
+        "player_name": "Miles Bridges",
+        "raw_asset": "Miles Bridges",
+        "to_team": "himmy_butlers"
+      }
+    ],
+    "confidence": "probable",
+    "date": "2024-07-22",
+    "external_trade_id": "14",
+    "notes": "",
+    "problems": [],
+    "season": "2024-25",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-15"
+      }
+    ],
+    "teams": [
+      "himmy_butlers",
+      "syracuse_nationals"
+    ],
+    "trade_id": "trade_15a7a8defb2de318"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "draft_pick",
+        "draft_year": 2024,
+        "from_team": "hart_of_new_york",
+        "original_owner": null,
+        "raw_asset": "2024 1st pick",
+        "round": 1,
+        "to_team": "syracuse_nationals"
+      },
+      {
+        "asset_type": "draft_pick",
+        "draft_year": 2025,
+        "from_team": "hart_of_new_york",
+        "original_owner": "hart_of_new_york",
+        "raw_asset": "Hart 2025 1st",
+        "round": 1,
+        "to_team": "syracuse_nationals"
+      },
+      {
+        "asset_type": "draft_pick",
+        "draft_year": 2024,
+        "from_team": "syracuse_nationals",
+        "original_owner": null,
+        "raw_asset": "2024 15th pick",
+        "round": null,
+        "to_team": "hart_of_new_york"
+      },
+      {
+        "asset_type": "draft_pick",
+        "draft_year": 2025,
+        "from_team": "syracuse_nationals",
+        "original_owner": null,
+        "raw_asset": "2025 highest pick",
+        "round": null,
+        "to_team": "hart_of_new_york"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "syracuse_nationals",
+        "player_id": "6694",
+        "player_name": "Keegan Murray",
+        "raw_asset": "Keegan Murray",
+        "to_team": "hart_of_new_york"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "syracuse_nationals",
+        "player_id": "10101",
+        "player_name": "Gradey Dick",
+        "raw_asset": "Grady Dick",
+        "to_team": "hart_of_new_york"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "syracuse_nationals",
+        "player_id": "10115",
+        "player_name": "Brandin Podziemski",
+        "raw_asset": "Brandon Podziemski",
+        "to_team": "hart_of_new_york"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2024-07-22",
+    "external_trade_id": "15",
+    "notes": "",
+    "problems": [
+      "Could not determine original_owner of 2024 1st pick",
+      "Could not determine round of 2024 15th pick",
+      "Could not determine original_owner of 2024 15th pick",
+      "Could not determine round of 2025 highest pick",
+      "Could not determine original_owner of 2025 highest pick",
+      "Conditional pick requires commissioner terms"
+    ],
+    "season": "2024-25",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-16"
+      }
+    ],
+    "teams": [
+      "hart_of_new_york",
+      "syracuse_nationals"
+    ],
+    "trade_id": "trade_e2826e8d032edaef"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "hart_of_new_york",
+        "player_id": "5836",
+        "player_name": "OG Anunoby",
+        "raw_asset": "OG Anunoby",
+        "to_team": "girth_god"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "girth_god",
+        "player_id": "5464",
+        "player_name": "Kristaps Porzingis",
+        "raw_asset": "Porzingis",
+        "to_team": "hart_of_new_york"
+      }
+    ],
+    "confidence": "probable",
+    "date": "2024-09-24",
+    "external_trade_id": "16",
+    "notes": "",
+    "problems": [],
+    "season": "2024-25",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-17"
+      }
+    ],
+    "teams": [
+      "girth_god",
+      "hart_of_new_york"
+    ],
+    "trade_id": "trade_14557599ec9da655"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "6562",
+        "player_name": "Jalen Johnson",
+        "raw_asset": "Jalen Johnson",
+        "to_team": "spike_lee_s_diary"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "5835",
+        "player_name": "Jarrett Allen",
+        "raw_asset": "Jarrett Allen",
+        "to_team": "spike_lee_s_diary"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "spike_lee_s_diary",
+        "player_id": "6404",
+        "player_name": "Tyrese Haliburton",
+        "raw_asset": "Tyrese Haliburton",
+        "to_team": "himmy_butlers"
+      }
+    ],
+    "confidence": "confirmed",
+    "date": "2024-11-07",
+    "external_trade_id": "17",
+    "notes": "",
+    "problems": [],
+    "season": "2024-25",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-18"
+      },
+      {
+        "source": "yahoo",
+        "source_reference": "data/raw/yahoo/nbdl/2024-25/Yahoo-454.l.641-Transaction.csv#454.l.641.tr.234"
+      }
+    ],
+    "teams": [
+      "himmy_butlers",
+      "spike_lee_s_diary"
+    ],
+    "trade_id": "trade_aab3b864866bd44e"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "hart_of_new_york",
+        "player_id": "6694",
+        "player_name": "Keegan Murray",
+        "raw_asset": "Keegan Murray",
+        "to_team": "speedsters"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "hart_of_new_york",
+        "player_id": "6559",
+        "player_name": "Trey Murphy III",
+        "raw_asset": "Trey Murphy lll",
+        "to_team": "speedsters"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "speedsters",
+        "player_id": "6606",
+        "player_name": "Austin Reaves",
+        "raw_asset": "Austin Reaves",
+        "to_team": "hart_of_new_york"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "speedsters",
+        "player_id": "6173",
+        "player_name": "Cameron Johnson",
+        "raw_asset": "Cam Johnson",
+        "to_team": "hart_of_new_york"
+      }
+    ],
+    "confidence": "confirmed",
+    "date": "2024-11-15",
+    "external_trade_id": "18",
+    "notes": "",
+    "problems": [],
+    "season": "2024-25",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-19"
+      },
+      {
+        "source": "yahoo",
+        "source_reference": "data/raw/yahoo/nbdl/2024-25/Yahoo-454.l.641-Transaction.csv#454.l.641.tr.268"
+      }
+    ],
+    "teams": [
+      "hart_of_new_york",
+      "speedsters"
+    ],
+    "trade_id": "trade_11fa980685a99e48"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "steveblake_express",
+        "player_id": "10279",
+        "player_name": "Jaylon Tyson",
+        "raw_asset": "Jaylon Tyson",
+        "to_team": "syracuse_nationals"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "syracuse_nationals",
+        "player_id": "5647",
+        "player_name": "Guerschon Yabusele",
+        "raw_asset": "Guerschon Yabusele",
+        "to_team": "steveblake_express"
+      }
+    ],
+    "confidence": "confirmed",
+    "date": "2024-12-03",
+    "external_trade_id": "19",
+    "notes": "",
+    "problems": [],
+    "season": "2024-25",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-20"
+      },
+      {
+        "source": "yahoo",
+        "source_reference": "data/raw/yahoo/nbdl/2024-25/Yahoo-454.l.641-Transaction.csv#454.l.641.tr.334"
+      }
+    ],
+    "teams": [
+      "steveblake_express",
+      "syracuse_nationals"
+    ],
+    "trade_id": "trade_c8acce87919e964f"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "hart_of_new_york",
+        "player_id": "10115",
+        "player_name": "Brandin Podziemski",
+        "raw_asset": "Brandin Podziemski",
+        "to_team": "bosh_roid"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "bosh_roid",
+        "player_id": "6709",
+        "player_name": "Jake LaRavia",
+        "raw_asset": "Jake LaRavia",
+        "to_team": "hart_of_new_york"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2024-12-04",
+    "notes": "Yahoo T1/T2 denote receiving team; Yahoo omits off-platform picks.",
+    "problems": [
+      "Possible duplicate/conflicting source with trade_1b543e42c4f9862b"
+    ],
+    "season": "2024-25",
+    "sources": [
+      {
+        "source": "yahoo",
+        "source_reference": "data/raw/yahoo/nbdl/2024-25/Yahoo-454.l.641-Transaction.csv#454.l.641.tr.341"
+      }
+    ],
+    "teams": [
+      "bosh_roid",
+      "hart_of_new_york"
+    ],
+    "trade_id": "trade_96ceed95ae34e007"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "bosh_roid",
+        "player_id": "6709",
+        "player_name": "Jake LaRavia",
+        "raw_asset": "LaRiva",
+        "to_team": "hart_of_new_york"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "hart_of_new_york",
+        "player_id": "10115",
+        "player_name": "Brandin Podziemski",
+        "raw_asset": "Podz",
+        "to_team": "bosh_roid"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2025-02-06",
+    "external_trade_id": "20",
+    "notes": "",
+    "problems": [
+      "Possible duplicate/conflicting source with trade_96ceed95ae34e007"
+    ],
+    "season": "2024-25",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-21"
+      }
+    ],
+    "teams": [
+      "bosh_roid",
+      "hart_of_new_york"
+    ],
+    "trade_id": "trade_1b543e42c4f9862b"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "spike_lee_s_diary",
+        "player_id": "5832",
+        "player_name": "John Collins",
+        "raw_asset": "John Collins",
+        "to_team": "guns_buns"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "spike_lee_s_diary",
+        "player_id": "5958",
+        "player_name": "Deandre Ayton",
+        "raw_asset": "DeAndre Ayton",
+        "to_team": "guns_buns"
+      },
+      {
+        "asset_type": "draft_pick",
+        "draft_year": null,
+        "from_team": "spike_lee_s_diary",
+        "original_owner": null,
+        "raw_asset": "9th pick",
+        "round": null,
+        "to_team": "guns_buns"
+      },
+      {
+        "asset_type": "draft_pick",
+        "draft_year": 2026,
+        "from_team": "spike_lee_s_diary",
+        "original_owner": "spike_lee_s_diary",
+        "raw_asset": "Spikes 2026 1st",
+        "round": 1,
+        "to_team": "guns_buns"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "guns_buns",
+        "player_id": "5432",
+        "player_name": "Karl-Anthony Towns",
+        "raw_asset": "KAT",
+        "to_team": "spike_lee_s_diary"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "guns_buns",
+        "player_id": "6696",
+        "player_name": "Bennedict Mathurin",
+        "raw_asset": "Mathurin",
+        "to_team": "spike_lee_s_diary"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2025-07-05",
+    "external_trade_id": "21",
+    "notes": "",
+    "problems": [
+      "Could not determine draft_year of 9th pick",
+      "Could not determine round of 9th pick",
+      "Could not determine original_owner of 9th pick"
+    ],
+    "season": "2025-26",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-22"
+      }
+    ],
+    "teams": [
+      "guns_buns",
+      "spike_lee_s_diary"
+    ],
+    "trade_id": "trade_c518dc6d24c4fed4"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "spike_lee_s_diary",
+        "player_id": "6028",
+        "player_name": "Donte DiVincenzo",
+        "raw_asset": "Donte DiVincenzo",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "spike_lee_s_diary",
+        "player_id": "10292",
+        "player_name": "Ryan Dunn",
+        "raw_asset": "Ryan dunn",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "6433",
+        "player_name": "Tre Jones",
+        "raw_asset": "Tre Jones",
+        "to_team": "spike_lee_s_diary"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "6753",
+        "player_name": "Keon Ellis",
+        "raw_asset": "Keon Ellis",
+        "to_team": "spike_lee_s_diary"
+      }
+    ],
+    "confidence": "confirmed",
+    "date": "2025-07-08",
+    "external_trade_id": "23",
+    "notes": "",
+    "problems": [],
+    "season": "2025-26",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-24"
+      },
+      {
+        "source": "discord",
+        "source_reference": "data/raw/nbdl/trades/discord/initial_discord.txt#line-23-0"
+      }
+    ],
+    "teams": [
+      "himmy_butlers",
+      "spike_lee_s_diary"
+    ],
+    "trade_id": "trade_3582ff3fbdeab467"
+  },
+  {
+    "assets": [],
+    "confidence": "needs_review",
+    "date": "2025-07-08",
+    "notes": "",
+    "problems": [
+      "Informal announcement has ambiguous participants, direction or format"
+    ],
+    "season": "2025-26",
+    "sources": [
+      {
+        "source": "discord",
+        "source_reference": "data/raw/nbdl/trades/discord/initial_discord.txt#line-23-1"
+      }
+    ],
+    "teams": [],
+    "trade_id": "trade_6bfcbe00b232c0bc"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "6023",
+        "player_name": "Miles Bridges",
+        "raw_asset": "Miles Bridges",
+        "to_team": "legendary"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "5069",
+        "player_name": "Draymond Green",
+        "raw_asset": "Draymond green",
+        "to_team": "legendary"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "legendary",
+        "player_id": "5601",
+        "player_name": "Brandon Ingram",
+        "raw_asset": "Brandon Ingram",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "legendary",
+        "player_id": "6408",
+        "player_name": "Isaiah Stewart",
+        "raw_asset": "Stewart",
+        "to_team": "himmy_butlers"
+      }
+    ],
+    "confidence": "probable",
+    "date": "2025-07-08",
+    "external_trade_id": "22",
+    "notes": "",
+    "problems": [],
+    "season": "2025-26",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-23"
+      }
+    ],
+    "teams": [
+      "himmy_butlers",
+      "legendary"
+    ],
+    "trade_id": "trade_a33f5932052ea3a8"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "6398",
+        "player_name": "Onyeka Okongwu",
+        "raw_asset": "Oneyka Okongwu",
+        "to_team": "speedsters"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "5601",
+        "player_name": "Brandon Ingram",
+        "raw_asset": "Brandon Ingram",
+        "to_team": "speedsters"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "speedsters",
+        "player_id": "4563",
+        "player_name": "James Harden",
+        "raw_asset": "James Harden",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "speedsters",
+        "player_id": "6212",
+        "player_name": "Ty Jerome",
+        "raw_asset": "Ty Jerome",
+        "to_team": "himmy_butlers"
+      }
+    ],
+    "confidence": "confirmed",
+    "date": "2025-07-28",
+    "external_trade_id": "24",
+    "notes": "",
+    "problems": [],
+    "season": "2025-26",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-25"
+      },
+      {
+        "source": "discord",
+        "source_reference": "data/raw/nbdl/trades/discord/initial_discord.txt#line-40-0"
+      }
+    ],
+    "teams": [
+      "himmy_butlers",
+      "speedsters"
+    ],
+    "trade_id": "trade_3bf708d4e43db210"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "da_bum_tiss",
+        "player_id": "6167",
+        "player_name": "Darius Garland",
+        "raw_asset": "Darius Garland",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "da_bum_tiss",
+        "player_id": "6550",
+        "player_name": "Franz Wagner",
+        "raw_asset": "Franz Wagner",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "da_bum_tiss",
+        "player_id": "6253",
+        "player_name": "Naz Reid",
+        "raw_asset": "Naz Reid",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "da_bum_tiss",
+        "player_id": "6572",
+        "player_name": "Santi Aldama",
+        "raw_asset": "Santi Aldama",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "6404",
+        "player_name": "Tyrese Haliburton",
+        "raw_asset": "Tyrese Haliburton",
+        "to_team": "da_bum_tiss"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "6408",
+        "player_name": "Isaiah Stewart",
+        "raw_asset": "Isaiah Stewart",
+        "to_team": "da_bum_tiss"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "6206",
+        "player_name": "Goga Bitadze",
+        "raw_asset": "Goga Bitadze",
+        "to_team": "da_bum_tiss"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "10069",
+        "player_name": "Mouhamed Gueye",
+        "raw_asset": "Mo Gueye",
+        "to_team": "da_bum_tiss"
+      },
+      {
+        "asset_type": "other",
+        "description": "rights to the name “Hali’s Snow Bunnies”",
+        "from_team": "himmy_butlers",
+        "raw_asset": "rights to the name “Hali’s Snow Bunnies”",
+        "to_team": "da_bum_tiss"
+      }
+    ],
+    "confidence": "confirmed",
+    "date": "2025-08-02",
+    "external_trade_id": "25",
+    "notes": "",
+    "problems": [],
+    "season": "2025-26",
+    "sources": [
+      {
+        "source": "csv",
+        "source_reference": "data/raw/nbdl/trades/csv/initial_trades.csv#row-26"
+      },
+      {
+        "source": "discord",
+        "source_reference": "data/raw/nbdl/trades/discord/initial_discord.txt#line-45-0"
+      }
+    ],
+    "teams": [
+      "da_bum_tiss",
+      "himmy_butlers"
+    ],
+    "trade_id": "trade_2bdac448e09e8b11"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "speedsters",
+        "player_id": "6355",
+        "player_name": "Anthony Edwards",
+        "raw_asset": "Anthony “Ant Man” Edwards",
+        "to_team": "sub_0_j"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "speedsters",
+        "player_id": "5764",
+        "player_name": "Lonzo Ball",
+        "raw_asset": "Lonzo Ball",
+        "to_team": "sub_0_j"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "speedsters",
+        "player_id": "6216",
+        "player_name": "Jordan Poole",
+        "raw_asset": "Jordan Poole",
+        "to_team": "sub_0_j"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "sub_0_j",
+        "player_id": "6169",
+        "player_name": "Coby White",
+        "raw_asset": "Coby White",
+        "to_team": "speedsters"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "sub_0_j",
+        "player_id": "6403",
+        "player_name": "Devin Vassell",
+        "raw_asset": "Devin Vassell",
+        "to_team": "speedsters"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "sub_0_j",
+        "player_id": "5765",
+        "player_name": "Jayson Tatum",
+        "raw_asset": "Jayson Tatum",
+        "to_team": "speedsters"
+      }
+    ],
+    "confidence": "confirmed",
+    "date": "2025-10-05",
+    "notes": "",
+    "problems": [],
+    "season": "2025-26",
+    "sources": [
+      {
+        "source": "discord",
+        "source_reference": "data/raw/nbdl/trades/discord/initial_discord.txt#line-88-0"
+      },
+      {
+        "source": "yahoo",
+        "source_reference": "data/raw/yahoo/nbdl/2025-26/Yahoo-466.l.7100-Transaction.csv#466.l.7100.tr.61"
+      }
+    ],
+    "teams": [
+      "speedsters",
+      "sub_0_j"
+    ],
+    "trade_id": "trade_d0877a5d2064afb0"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "31_savage",
+        "player_id": "6571",
+        "player_name": "Day'Ron Sharpe",
+        "raw_asset": "DayRon Sharpe",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "draft_pick",
+        "draft_year": 2026,
+        "from_team": "himmy_butlers",
+        "original_owner": null,
+        "raw_asset": "a 2026 2nd Rd pick",
+        "round": 2,
+        "to_team": "31_savage"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2025-11-08",
+    "notes": "",
+    "problems": [
+      "Could not determine original_owner of a 2026 2nd Rd pick"
+    ],
+    "season": "2025-26",
+    "sources": [
+      {
+        "source": "discord",
+        "source_reference": "data/raw/nbdl/trades/discord/initial_discord.txt#line-103-0"
+      },
+      {
+        "source": "yahoo",
+        "source_reference": "data/raw/yahoo/nbdl/2025-26/Yahoo-466.l.7100-Transaction.csv#466.l.7100.tr.219"
+      }
+    ],
+    "teams": [
+      "31_savage",
+      "himmy_butlers"
+    ],
+    "trade_id": "trade_968a9038a896ee7a"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "legendary",
+        "player_id": "5473",
+        "player_name": "Devin Booker",
+        "raw_asset": "Devin Booker",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "himmy_butlers",
+        "player_id": "6167",
+        "player_name": "Darius Garland",
+        "raw_asset": "Darius Garland",
+        "to_team": "legendary"
+      },
+      {
+        "asset_type": "draft_pick",
+        "draft_year": 2026,
+        "from_team": "himmy_butlers",
+        "original_owner": "himmy_butlers",
+        "raw_asset": "Butler’s 2026 FRP",
+        "round": 1,
+        "to_team": "legendary"
+      }
+    ],
+    "confidence": "confirmed",
+    "date": "2026-02-28",
+    "notes": "",
+    "problems": [],
+    "season": "2025-26",
+    "sources": [
+      {
+        "source": "discord",
+        "source_reference": "data/raw/nbdl/trades/discord/initial_discord.txt#line-113-0"
+      },
+      {
+        "source": "yahoo",
+        "source_reference": "data/raw/yahoo/nbdl/2025-26/Yahoo-466.l.7100-Transaction.csv#466.l.7100.tr.588"
+      }
+    ],
+    "teams": [
+      "himmy_butlers",
+      "legendary"
+    ],
+    "trade_id": "trade_0f1d78a217b4b871"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "other",
+        "description": "the right to a swap of a same round draft pick that expires in 2027",
+        "draft_year": 2027,
+        "from_team": "speedsters",
+        "original_owner": null,
+        "raw_asset": "the right to a swap of a same round draft pick that expires in 2027",
+        "round": null,
+        "to_team": "hart_of_new_york"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "speedsters",
+        "player_id": "6694",
+        "player_name": "Keegan Murray",
+        "raw_asset": "Keegan Murray",
+        "to_team": "hart_of_new_york"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "speedsters",
+        "player_id": "10476",
+        "player_name": "Ryan Kalkbrenner",
+        "raw_asset": "Ryan Kalkbrenner",
+        "to_team": "hart_of_new_york"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "hart_of_new_york",
+        "player_id": "6679",
+        "player_name": "Brandon Williams",
+        "raw_asset": "Brandon Williams",
+        "to_team": "speedsters"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "hart_of_new_york",
+        "player_id": "6205",
+        "player_name": "Nickeil Alexander-Walker",
+        "raw_asset": "Nickeil Alexander-Walker",
+        "to_team": "speedsters"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2026-03-05",
+    "notes": "",
+    "problems": [
+      "Swap terms require explicit original picks, round, exercise and expiry rules"
+    ],
+    "season": "2025-26",
+    "sources": [
+      {
+        "source": "discord",
+        "source_reference": "data/raw/nbdl/trades/discord/initial_discord.txt#line-126-0"
+      }
+    ],
+    "teams": [
+      "hart_of_new_york",
+      "speedsters"
+    ],
+    "trade_id": "trade_06c3383a11475a2e"
+  },
+  {
+    "assets": [
+      {
+        "asset_type": "player",
+        "from_team": "speedsters",
+        "player_id": "6169",
+        "player_name": "Coby White",
+        "raw_asset": "Coby White",
+        "to_team": "walson_s_wonderful_team"
+      },
+      {
+        "asset_type": "draft_pick",
+        "draft_year": 2026,
+        "from_team": "speedsters",
+        "original_owner": null,
+        "raw_asset": "his 2026 rookie pick",
+        "round": null,
+        "to_team": "walson_s_wonderful_team"
+      },
+      {
+        "asset_type": "player",
+        "from_team": "walson_s_wonderful_team",
+        "player_id": "5475",
+        "player_name": "Kelly Oubre Jr.",
+        "raw_asset": "Kelly Oubre",
+        "to_team": "speedsters"
+      }
+    ],
+    "confidence": "needs_review",
+    "date": "2026-03-05",
+    "notes": "",
+    "problems": [
+      "Could not determine original_owner of his 2026 rookie pick",
+      "Could not determine round of his 2026 rookie pick"
+    ],
+    "season": "2025-26",
+    "sources": [
+      {
+        "source": "discord",
+        "source_reference": "data/raw/nbdl/trades/discord/initial_discord.txt#line-122-0"
+      },
+      {
+        "source": "yahoo",
+        "source_reference": "data/raw/yahoo/nbdl/2025-26/Yahoo-466.l.7100-Transaction.csv#466.l.7100.tr.601"
+      }
+    ],
+    "teams": [
+      "speedsters",
+      "walson_s_wonderful_team"
+    ],
+    "trade_id": "trade_fa83e994c514ba21"
+  }
+]

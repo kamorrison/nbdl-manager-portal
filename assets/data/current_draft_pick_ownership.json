@@ -1,0 +1,1209 @@
+[
+  {
+    "candidate_owner": "31_savage",
+    "current_owner": "31_savage",
+    "draft_year": 2026,
+    "original_owner": "31_savage",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-31_savage",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "31_savage",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "ben_s_swag_team",
+    "current_owner": "ben_s_swag_team",
+    "draft_year": 2026,
+    "original_owner": "ben_s_swag_team",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-ben_s_swag_team",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "ben_s_swag_team",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "bosh_roid",
+    "current_owner": "bosh_roid",
+    "draft_year": 2026,
+    "original_owner": "bosh_roid",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-bosh_roid",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "bosh_roid",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "da_bum_tiss",
+    "current_owner": "da_bum_tiss",
+    "draft_year": 2026,
+    "original_owner": "da_bum_tiss",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-da_bum_tiss",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "da_bum_tiss",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "da_docta_s_perfect_team",
+    "current_owner": "da_docta_s_perfect_team",
+    "draft_year": 2026,
+    "original_owner": "da_docta_s_perfect_team",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-da_docta_s_perfect_team",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "da_docta_s_perfect_team",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "fade_away_2_excellence",
+    "current_owner": "fade_away_2_excellence",
+    "draft_year": 2026,
+    "original_owner": "fade_away_2_excellence",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-fade_away_2_excellence",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "fade_away_2_excellence",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "gamma_squad",
+    "current_owner": "gamma_squad",
+    "draft_year": 2026,
+    "original_owner": "gamma_squad",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-gamma_squad",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "gamma_squad",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "girth_god",
+    "current_owner": "girth_god",
+    "draft_year": 2026,
+    "original_owner": "girth_god",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-girth_god",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "girth_god",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "guns_buns",
+    "current_owner": "guns_buns",
+    "draft_year": 2026,
+    "original_owner": "guns_buns",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-guns_buns",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "guns_buns",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "hart_of_new_york",
+    "current_owner": "hart_of_new_york",
+    "draft_year": 2026,
+    "original_owner": "hart_of_new_york",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-hart_of_new_york",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "hart_of_new_york",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "legendary",
+    "current_owner": "himmy_butlers",
+    "draft_year": 2026,
+    "original_owner": "himmy_butlers",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-himmy_butlers",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "himmy_butlers",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": [
+      {
+        "date": "2026-02-28",
+        "from_team": "himmy_butlers",
+        "to_team": "legendary",
+        "trade_id": "trade_0f1d78a217b4b871"
+      }
+    ]
+  },
+  {
+    "candidate_owner": "legendary",
+    "current_owner": "legendary",
+    "draft_year": 2026,
+    "original_owner": "legendary",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-legendary",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "legendary",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "motorcade_scooter",
+    "current_owner": "motorcade_scooter",
+    "draft_year": 2026,
+    "original_owner": "motorcade_scooter",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-motorcade_scooter",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "motorcade_scooter",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "speedsters",
+    "current_owner": "speedsters",
+    "draft_year": 2026,
+    "original_owner": "speedsters",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-speedsters",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "speedsters",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "spike_lee_s_diary",
+    "current_owner": "spike_lee_s_diary",
+    "draft_year": 2026,
+    "original_owner": "spike_lee_s_diary",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-spike_lee_s_diary",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "spike_lee_s_diary",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "steveblake_express",
+    "current_owner": "steveblake_express",
+    "draft_year": 2026,
+    "original_owner": "steveblake_express",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-steveblake_express",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "steveblake_express",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "sub_0_j",
+    "current_owner": "sub_0_j",
+    "draft_year": 2026,
+    "original_owner": "sub_0_j",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-sub_0_j",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "sub_0_j",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "syracuse_nationals",
+    "current_owner": "syracuse_nationals",
+    "draft_year": 2026,
+    "original_owner": "syracuse_nationals",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-syracuse_nationals",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "syracuse_nationals",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "walson_s_wonderful_team",
+    "current_owner": "walson_s_wonderful_team",
+    "draft_year": 2026,
+    "original_owner": "walson_s_wonderful_team",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-walson_s_wonderful_team",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "walson_s_wonderful_team",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "wemby_s",
+    "current_owner": "wemby_s",
+    "draft_year": 2026,
+    "original_owner": "wemby_s",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R1-wemby_s",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "wemby_s",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "31_savage",
+    "current_owner": "31_savage",
+    "draft_year": 2026,
+    "original_owner": "31_savage",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-31_savage",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "31_savage",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "ben_s_swag_team",
+    "current_owner": "ben_s_swag_team",
+    "draft_year": 2026,
+    "original_owner": "ben_s_swag_team",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-ben_s_swag_team",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "ben_s_swag_team",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "bosh_roid",
+    "current_owner": "bosh_roid",
+    "draft_year": 2026,
+    "original_owner": "bosh_roid",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-bosh_roid",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "bosh_roid",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "da_bum_tiss",
+    "current_owner": "da_bum_tiss",
+    "draft_year": 2026,
+    "original_owner": "da_bum_tiss",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-da_bum_tiss",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "da_bum_tiss",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "da_docta_s_perfect_team",
+    "current_owner": "da_docta_s_perfect_team",
+    "draft_year": 2026,
+    "original_owner": "da_docta_s_perfect_team",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-da_docta_s_perfect_team",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "da_docta_s_perfect_team",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "fade_away_2_excellence",
+    "current_owner": "fade_away_2_excellence",
+    "draft_year": 2026,
+    "original_owner": "fade_away_2_excellence",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-fade_away_2_excellence",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "fade_away_2_excellence",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "gamma_squad",
+    "current_owner": "gamma_squad",
+    "draft_year": 2026,
+    "original_owner": "gamma_squad",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-gamma_squad",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "gamma_squad",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "girth_god",
+    "current_owner": "girth_god",
+    "draft_year": 2026,
+    "original_owner": "girth_god",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-girth_god",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "girth_god",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "guns_buns",
+    "current_owner": "guns_buns",
+    "draft_year": 2026,
+    "original_owner": "guns_buns",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-guns_buns",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "guns_buns",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "hart_of_new_york",
+    "current_owner": "hart_of_new_york",
+    "draft_year": 2026,
+    "original_owner": "hart_of_new_york",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-hart_of_new_york",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "hart_of_new_york",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "himmy_butlers",
+    "current_owner": "himmy_butlers",
+    "draft_year": 2026,
+    "original_owner": "himmy_butlers",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-himmy_butlers",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "himmy_butlers",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "legendary",
+    "current_owner": "legendary",
+    "draft_year": 2026,
+    "original_owner": "legendary",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-legendary",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "legendary",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "motorcade_scooter",
+    "current_owner": "motorcade_scooter",
+    "draft_year": 2026,
+    "original_owner": "motorcade_scooter",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-motorcade_scooter",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "motorcade_scooter",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "speedsters",
+    "current_owner": "speedsters",
+    "draft_year": 2026,
+    "original_owner": "speedsters",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-speedsters",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "speedsters",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "spike_lee_s_diary",
+    "current_owner": "spike_lee_s_diary",
+    "draft_year": 2026,
+    "original_owner": "spike_lee_s_diary",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-spike_lee_s_diary",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "spike_lee_s_diary",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "steveblake_express",
+    "current_owner": "steveblake_express",
+    "draft_year": 2026,
+    "original_owner": "steveblake_express",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-steveblake_express",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "steveblake_express",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "sub_0_j",
+    "current_owner": "sub_0_j",
+    "draft_year": 2026,
+    "original_owner": "sub_0_j",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-sub_0_j",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "sub_0_j",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "syracuse_nationals",
+    "current_owner": "syracuse_nationals",
+    "draft_year": 2026,
+    "original_owner": "syracuse_nationals",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-syracuse_nationals",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "syracuse_nationals",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "walson_s_wonderful_team",
+    "current_owner": "walson_s_wonderful_team",
+    "draft_year": 2026,
+    "original_owner": "walson_s_wonderful_team",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-walson_s_wonderful_team",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "walson_s_wonderful_team",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "wemby_s",
+    "current_owner": "wemby_s",
+    "draft_year": 2026,
+    "original_owner": "wemby_s",
+    "ownership_confirmed": false,
+    "pick_id": "2026-R2-wemby_s",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": {
+      "current_franchise_id": "wemby_s",
+      "ownership_confirmed": "false",
+      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+    },
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "31_savage",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "31_savage",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-31_savage",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "ben_s_swag_team",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "ben_s_swag_team",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-ben_s_swag_team",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "bosh_roid",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "bosh_roid",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-bosh_roid",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "da_bum_tiss",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "da_bum_tiss",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-da_bum_tiss",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "da_docta_s_perfect_team",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "da_docta_s_perfect_team",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-da_docta_s_perfect_team",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "fade_away_2_excellence",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "fade_away_2_excellence",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-fade_away_2_excellence",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "gamma_squad",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "gamma_squad",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-gamma_squad",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "girth_god",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "girth_god",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-girth_god",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "guns_buns",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "guns_buns",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-guns_buns",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "hart_of_new_york",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "hart_of_new_york",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-hart_of_new_york",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "himmy_butlers",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "himmy_butlers",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-himmy_butlers",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "legendary",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "legendary",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-legendary",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "motorcade_scooter",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "motorcade_scooter",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-motorcade_scooter",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "speedsters",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "speedsters",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-speedsters",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "spike_lee_s_diary",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "spike_lee_s_diary",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-spike_lee_s_diary",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "steveblake_express",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "steveblake_express",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-steveblake_express",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "sub_0_j",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "sub_0_j",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-sub_0_j",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "syracuse_nationals",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "syracuse_nationals",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-syracuse_nationals",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "walson_s_wonderful_team",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "walson_s_wonderful_team",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-walson_s_wonderful_team",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "wemby_s",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "wemby_s",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R1-wemby_s",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 1,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "31_savage",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "31_savage",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-31_savage",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "ben_s_swag_team",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "ben_s_swag_team",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-ben_s_swag_team",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "bosh_roid",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "bosh_roid",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-bosh_roid",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "da_bum_tiss",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "da_bum_tiss",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-da_bum_tiss",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "da_docta_s_perfect_team",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "da_docta_s_perfect_team",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-da_docta_s_perfect_team",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "fade_away_2_excellence",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "fade_away_2_excellence",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-fade_away_2_excellence",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "gamma_squad",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "gamma_squad",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-gamma_squad",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "girth_god",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "girth_god",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-girth_god",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "guns_buns",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "guns_buns",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-guns_buns",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "hart_of_new_york",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "hart_of_new_york",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-hart_of_new_york",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "himmy_butlers",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "himmy_butlers",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-himmy_butlers",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "legendary",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "legendary",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-legendary",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "motorcade_scooter",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "motorcade_scooter",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-motorcade_scooter",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "speedsters",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "speedsters",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-speedsters",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "spike_lee_s_diary",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "spike_lee_s_diary",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-spike_lee_s_diary",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "steveblake_express",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "steveblake_express",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-steveblake_express",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "sub_0_j",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "sub_0_j",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-sub_0_j",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "syracuse_nationals",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "syracuse_nationals",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-syracuse_nationals",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "walson_s_wonderful_team",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "walson_s_wonderful_team",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-walson_s_wonderful_team",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  },
+  {
+    "candidate_owner": "wemby_s",
+    "current_owner": null,
+    "draft_year": 2027,
+    "original_owner": "wemby_s",
+    "ownership_confirmed": false,
+    "pick_id": "2027-R2-wemby_s",
+    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "published_baseline": null,
+    "round": 2,
+    "status": "needs_review",
+    "trade_history": []
+  }
+]

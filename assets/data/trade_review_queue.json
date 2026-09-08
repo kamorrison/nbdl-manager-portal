@@ -1,0 +1,152 @@
+[
+  {
+    "reason": "Could not determine draft_year of Picks 1, 7-1, 10-1, 12-1; Could not determine draft_year of Picks 1-4, 2-17, 5-4, 15-17; Could not determine original_owner of Picks 1, 7-1, 10-1, 12-1; Could not determine original_owner of Picks 1-4, 2-17, 5-4, 15-17; Could not determine round of Picks 1, 7-1, 10-1, 12-1; Could not determine round of Picks 1-4, 2-17, 5-4, 15-17",
+    "teams": [
+      "ben_s_swag_team",
+      "himmy_butlers"
+    ],
+    "trade_id": "trade_13ca55373aa003bc"
+  },
+  {
+    "reason": "Could not determine draft_year of Picks 5, 36,56, 92, 136; Could not determine draft_year of Picks 8, 133; Could not determine draft_year of Picks 9, 33, 53, 68; Could not determine original_owner of Picks 5, 36,56, 92, 136; Could not determine original_owner of Picks 8, 133; Could not determine original_owner of Picks 9, 33, 53, 68; Could not determine round of Picks 5, 36,56, 92, 136; Could not determine round of Picks 8, 133; Could not determine round of Picks 9, 33, 53, 68; Multi-team receipt table omits explicit senders; do not infer direction; Unidentified franchise or asset sender",
+    "teams": [
+      "speedsters",
+      "syracuse_nationals",
+      "wemby_s"
+    ],
+    "trade_id": "trade_5e4fe1e2b445c1dd"
+  },
+  {
+    "reason": "Could not determine draft_year of Picks 108, 173; Could not determine draft_year of Picks 126, 155; Could not determine original_owner of Picks 108, 173; Could not determine original_owner of Picks 126, 155; Could not determine round of Picks 108, 173; Could not determine round of Picks 126, 155",
+    "teams": [
+      "fade_away_2_excellence",
+      "wemby_s"
+    ],
+    "trade_id": "trade_006e0123e2cabb84"
+  },
+  {
+    "reason": "Could not determine draft_year of Picks 6-12, 12-12; Could not determine draft_year of Picks 7-15, 9-15; Could not determine original_owner of Picks 6-12, 12-12; Could not determine original_owner of Picks 7-15, 9-15; Could not determine round of Picks 6-12, 12-12; Could not determine round of Picks 7-15, 9-15",
+    "teams": [
+      "da_bum_tiss",
+      "spike_lee_s_diary"
+    ],
+    "trade_id": "trade_a3da0e7e402b5069"
+  },
+  {
+    "reason": "Could not determine original_owner of 2024 1st; Unrecognized player/other asset: 11-?",
+    "teams": [
+      "bosh_roid",
+      "syracuse_nationals"
+    ],
+    "trade_id": "trade_733ae29a20f08495"
+  },
+  {
+    "reason": "Could not determine draft_year of Pick 9-8; Could not determine original_owner of Pick 9-8; Could not determine original_owner of Picks 11-17, 2024 1st; Could not determine round of Pick 9-8",
+    "teams": [
+      "himmy_butlers",
+      "syracuse_nationals"
+    ],
+    "trade_id": "trade_c4c0a41341ae1712"
+  },
+  {
+    "reason": "Could not determine original_owner of 2024 1st (pick 12)",
+    "teams": [
+      "da_bum_tiss",
+      "himmy_butlers"
+    ],
+    "trade_id": "trade_891c085888d3aea5"
+  },
+  {
+    "reason": "Could not determine original_owner of 2024 1st",
+    "teams": [
+      "31_savage",
+      "speedsters"
+    ],
+    "trade_id": "trade_f0c367b0a06379b7"
+  },
+  {
+    "reason": "Possible duplicate/conflicting source with trade_2d3935f185b1f4ad",
+    "teams": [
+      "da_bum_tiss",
+      "himmy_butlers"
+    ],
+    "trade_id": "trade_7f65e7f9d5642e16"
+  },
+  {
+    "reason": "Possible duplicate/conflicting source with trade_7f65e7f9d5642e16",
+    "teams": [
+      "da_bum_tiss",
+      "himmy_butlers"
+    ],
+    "trade_id": "trade_2d3935f185b1f4ad"
+  },
+  {
+    "reason": "Conditional pick requires commissioner terms; Could not determine original_owner of 2024 15th pick; Could not determine original_owner of 2024 1st pick; Could not determine original_owner of 2025 highest pick; Could not determine round of 2024 15th pick; Could not determine round of 2025 highest pick",
+    "teams": [
+      "hart_of_new_york",
+      "syracuse_nationals"
+    ],
+    "trade_id": "trade_e2826e8d032edaef"
+  },
+  {
+    "reason": "Possible duplicate/conflicting source with trade_1b543e42c4f9862b",
+    "teams": [
+      "bosh_roid",
+      "hart_of_new_york"
+    ],
+    "trade_id": "trade_96ceed95ae34e007"
+  },
+  {
+    "reason": "Possible duplicate/conflicting source with trade_96ceed95ae34e007",
+    "teams": [
+      "bosh_roid",
+      "hart_of_new_york"
+    ],
+    "trade_id": "trade_1b543e42c4f9862b"
+  },
+  {
+    "reason": "Could not determine draft_year of 9th pick; Could not determine original_owner of 9th pick; Could not determine round of 9th pick",
+    "teams": [
+      "guns_buns",
+      "spike_lee_s_diary"
+    ],
+    "trade_id": "trade_c518dc6d24c4fed4"
+  },
+  {
+    "reason": "Informal announcement has ambiguous participants, direction or format",
+    "teams": [],
+    "trade_id": "trade_6bfcbe00b232c0bc"
+  },
+  {
+    "reason": "Could not determine original_owner of a 2026 2nd Rd pick",
+    "teams": [
+      "31_savage",
+      "himmy_butlers"
+    ],
+    "trade_id": "trade_968a9038a896ee7a"
+  },
+  {
+    "reason": "Swap terms require explicit original picks, round, exercise and expiry rules",
+    "teams": [
+      "hart_of_new_york",
+      "speedsters"
+    ],
+    "trade_id": "trade_06c3383a11475a2e"
+  },
+  {
+    "reason": "Could not determine original_owner of his 2026 rookie pick; Could not determine round of his 2026 rookie pick",
+    "teams": [
+      "speedsters",
+      "walson_s_wonderful_team"
+    ],
+    "trade_id": "trade_fa83e994c514ba21"
+  },
+  {
+    "category": "franchise_identity",
+    "reason": "Historical franchise has no proven current successor: In It 2 Win It V"
+  },
+  {
+    "category": "source_coverage",
+    "reason": "Partial CSV and Discord exports; published 2026 allocations all unconfirmed. 2027 included because swap expires in 2027; trading horizon beyond 2027 unverified."
+  }
+]

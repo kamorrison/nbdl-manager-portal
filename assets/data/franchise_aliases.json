@@ -1,0 +1,272 @@
+[
+  {
+    "aliases": [
+      "31 Savage",
+      "Derrick",
+      "derrick"
+    ],
+    "current_team_name": "31 Savage",
+    "franchise_id": "31_savage",
+    "manager_id": "derrick",
+    "manager_name": "Derrick",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "BG",
+      "Ben",
+      "Ben's Swag Team",
+      "bg"
+    ],
+    "current_team_name": "Ben's Swag Team",
+    "franchise_id": "ben_s_swag_team",
+    "manager_id": "bg",
+    "manager_name": "BG",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Bosh Roid",
+      "Getting Dinn With It",
+      "ross"
+    ],
+    "current_team_name": "Bosh Roid",
+    "franchise_id": "bosh_roid",
+    "manager_id": "ross",
+    "manager_name": "ross",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Da Bum Dis",
+      "Da Bum Tiss",
+      "Rohan",
+      "Ya Bum Diss",
+      "rohan"
+    ],
+    "current_team_name": "Da Bum Tiss",
+    "franchise_id": "da_bum_tiss",
+    "manager_id": "rohan",
+    "manager_name": "Rohan",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Da Docta",
+      "Da Docta's Perfect Team",
+      "da_docta"
+    ],
+    "current_team_name": "Da Docta's Perfect Team",
+    "franchise_id": "da_docta_s_perfect_team",
+    "manager_id": "da_docta",
+    "manager_name": "Da Docta",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Fade Away 2 Excellence",
+      "Karl",
+      "karl"
+    ],
+    "current_team_name": "Fade Away 2 Excellence",
+    "franchise_id": "fade_away_2_excellence",
+    "manager_id": "karl",
+    "manager_name": "Karl",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Gamma Squad",
+      "Kurt",
+      "kurt"
+    ],
+    "current_team_name": "Gamma Squad",
+    "franchise_id": "gamma_squad",
+    "manager_id": "kurt",
+    "manager_name": "Kurt",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Girth God",
+      "Luis",
+      "luis"
+    ],
+    "current_team_name": "Girth God",
+    "franchise_id": "girth_god",
+    "manager_id": "luis",
+    "manager_name": "Luis",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Guns & Buns",
+      "Rick",
+      "rick"
+    ],
+    "current_team_name": "Guns & Buns",
+    "franchise_id": "guns_buns",
+    "manager_id": "rick",
+    "manager_name": "Rick",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "4EVRL8",
+      "4evrl8",
+      "Hart",
+      "Hart of New York"
+    ],
+    "current_team_name": "Hart of New York",
+    "franchise_id": "hart_of_new_york",
+    "manager_id": "4evrl8",
+    "manager_name": "4EVRL8",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Butler",
+      "Himmy",
+      "Himmy Butler",
+      "Himmy Butlers",
+      "Kooks",
+      "kooks"
+    ],
+    "current_team_name": "Himmy Butlers",
+    "franchise_id": "himmy_butlers",
+    "manager_id": "kooks",
+    "manager_name": "Kooks",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Legendary 🤩",
+      "Lengendy",
+      "kenny",
+      "millz617"
+    ],
+    "current_team_name": "Legendary 🤩",
+    "franchise_id": "legendary",
+    "manager_id": "kenny",
+    "manager_name": "kenny",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Dane",
+      "MotorCade Scooter 🏍️ 🛵💨",
+      "dane"
+    ],
+    "current_team_name": "MotorCade Scooter 🏍️ 🛵💨",
+    "franchise_id": "motorcade_scooter",
+    "manager_id": "dane",
+    "manager_name": "Dane",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Jim",
+      "Speedsters",
+      "jim"
+    ],
+    "current_team_name": "Speedsters",
+    "franchise_id": "speedsters",
+    "manager_id": "jim",
+    "manager_name": "Jim",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "KnicksTape",
+      "Spike",
+      "Spike Lee's Diary",
+      "Spikes",
+      "knickstape"
+    ],
+    "current_team_name": "Spike Lee's Diary",
+    "franchise_id": "spike_lee_s_diary",
+    "manager_id": "knickstape",
+    "manager_name": "KnicksTape",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Prasana",
+      "SteveBlake Express",
+      "prasana"
+    ],
+    "current_team_name": "SteveBlake Express",
+    "franchise_id": "steveblake_express",
+    "manager_id": "prasana",
+    "manager_name": "Prasana",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Killa",
+      "Sub 0 killa! 🥶0⃣",
+      "Sub-0 J",
+      "killa"
+    ],
+    "current_team_name": "Sub-0 J",
+    "franchise_id": "sub_0_j",
+    "manager_id": "killa",
+    "manager_name": "Killa",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Syracuse nationals",
+      "teddy"
+    ],
+    "current_team_name": "Syracuse nationals",
+    "franchise_id": "syracuse_nationals",
+    "manager_id": "teddy",
+    "manager_name": "teddy",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Walson",
+      "Walson's Wonderful Team",
+      "walson"
+    ],
+    "current_team_name": "Walson's Wonderful Team",
+    "franchise_id": "walson_s_wonderful_team",
+    "manager_id": "walson",
+    "manager_name": "Walson",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  },
+  {
+    "aliases": [
+      "Mitchell",
+      "Wemby's",
+      "mitchell"
+    ],
+    "current_team_name": "Wemby's",
+    "franchise_id": "wemby_s",
+    "manager_id": "mitchell",
+    "manager_name": "Mitchell",
+    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
+  }
+]
