@@ -1,6 +1,6 @@
 {
   "current_season": "2025_26",
-  "generated_at": "2026-09-08T23:36:49.725258+00:00",
+  "generated_at": "2026-09-09T09:58:31.607492+00:00",
   "git_commit": "unavailable (workspace has no .git directory)",
   "league": "nbdl",
   "row_counts": {
@@ -21,5 +21,5 @@
     "/Users/kmorrison/Library/Mobile Documents/com~apple~CloudDocs/killanomics_engine/data/raw/yahoo/nbdl/2025-26/Yahoo-466.l.7100-Team.csv"
   ],
   "validation_error_count": 0,
-  "validation_warning_count": 60
+  "validation_warning_count": 56
 }

@@ -9,8 +9,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "31_savage",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -26,8 +26,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "ben_s_swag_team",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -43,8 +43,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "bosh_roid",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -60,8 +60,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "da_bum_tiss",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -77,8 +77,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "da_docta_s_perfect_team",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -94,8 +94,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "fade_away_2_excellence",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -111,8 +111,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "gamma_squad",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -128,8 +128,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "girth_god",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -145,8 +145,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "guns_buns",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -162,8 +162,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "hart_of_new_york",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -171,19 +171,19 @@
   },
   {
     "candidate_owner": "legendary",
-    "current_owner": "himmy_butlers",
+    "current_owner": "legendary",
     "draft_year": 2026,
     "original_owner": "himmy_butlers",
-    "ownership_confirmed": false,
+    "ownership_confirmed": true,
     "pick_id": "2026-R1-himmy_butlers",
-    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "publication_reason": "User-confirmed current pick transfer",
     "published_baseline": {
       "current_franchise_id": "himmy_butlers",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
-    "status": "needs_review",
+    "status": "verified",
     "trade_history": [
       {
         "date": "2026-02-28",
@@ -203,8 +203,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "legendary",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -220,46 +220,60 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "motorcade_scooter",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
     "trade_history": []
   },
   {
-    "candidate_owner": "speedsters",
-    "current_owner": "speedsters",
+    "candidate_owner": "walson_s_wonderful_team",
+    "current_owner": "walson_s_wonderful_team",
     "draft_year": 2026,
     "original_owner": "speedsters",
-    "ownership_confirmed": false,
+    "ownership_confirmed": true,
     "pick_id": "2026-R1-speedsters",
-    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "publication_reason": "User-confirmed current pick transfer",
     "published_baseline": {
       "current_franchise_id": "speedsters",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
-    "status": "needs_review",
-    "trade_history": []
+    "status": "verified",
+    "trade_history": [
+      {
+        "date": "2026-03-05",
+        "from_team": "speedsters",
+        "to_team": "walson_s_wonderful_team",
+        "trade_id": "trade_fa83e994c514ba21"
+      }
+    ]
   },
   {
-    "candidate_owner": "spike_lee_s_diary",
-    "current_owner": "spike_lee_s_diary",
+    "candidate_owner": "guns_buns",
+    "current_owner": "guns_buns",
     "draft_year": 2026,
     "original_owner": "spike_lee_s_diary",
-    "ownership_confirmed": false,
+    "ownership_confirmed": true,
     "pick_id": "2026-R1-spike_lee_s_diary",
-    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "publication_reason": "User-confirmed current pick transfer",
     "published_baseline": {
       "current_franchise_id": "spike_lee_s_diary",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
-    "status": "needs_review",
-    "trade_history": []
+    "status": "verified",
+    "trade_history": [
+      {
+        "date": "2025-07-05",
+        "from_team": "spike_lee_s_diary",
+        "to_team": "guns_buns",
+        "trade_id": "trade_c518dc6d24c4fed4"
+      }
+    ]
   },
   {
     "candidate_owner": "steveblake_express",
@@ -271,8 +285,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "steveblake_express",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -288,8 +302,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "sub_0_j",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -305,8 +319,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "syracuse_nationals",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -322,8 +336,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "walson_s_wonderful_team",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -339,8 +353,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "wemby_s",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 1,
     "status": "needs_review",
@@ -356,8 +370,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "31_savage",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -373,8 +387,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "ben_s_swag_team",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -390,8 +404,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "bosh_roid",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -407,8 +421,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "da_bum_tiss",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -424,8 +438,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "da_docta_s_perfect_team",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -441,8 +455,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "fade_away_2_excellence",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -458,8 +472,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "gamma_squad",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -475,8 +489,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "girth_god",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -492,8 +506,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "guns_buns",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -509,29 +523,36 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "hart_of_new_york",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
     "trade_history": []
   },
   {
-    "candidate_owner": "himmy_butlers",
-    "current_owner": "himmy_butlers",
+    "candidate_owner": "31_savage",
+    "current_owner": "31_savage",
     "draft_year": 2026,
     "original_owner": "himmy_butlers",
-    "ownership_confirmed": false,
+    "ownership_confirmed": true,
     "pick_id": "2026-R2-himmy_butlers",
-    "publication_reason": "Published ownership retained; replay candidate is not official",
+    "publication_reason": "User-confirmed current pick transfer",
     "published_baseline": {
       "current_franchise_id": "himmy_butlers",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
-    "status": "needs_review",
-    "trade_history": []
+    "status": "verified",
+    "trade_history": [
+      {
+        "date": "2025-11-08",
+        "from_team": "himmy_butlers",
+        "to_team": "31_savage",
+        "trade_id": "trade_968a9038a896ee7a"
+      }
+    ]
   },
   {
     "candidate_owner": "legendary",
@@ -543,8 +564,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "legendary",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -560,8 +581,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "motorcade_scooter",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -577,8 +598,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "speedsters",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -594,8 +615,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "spike_lee_s_diary",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -611,8 +632,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "steveblake_express",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -628,8 +649,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "sub_0_j",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -645,8 +666,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "syracuse_nationals",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -662,8 +683,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "walson_s_wonderful_team",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",
@@ -679,8 +700,8 @@
     "publication_reason": "Published ownership retained; replay candidate is not official",
     "published_baseline": {
       "current_franchise_id": "wemby_s",
-      "ownership_confirmed": "false",
-      "source_reference": "data/manual/nbdl/rookie_picks_2026.csv"
+      "ownership_confirmed": false,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
     },
     "round": 2,
     "status": "needs_review",

@@ -39,17 +39,17 @@
     "source": "inferred_standard_allocation"
   },
   {
-    "current_franchise_id": "spike_lee_s_diary",
+    "current_franchise_id": "guns_buns",
     "draft_year": "2026",
     "notes": "Confirm trades with commissioner",
     "original_franchise_id": "spike_lee_s_diary",
     "overall_pick": "4",
-    "ownership_confirmed": false,
+    "ownership_confirmed": true,
     "pick_id": "2026-R1-P4",
     "pick_number": "4",
     "pick_status": "pending",
     "round": "1",
-    "source": "inferred_standard_allocation"
+    "source": "validated_trade_ledger"
   },
   {
     "current_franchise_id": "da_docta_s_perfect_team",
@@ -208,17 +208,17 @@
     "source": "inferred_standard_allocation"
   },
   {
-    "current_franchise_id": "himmy_butlers",
+    "current_franchise_id": "legendary",
     "draft_year": "2026",
     "notes": "Confirm trades with commissioner",
     "original_franchise_id": "himmy_butlers",
     "overall_pick": "17",
-    "ownership_confirmed": false,
+    "ownership_confirmed": true,
     "pick_id": "2026-R1-P17",
     "pick_number": "17",
     "pick_status": "pending",
     "round": "1",
-    "source": "inferred_standard_allocation"
+    "source": "validated_trade_ledger"
   },
   {
     "current_franchise_id": "girth_god",
@@ -234,17 +234,17 @@
     "source": "inferred_standard_allocation"
   },
   {
-    "current_franchise_id": "speedsters",
+    "current_franchise_id": "walson_s_wonderful_team",
     "draft_year": "2026",
     "notes": "Confirm trades with commissioner",
     "original_franchise_id": "speedsters",
     "overall_pick": "19",
-    "ownership_confirmed": false,
+    "ownership_confirmed": true,
     "pick_id": "2026-R1-P19",
     "pick_number": "19",
     "pick_status": "pending",
     "round": "1",
-    "source": "inferred_standard_allocation"
+    "source": "validated_trade_ledger"
   },
   {
     "current_franchise_id": "31_savage",
@@ -468,17 +468,17 @@
     "source": "inferred_standard_allocation"
   },
   {
-    "current_franchise_id": "himmy_butlers",
+    "current_franchise_id": "31_savage",
     "draft_year": "2026",
     "notes": "Confirm trades with commissioner",
     "original_franchise_id": "himmy_butlers",
     "overall_pick": "37",
-    "ownership_confirmed": false,
+    "ownership_confirmed": true,
     "pick_id": "2026-R2-P17",
     "pick_number": "17",
     "pick_status": "pending",
     "round": "2",
-    "source": "inferred_standard_allocation"
+    "source": "validated_trade_ledger"
   },
   {
     "current_franchise_id": "girth_god",

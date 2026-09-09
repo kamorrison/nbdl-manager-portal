@@ -62,7 +62,7 @@
       "total_matchup_win_pct": 0.5593,
       "total_matchup_wins": 32
     },
-    "intended_rookie_selections": 2,
+    "intended_rookie_selections": 3,
     "keeper_status": "action_required",
     "keepers_declared": null,
     "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/01bcf6e0b2a25d826be6d5b6facf9b870526d918c4c5de9fb35464aa4ffc2781.jpg",
@@ -86,6 +86,19 @@
         "current_franchise_id": "31_savage",
         "draft_year": "2026",
         "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "himmy_butlers",
+        "overall_pick": "37",
+        "ownership_confirmed": true,
+        "pick_id": "2026-R2-P17",
+        "pick_number": "17",
+        "pick_status": "pending",
+        "round": "2",
+        "source": "validated_trade_ledger"
+      },
+      {
+        "current_franchise_id": "31_savage",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
         "original_franchise_id": "31_savage",
         "overall_pick": "40",
         "ownership_confirmed": false,
@@ -99,12 +112,13 @@
     "picks_skipped": [],
     "picks_used": [
       "2026-R1-P20",
+      "2026-R2-P17",
       "2026-R2-P20"
     ],
     "platform_team_id": "466.l.7100.t.2",
     "playoff_seed": 2,
     "rank": 1,
-    "required_yahoo_keepers": 13,
+    "required_yahoo_keepers": 12,
     "roster": [
       {
         "player_id": "466.p.6395",
@@ -219,8 +233,8 @@
     "slug": "31-savage",
     "submitted_at": "",
     "team_name": "31 Savage",
-    "total_owned_picks": 2,
-    "usable_owned_picks": 2,
+    "total_owned_picks": 3,
+    "usable_owned_picks": 3,
     "validation_messages": [],
     "validation_status": "valid"
   },
@@ -1799,13 +1813,26 @@
       "total_matchup_win_pct": 0.1786,
       "total_matchup_wins": 10
     },
-    "intended_rookie_selections": 2,
+    "intended_rookie_selections": 3,
     "keeper_status": "action_required",
     "keepers_declared": null,
     "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/159bb4e0082e0af4b981cac5176d345b29106968ebd226264e7e99ca87b0785a.jpg",
     "manager_id": "rick",
     "manager_name": "Rick",
     "owned_picks": [
+      {
+        "current_franchise_id": "guns_buns",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "spike_lee_s_diary",
+        "overall_pick": "4",
+        "ownership_confirmed": true,
+        "pick_id": "2026-R1-P4",
+        "pick_number": "4",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "validated_trade_ledger"
+      },
       {
         "current_franchise_id": "guns_buns",
         "draft_year": "2026",
@@ -1835,13 +1862,14 @@
     ],
     "picks_skipped": [],
     "picks_used": [
+      "2026-R1-P4",
       "2026-R1-P7",
       "2026-R2-P7"
     ],
     "platform_team_id": "466.l.7100.t.9",
     "playoff_seed": null,
     "rank": 16,
-    "required_yahoo_keepers": 13,
+    "required_yahoo_keepers": 12,
     "roster": [
       {
         "player_id": "466.p.10114",
@@ -1950,8 +1978,8 @@
     "slug": "guns-buns",
     "submitted_at": "",
     "team_name": "Guns & Buns",
-    "total_owned_picks": 2,
-    "usable_owned_picks": 2,
+    "total_owned_picks": 3,
+    "usable_owned_picks": 3,
     "validation_messages": [],
     "validation_status": "valid"
   },
@@ -2243,49 +2271,19 @@
       "total_matchup_win_pct": 0.7,
       "total_matchup_wins": 45
     },
-    "intended_rookie_selections": 2,
+    "intended_rookie_selections": 0,
     "keeper_status": "action_required",
     "keepers_declared": null,
     "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/71dbeabb6945c4a00e23172a0d9b6809fd3a6c8cecda9d8edcbccb3a4cffc861.jpg",
     "manager_id": "kooks",
     "manager_name": "Kooks",
-    "owned_picks": [
-      {
-        "current_franchise_id": "himmy_butlers",
-        "draft_year": "2026",
-        "notes": "Confirm trades with commissioner",
-        "original_franchise_id": "himmy_butlers",
-        "overall_pick": "17",
-        "ownership_confirmed": false,
-        "pick_id": "2026-R1-P17",
-        "pick_number": "17",
-        "pick_status": "pending",
-        "round": "1",
-        "source": "inferred_standard_allocation"
-      },
-      {
-        "current_franchise_id": "himmy_butlers",
-        "draft_year": "2026",
-        "notes": "Confirm trades with commissioner",
-        "original_franchise_id": "himmy_butlers",
-        "overall_pick": "37",
-        "ownership_confirmed": false,
-        "pick_id": "2026-R2-P17",
-        "pick_number": "17",
-        "pick_status": "pending",
-        "round": "2",
-        "source": "inferred_standard_allocation"
-      }
-    ],
+    "owned_picks": [],
     "picks_skipped": [],
-    "picks_used": [
-      "2026-R1-P17",
-      "2026-R2-P17"
-    ],
+    "picks_used": [],
     "platform_team_id": "466.l.7100.t.11",
     "playoff_seed": 4,
     "rank": 5,
-    "required_yahoo_keepers": 13,
+    "required_yahoo_keepers": 15,
     "roster": [
       {
         "player_id": "466.p.10278",
@@ -2400,8 +2398,8 @@
     "slug": "himmy-butlers",
     "submitted_at": "",
     "team_name": "Himmy Butlers",
-    "total_owned_picks": 2,
-    "usable_owned_picks": 2,
+    "total_owned_picks": 0,
+    "usable_owned_picks": 0,
     "validation_messages": [],
     "validation_status": "valid"
   },
@@ -2468,7 +2466,7 @@
       "total_matchup_win_pct": 0.5254,
       "total_matchup_wins": 30
     },
-    "intended_rookie_selections": 2,
+    "intended_rookie_selections": 3,
     "keeper_status": "action_required",
     "keepers_declared": null,
     "logo_url": "https://s.yimg.com/cv/apiv2/default/nba/nba_2_k.png",
@@ -2492,6 +2490,19 @@
         "current_franchise_id": "legendary",
         "draft_year": "2026",
         "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "himmy_butlers",
+        "overall_pick": "17",
+        "ownership_confirmed": true,
+        "pick_id": "2026-R1-P17",
+        "pick_number": "17",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "validated_trade_ledger"
+      },
+      {
+        "current_franchise_id": "legendary",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
         "original_franchise_id": "legendary",
         "overall_pick": "23",
         "ownership_confirmed": false,
@@ -2505,12 +2516,13 @@
     "picks_skipped": [],
     "picks_used": [
       "2026-R1-P3",
+      "2026-R1-P17",
       "2026-R2-P3"
     ],
     "platform_team_id": "466.l.7100.t.13",
     "playoff_seed": null,
     "rank": 15,
-    "required_yahoo_keepers": 13,
+    "required_yahoo_keepers": 12,
     "roster": [
       {
         "player_id": "466.p.10282",
@@ -2601,8 +2613,8 @@
     "slug": "legendary",
     "submitted_at": "",
     "team_name": "Legendary 🤩",
-    "total_owned_picks": 2,
-    "usable_owned_picks": 2,
+    "total_owned_picks": 3,
+    "usable_owned_picks": 3,
     "validation_messages": [],
     "validation_status": "valid"
   },
@@ -2888,26 +2900,13 @@
       "total_matchup_win_pct": 0.7615,
       "total_matchup_wins": 49
     },
-    "intended_rookie_selections": 2,
+    "intended_rookie_selections": 1,
     "keeper_status": "action_required",
     "keepers_declared": null,
     "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/d7cfae7034e934d20cb49223b4a34606416ee97f2e1eb2ea19e60cd24b021eb1.jpg",
     "manager_id": "jim",
     "manager_name": "Jim",
     "owned_picks": [
-      {
-        "current_franchise_id": "speedsters",
-        "draft_year": "2026",
-        "notes": "Confirm trades with commissioner",
-        "original_franchise_id": "speedsters",
-        "overall_pick": "19",
-        "ownership_confirmed": false,
-        "pick_id": "2026-R1-P19",
-        "pick_number": "19",
-        "pick_status": "pending",
-        "round": "1",
-        "source": "inferred_standard_allocation"
-      },
       {
         "current_franchise_id": "speedsters",
         "draft_year": "2026",
@@ -2924,13 +2923,12 @@
     ],
     "picks_skipped": [],
     "picks_used": [
-      "2026-R1-P19",
       "2026-R2-P19"
     ],
     "platform_team_id": "466.l.7100.t.15",
     "playoff_seed": 3,
     "rank": 3,
-    "required_yahoo_keepers": 13,
+    "required_yahoo_keepers": 14,
     "roster": [
       {
         "player_id": "466.p.6616",
@@ -3039,8 +3037,8 @@
     "slug": "speedsters",
     "submitted_at": "",
     "team_name": "Speedsters",
-    "total_owned_picks": 2,
-    "usable_owned_picks": 2,
+    "total_owned_picks": 1,
+    "usable_owned_picks": 1,
     "validation_messages": [],
     "validation_status": "valid"
   },
@@ -3107,26 +3105,13 @@
       "total_matchup_win_pct": 0.5932,
       "total_matchup_wins": 34
     },
-    "intended_rookie_selections": 2,
+    "intended_rookie_selections": 1,
     "keeper_status": "action_required",
     "keepers_declared": null,
     "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/9a7554535997dc6bbfde9f4253016a9b20909ebdb7efccca841f5bb935354d38.jpg",
     "manager_id": "knickstape",
     "manager_name": "KnicksTape",
     "owned_picks": [
-      {
-        "current_franchise_id": "spike_lee_s_diary",
-        "draft_year": "2026",
-        "notes": "Confirm trades with commissioner",
-        "original_franchise_id": "spike_lee_s_diary",
-        "overall_pick": "4",
-        "ownership_confirmed": false,
-        "pick_id": "2026-R1-P4",
-        "pick_number": "4",
-        "pick_status": "pending",
-        "round": "1",
-        "source": "inferred_standard_allocation"
-      },
       {
         "current_franchise_id": "spike_lee_s_diary",
         "draft_year": "2026",
@@ -3143,13 +3128,12 @@
     ],
     "picks_skipped": [],
     "picks_used": [
-      "2026-R1-P4",
       "2026-R2-P4"
     ],
     "platform_team_id": "466.l.7100.t.16",
     "playoff_seed": null,
     "rank": 12,
-    "required_yahoo_keepers": 13,
+    "required_yahoo_keepers": 14,
     "roster": [
       {
         "player_id": "466.p.6417",
@@ -3258,8 +3242,8 @@
     "slug": "spike-lee-s-diary",
     "submitted_at": "",
     "team_name": "Spike Lee's Diary",
-    "total_owned_picks": 2,
-    "usable_owned_picks": 2,
+    "total_owned_picks": 1,
+    "usable_owned_picks": 1,
     "validation_messages": [],
     "validation_status": "valid"
   },
@@ -3995,7 +3979,7 @@
       "total_matchup_win_pct": 0.5357,
       "total_matchup_wins": 29
     },
-    "intended_rookie_selections": 2,
+    "intended_rookie_selections": 3,
     "keeper_status": "action_required",
     "keepers_declared": null,
     "logo_url": "https://s.yimg.com/cv/apiv2/default/nba/nba_12_w.png",
@@ -4019,6 +4003,19 @@
         "current_franchise_id": "walson_s_wonderful_team",
         "draft_year": "2026",
         "notes": "Confirm trades with commissioner",
+        "original_franchise_id": "speedsters",
+        "overall_pick": "19",
+        "ownership_confirmed": true,
+        "pick_id": "2026-R1-P19",
+        "pick_number": "19",
+        "pick_status": "pending",
+        "round": "1",
+        "source": "validated_trade_ledger"
+      },
+      {
+        "current_franchise_id": "walson_s_wonderful_team",
+        "draft_year": "2026",
+        "notes": "Confirm trades with commissioner",
         "original_franchise_id": "walson_s_wonderful_team",
         "overall_pick": "29",
         "ownership_confirmed": false,
@@ -4032,12 +4029,13 @@
     "picks_skipped": [],
     "picks_used": [
       "2026-R1-P9",
+      "2026-R1-P19",
       "2026-R2-P9"
     ],
     "platform_team_id": "466.l.7100.t.19",
     "playoff_seed": null,
     "rank": 13,
-    "required_yahoo_keepers": 13,
+    "required_yahoo_keepers": 12,
     "roster": [
       {
         "player_id": "466.p.5767",
@@ -4140,8 +4138,8 @@
     "slug": "walson-s-wonderful-team",
     "submitted_at": "",
     "team_name": "Walson's Wonderful Team",
-    "total_owned_picks": 2,
-    "usable_owned_picks": 2,
+    "total_owned_picks": 3,
+    "usable_owned_picks": 3,
     "validation_messages": [],
     "validation_status": "valid"
   },

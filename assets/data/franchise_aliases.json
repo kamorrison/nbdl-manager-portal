@@ -150,6 +150,17 @@
     "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
   },
   {
+    "alias_confirmations": [
+      {
+        "alias": "millz617",
+        "confirmed_by": "user",
+        "date_added": "2026-09-08",
+        "manager_name": "kenny",
+        "manager_profile_url": "https://profiles.sports.yahoo.com/user/34E72D6PHCWL52B43ECDFDFYK4",
+        "source_reference": "data/raw/nbdl/trades/confirmations/millz617_legendary_2026-09-08.json",
+        "team_url": "https://basketball.fantasysports.yahoo.com/nba/10554/13"
+      }
+    ],
     "aliases": [
       "Legendary 🤩",
       "Lengendy",
@@ -160,7 +171,7 @@
     "franchise_id": "legendary",
     "manager_id": "kenny",
     "manager_name": "kenny",
-    "notes": "millz617: corroborated by 466.l.7100.tr.588 and Discord 2026-02-28. Getting Dinn With It: Ross plus matching 2024-01-13 trade. Informal spelling aliases from supplied trade text. No inferred mapping of In It 2 Win It V to Fade Away 2 Excellence.",
+    "notes": "User confirmed millz617 is Kenny’s Legendary franchise on 2026-09-08. Also corroborated by Yahoo transaction 466.l.7100.tr.588 and the Discord Booker/Garland announcement dated 2026-02-28.",
     "source_reference": "data/raw/yahoo/nbdl/manager_franchise_map.csv"
   },
   {

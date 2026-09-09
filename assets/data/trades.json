@@ -1150,6 +1150,13 @@
       },
       {
         "asset_type": "draft_pick",
+        "confirmation": {
+          "corrected_by": "user",
+          "current_ownership": true,
+          "date_added": "2026-09-09",
+          "reason": "User explicitly approved the listed current pick transfers and publication. For the swap, existence is confirmed; unspecified terms remain unresolved.",
+          "source_reference": "data/raw/nbdl/trades/confirmations/approved_moves_2026-09-09.json"
+        },
         "draft_year": 2026,
         "from_team": "spike_lee_s_diary",
         "original_owner": "spike_lee_s_diary",
@@ -1175,6 +1182,14 @@
       }
     ],
     "confidence": "needs_review",
+    "corrections": [
+      {
+        "corrected_by": "user",
+        "date_added": "2026-09-09",
+        "reason": "User explicitly approved the listed current pick transfers and publication. For the swap, existence is confirmed; unspecified terms remain unresolved.",
+        "source_reference": "data/raw/nbdl/trades/confirmations/approved_moves_2026-09-09.json"
+      }
+    ],
     "date": "2025-07-05",
     "external_trade_id": "21",
     "notes": "",
@@ -1561,20 +1576,39 @@
       },
       {
         "asset_type": "draft_pick",
+        "confirmation": {
+          "corrected_by": "user",
+          "current_ownership": true,
+          "date_added": "2026-09-09",
+          "reason": "User explicitly approved the listed current pick transfers and publication. For the swap, existence is confirmed; unspecified terms remain unresolved.",
+          "source_reference": "data/raw/nbdl/trades/confirmations/approved_moves_2026-09-09.json"
+        },
         "draft_year": 2026,
         "from_team": "himmy_butlers",
-        "original_owner": null,
+        "original_owner": "himmy_butlers",
         "raw_asset": "a 2026 2nd Rd pick",
         "round": 2,
         "to_team": "31_savage"
       }
     ],
-    "confidence": "needs_review",
+    "confidence": "confirmed",
+    "corrections": [
+      {
+        "corrected_by": "user",
+        "date_added": "2026-09-08",
+        "reason": "User confirmed Himmy sent his own original 2026 pick. November 8 Discord message specifies round 2.",
+        "source_reference": "data/raw/nbdl/trades/confirmations/himmy_2026_second_2026-09-08.json"
+      },
+      {
+        "corrected_by": "user",
+        "date_added": "2026-09-09",
+        "reason": "User explicitly approved the listed current pick transfers and publication. For the swap, existence is confirmed; unspecified terms remain unresolved.",
+        "source_reference": "data/raw/nbdl/trades/confirmations/approved_moves_2026-09-09.json"
+      }
+    ],
     "date": "2025-11-08",
     "notes": "",
-    "problems": [
-      "Could not determine original_owner of a 2026 2nd Rd pick"
-    ],
+    "problems": [],
     "season": "2025-26",
     "sources": [
       {
@@ -1612,6 +1646,13 @@
       },
       {
         "asset_type": "draft_pick",
+        "confirmation": {
+          "corrected_by": "user",
+          "current_ownership": true,
+          "date_added": "2026-09-09",
+          "reason": "User explicitly approved the listed current pick transfers and publication. For the swap, existence is confirmed; unspecified terms remain unresolved.",
+          "source_reference": "data/raw/nbdl/trades/confirmations/approved_moves_2026-09-09.json"
+        },
         "draft_year": 2026,
         "from_team": "himmy_butlers",
         "original_owner": "himmy_butlers",
@@ -1621,6 +1662,14 @@
       }
     ],
     "confidence": "confirmed",
+    "corrections": [
+      {
+        "corrected_by": "user",
+        "date_added": "2026-09-09",
+        "reason": "User explicitly approved the listed current pick transfers and publication. For the swap, existence is confirmed; unspecified terms remain unresolved.",
+        "source_reference": "data/raw/nbdl/trades/confirmations/approved_moves_2026-09-09.json"
+      }
+    ],
     "date": "2026-02-28",
     "notes": "",
     "problems": [],
@@ -1645,6 +1694,13 @@
     "assets": [
       {
         "asset_type": "other",
+        "confirmation": {
+          "corrected_by": "user",
+          "current_ownership": false,
+          "date_added": "2026-09-09",
+          "reason": "User explicitly approved the listed current pick transfers and publication. For the swap, existence is confirmed; unspecified terms remain unresolved.",
+          "source_reference": "data/raw/nbdl/trades/confirmations/approved_moves_2026-09-09.json"
+        },
         "description": "the right to a swap of a same round draft pick that expires in 2027",
         "draft_year": 2027,
         "from_team": "speedsters",
@@ -1687,6 +1743,14 @@
       }
     ],
     "confidence": "needs_review",
+    "corrections": [
+      {
+        "corrected_by": "user",
+        "date_added": "2026-09-09",
+        "reason": "User explicitly approved the listed current pick transfers and publication. For the swap, existence is confirmed; unspecified terms remain unresolved.",
+        "source_reference": "data/raw/nbdl/trades/confirmations/approved_moves_2026-09-09.json"
+      }
+    ],
     "date": "2026-03-05",
     "notes": "",
     "problems": [
@@ -1717,11 +1781,18 @@
       },
       {
         "asset_type": "draft_pick",
+        "confirmation": {
+          "corrected_by": "user",
+          "current_ownership": true,
+          "date_added": "2026-09-09",
+          "reason": "User explicitly approved the listed current pick transfers and publication. For the swap, existence is confirmed; unspecified terms remain unresolved.",
+          "source_reference": "data/raw/nbdl/trades/confirmations/approved_moves_2026-09-09.json"
+        },
         "draft_year": 2026,
         "from_team": "speedsters",
-        "original_owner": null,
+        "original_owner": "speedsters",
         "raw_asset": "his 2026 rookie pick",
-        "round": null,
+        "round": 1,
         "to_team": "walson_s_wonderful_team"
       },
       {
@@ -1733,13 +1804,24 @@
         "to_team": "speedsters"
       }
     ],
-    "confidence": "needs_review",
+    "confidence": "confirmed",
+    "corrections": [
+      {
+        "corrected_by": "user",
+        "date_added": "2026-09-08",
+        "reason": "User confirmed the pick sent to Walson was Speedsters’ original 2026 first-round pick.",
+        "source_reference": "data/raw/nbdl/trades/confirmations/speedsters_2026_first_2026-09-08.json"
+      },
+      {
+        "corrected_by": "user",
+        "date_added": "2026-09-09",
+        "reason": "User explicitly approved the listed current pick transfers and publication. For the swap, existence is confirmed; unspecified terms remain unresolved.",
+        "source_reference": "data/raw/nbdl/trades/confirmations/approved_moves_2026-09-09.json"
+      }
+    ],
     "date": "2026-03-05",
     "notes": "",
-    "problems": [
-      "Could not determine original_owner of his 2026 rookie pick",
-      "Could not determine round of his 2026 rookie pick"
-    ],
+    "problems": [],
     "season": "2025-26",
     "sources": [
       {

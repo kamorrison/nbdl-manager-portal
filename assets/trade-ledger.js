@@ -43,7 +43,7 @@
       c.append(node('h2',t.date||'Date needs review'),node('p',t.excluded?'Excluded by correction':t.confidence.replaceAll('_',' ').toUpperCase(),t.problems.length?'warning':'muted'));
       t.teams.forEach(f=>{
         c.append(node('h3',name(f)+' receives'));
-        const ul=node('ul'); t.assets.filter(a=>a.to_team===f).forEach(a=>ul.append(node('li',assetLabel(a))));
+        const ul=node('ul'); t.assets.filter(a=>a.to_team===f).forEach(a=>ul.append(node('li',assetLabel(a)+(a.confirmation?' — CONFIRMED':''))));
         if(!ul.children.length)ul.append(node('li','No assets specified')); c.append(ul);
       });
       if(t.problems.length)c.append(node('p',t.problems.join('; '),'warning'));
@@ -51,7 +51,7 @@
     }
     function render() {
       results.replaceChildren();
-      status.textContent=health.publication_ready?'Ownership verified against the approved ledger.':`NEEDS REVIEW · ${health.unresolved} picks unverified. Published owners are retained; replay candidates are not official.`;
+      status.textContent=health.publication_ready?'Ownership verified against the approved ledger.':`NEEDS REVIEW · ${health.correctly_assigned} picks confirmed; ${health.unresolved} picks still unverified. Confirmed moves are applied. Other published owners are retained.`;
       status.className=health.publication_ready?'notice valid':'notice warning';
       if(view==='picks') {
         const shown=picks.filter(p=>(!val('year')||String(p.draft_year)===val('year'))&&(!val('team')||[p.original_owner,p.current_owner,p.candidate_owner].includes(val('team'))));

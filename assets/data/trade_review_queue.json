@@ -118,28 +118,12 @@
     "trade_id": "trade_6bfcbe00b232c0bc"
   },
   {
-    "reason": "Could not determine original_owner of a 2026 2nd Rd pick",
-    "teams": [
-      "31_savage",
-      "himmy_butlers"
-    ],
-    "trade_id": "trade_968a9038a896ee7a"
-  },
-  {
     "reason": "Swap terms require explicit original picks, round, exercise and expiry rules",
     "teams": [
       "hart_of_new_york",
       "speedsters"
     ],
     "trade_id": "trade_06c3383a11475a2e"
-  },
-  {
-    "reason": "Could not determine original_owner of his 2026 rookie pick; Could not determine round of his 2026 rookie pick",
-    "teams": [
-      "speedsters",
-      "walson_s_wonderful_team"
-    ],
-    "trade_id": "trade_fa83e994c514ba21"
   },
   {
     "category": "franchise_identity",
