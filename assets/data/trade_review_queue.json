@@ -1,14 +1,6 @@
 [
   {
-    "reason": "Could not determine draft_year of Picks 1, 7-1, 10-1, 12-1; Could not determine draft_year of Picks 1-4, 2-17, 5-4, 15-17; Could not determine original_owner of Picks 1, 7-1, 10-1, 12-1; Could not determine original_owner of Picks 1-4, 2-17, 5-4, 15-17; Could not determine round of Picks 1, 7-1, 10-1, 12-1; Could not determine round of Picks 1-4, 2-17, 5-4, 15-17",
-    "teams": [
-      "ben_s_swag_team",
-      "himmy_butlers"
-    ],
-    "trade_id": "trade_13ca55373aa003bc"
-  },
-  {
-    "reason": "Could not determine draft_year of Picks 5, 36,56, 92, 136; Could not determine draft_year of Picks 8, 133; Could not determine draft_year of Picks 9, 33, 53, 68; Could not determine original_owner of Picks 5, 36,56, 92, 136; Could not determine original_owner of Picks 8, 133; Could not determine original_owner of Picks 9, 33, 53, 68; Could not determine round of Picks 5, 36,56, 92, 136; Could not determine round of Picks 8, 133; Could not determine round of Picks 9, 33, 53, 68; Multi-team receipt table omits explicit senders; do not infer direction; Unidentified franchise or asset sender",
+    "reason": "Multi-team receipt table omits explicit senders; do not infer direction; Unidentified inaugural draft selection sender or receiver",
     "teams": [
       "speedsters",
       "syracuse_nationals",
@@ -17,23 +9,7 @@
     "trade_id": "trade_5e4fe1e2b445c1dd"
   },
   {
-    "reason": "Could not determine draft_year of Picks 108, 173; Could not determine draft_year of Picks 126, 155; Could not determine original_owner of Picks 108, 173; Could not determine original_owner of Picks 126, 155; Could not determine round of Picks 108, 173; Could not determine round of Picks 126, 155",
-    "teams": [
-      "fade_away_2_excellence",
-      "wemby_s"
-    ],
-    "trade_id": "trade_006e0123e2cabb84"
-  },
-  {
-    "reason": "Could not determine draft_year of Picks 6-12, 12-12; Could not determine draft_year of Picks 7-15, 9-15; Could not determine original_owner of Picks 6-12, 12-12; Could not determine original_owner of Picks 7-15, 9-15; Could not determine round of Picks 6-12, 12-12; Could not determine round of Picks 7-15, 9-15",
-    "teams": [
-      "da_bum_tiss",
-      "spike_lee_s_diary"
-    ],
-    "trade_id": "trade_a3da0e7e402b5069"
-  },
-  {
-    "reason": "Could not determine original_owner of 2024 1st; Unrecognized player/other asset: 11-?",
+    "reason": "Could not determine original_owner of 2024 1st; Incomplete inaugural draft selection: 11-?",
     "teams": [
       "bosh_roid",
       "syracuse_nationals"
@@ -41,7 +17,7 @@
     "trade_id": "trade_733ae29a20f08495"
   },
   {
-    "reason": "Could not determine draft_year of Pick 9-8; Could not determine original_owner of Pick 9-8; Could not determine original_owner of Picks 11-17, 2024 1st; Could not determine round of Pick 9-8",
+    "reason": "Could not determine original_owner of 2024 1st",
     "teams": [
       "himmy_butlers",
       "syracuse_nationals"

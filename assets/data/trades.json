@@ -2,36 +2,98 @@
   {
     "assets": [
       {
-        "asset_type": "draft_pick",
-        "draft_year": null,
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 1",
+        "draft_year": 2023,
         "from_team": "ben_s_swag_team",
-        "original_owner": null,
-        "raw_asset": "Picks 1, 7-1, 10-1, 12-1",
-        "round": null,
+        "overall_pick": 1,
+        "raw_asset": "Picks 1",
+        "selection_code": "1",
         "to_team": "himmy_butlers"
       },
       {
-        "asset_type": "draft_pick",
-        "draft_year": null,
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 7-1",
+        "draft_year": 2023,
+        "from_team": "ben_s_swag_team",
+        "pick_number": 1,
+        "raw_asset": "7-1",
+        "round": 7,
+        "selection_code": "7-1",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 10-1",
+        "draft_year": 2023,
+        "from_team": "ben_s_swag_team",
+        "pick_number": 1,
+        "raw_asset": "10-1",
+        "round": 10,
+        "selection_code": "10-1",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 12-1",
+        "draft_year": 2023,
+        "from_team": "ben_s_swag_team",
+        "pick_number": 1,
+        "raw_asset": "12-1",
+        "round": 12,
+        "selection_code": "12-1",
+        "to_team": "himmy_butlers"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 1-4",
+        "draft_year": 2023,
         "from_team": "himmy_butlers",
-        "original_owner": null,
-        "raw_asset": "Picks 1-4, 2-17, 5-4, 15-17",
-        "round": null,
+        "pick_number": 4,
+        "raw_asset": "Picks 1-4",
+        "round": 1,
+        "selection_code": "1-4",
+        "to_team": "ben_s_swag_team"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 2-17",
+        "draft_year": 2023,
+        "from_team": "himmy_butlers",
+        "pick_number": 17,
+        "raw_asset": "2-17",
+        "round": 2,
+        "selection_code": "2-17",
+        "to_team": "ben_s_swag_team"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 5-4",
+        "draft_year": 2023,
+        "from_team": "himmy_butlers",
+        "pick_number": 4,
+        "raw_asset": "5-4",
+        "round": 5,
+        "selection_code": "5-4",
+        "to_team": "ben_s_swag_team"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 15-17",
+        "draft_year": 2023,
+        "from_team": "himmy_butlers",
+        "pick_number": 17,
+        "raw_asset": "15-17",
+        "round": 15,
+        "selection_code": "15-17",
         "to_team": "ben_s_swag_team"
       }
     ],
-    "confidence": "needs_review",
+    "confidence": "probable",
     "date": "2023-07-10",
     "external_trade_id": "1",
     "notes": "",
-    "problems": [
-      "Could not determine draft_year of Picks 1, 7-1, 10-1, 12-1",
-      "Could not determine round of Picks 1, 7-1, 10-1, 12-1",
-      "Could not determine original_owner of Picks 1, 7-1, 10-1, 12-1",
-      "Could not determine draft_year of Picks 1-4, 2-17, 5-4, 15-17",
-      "Could not determine round of Picks 1-4, 2-17, 5-4, 15-17",
-      "Could not determine original_owner of Picks 1-4, 2-17, 5-4, 15-17"
-    ],
+    "problems": [],
     "season": "2023-24",
     "sources": [
       {
@@ -48,30 +110,113 @@
   {
     "assets": [
       {
-        "asset_type": "draft_pick",
-        "draft_year": null,
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 8",
+        "draft_year": 2023,
         "from_team": null,
-        "original_owner": null,
-        "raw_asset": "Picks 8, 133",
-        "round": null,
+        "overall_pick": 8,
+        "raw_asset": "Picks 8",
+        "selection_code": "8",
         "to_team": "speedsters"
       },
       {
-        "asset_type": "draft_pick",
-        "draft_year": null,
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 133",
+        "draft_year": 2023,
         "from_team": null,
-        "original_owner": null,
-        "raw_asset": "Picks 9, 33, 53, 68",
-        "round": null,
+        "overall_pick": 133,
+        "raw_asset": "133",
+        "selection_code": "133",
+        "to_team": "speedsters"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 9",
+        "draft_year": 2023,
+        "from_team": null,
+        "overall_pick": 9,
+        "raw_asset": "Picks 9",
+        "selection_code": "9",
         "to_team": "syracuse_nationals"
       },
       {
-        "asset_type": "draft_pick",
-        "draft_year": null,
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 33",
+        "draft_year": 2023,
         "from_team": null,
-        "original_owner": null,
-        "raw_asset": "Picks 5, 36,56, 92, 136",
-        "round": null,
+        "overall_pick": 33,
+        "raw_asset": "33",
+        "selection_code": "33",
+        "to_team": "syracuse_nationals"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 53",
+        "draft_year": 2023,
+        "from_team": null,
+        "overall_pick": 53,
+        "raw_asset": "53",
+        "selection_code": "53",
+        "to_team": "syracuse_nationals"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 68",
+        "draft_year": 2023,
+        "from_team": null,
+        "overall_pick": 68,
+        "raw_asset": "68",
+        "selection_code": "68",
+        "to_team": "syracuse_nationals"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 5",
+        "draft_year": 2023,
+        "from_team": null,
+        "overall_pick": 5,
+        "raw_asset": "Picks 5",
+        "selection_code": "5",
+        "to_team": "wemby_s"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 36",
+        "draft_year": 2023,
+        "from_team": null,
+        "overall_pick": 36,
+        "raw_asset": "36",
+        "selection_code": "36",
+        "to_team": "wemby_s"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 56",
+        "draft_year": 2023,
+        "from_team": null,
+        "overall_pick": 56,
+        "raw_asset": "56",
+        "selection_code": "56",
+        "to_team": "wemby_s"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 92",
+        "draft_year": 2023,
+        "from_team": null,
+        "overall_pick": 92,
+        "raw_asset": "92",
+        "selection_code": "92",
+        "to_team": "wemby_s"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 136",
+        "draft_year": 2023,
+        "from_team": null,
+        "overall_pick": 136,
+        "raw_asset": "136",
+        "selection_code": "136",
         "to_team": "wemby_s"
       }
     ],
@@ -80,18 +225,17 @@
     "external_trade_id": "2",
     "notes": "",
     "problems": [
-      "Unidentified franchise or asset sender",
-      "Could not determine draft_year of Picks 8, 133",
-      "Could not determine round of Picks 8, 133",
-      "Could not determine original_owner of Picks 8, 133",
-      "Unidentified franchise or asset sender",
-      "Could not determine draft_year of Picks 9, 33, 53, 68",
-      "Could not determine round of Picks 9, 33, 53, 68",
-      "Could not determine original_owner of Picks 9, 33, 53, 68",
-      "Unidentified franchise or asset sender",
-      "Could not determine draft_year of Picks 5, 36,56, 92, 136",
-      "Could not determine round of Picks 5, 36,56, 92, 136",
-      "Could not determine original_owner of Picks 5, 36,56, 92, 136",
+      "Unidentified inaugural draft selection sender or receiver",
+      "Unidentified inaugural draft selection sender or receiver",
+      "Unidentified inaugural draft selection sender or receiver",
+      "Unidentified inaugural draft selection sender or receiver",
+      "Unidentified inaugural draft selection sender or receiver",
+      "Unidentified inaugural draft selection sender or receiver",
+      "Unidentified inaugural draft selection sender or receiver",
+      "Unidentified inaugural draft selection sender or receiver",
+      "Unidentified inaugural draft selection sender or receiver",
+      "Unidentified inaugural draft selection sender or receiver",
+      "Unidentified inaugural draft selection sender or receiver",
       "Multi-team receipt table omits explicit senders; do not infer direction"
     ],
     "season": "2023-24",
@@ -111,36 +255,51 @@
   {
     "assets": [
       {
-        "asset_type": "draft_pick",
-        "draft_year": null,
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 126",
+        "draft_year": 2023,
         "from_team": "fade_away_2_excellence",
-        "original_owner": null,
-        "raw_asset": "Picks 126, 155",
-        "round": null,
+        "overall_pick": 126,
+        "raw_asset": "Picks 126",
+        "selection_code": "126",
         "to_team": "wemby_s"
       },
       {
-        "asset_type": "draft_pick",
-        "draft_year": null,
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 155",
+        "draft_year": 2023,
+        "from_team": "fade_away_2_excellence",
+        "overall_pick": 155,
+        "raw_asset": "155",
+        "selection_code": "155",
+        "to_team": "wemby_s"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 108",
+        "draft_year": 2023,
         "from_team": "wemby_s",
-        "original_owner": null,
-        "raw_asset": "Picks 108, 173",
-        "round": null,
+        "overall_pick": 108,
+        "raw_asset": "Picks 108",
+        "selection_code": "108",
+        "to_team": "fade_away_2_excellence"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 173",
+        "draft_year": 2023,
+        "from_team": "wemby_s",
+        "overall_pick": 173,
+        "raw_asset": "173",
+        "selection_code": "173",
         "to_team": "fade_away_2_excellence"
       }
     ],
-    "confidence": "needs_review",
+    "confidence": "probable",
     "date": "2023-07-24",
     "external_trade_id": "3",
     "notes": "",
-    "problems": [
-      "Could not determine draft_year of Picks 126, 155",
-      "Could not determine round of Picks 126, 155",
-      "Could not determine original_owner of Picks 126, 155",
-      "Could not determine draft_year of Picks 108, 173",
-      "Could not determine round of Picks 108, 173",
-      "Could not determine original_owner of Picks 108, 173"
-    ],
+    "problems": [],
     "season": "2023-24",
     "sources": [
       {
@@ -157,36 +316,55 @@
   {
     "assets": [
       {
-        "asset_type": "draft_pick",
-        "draft_year": null,
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 7-15",
+        "draft_year": 2023,
         "from_team": "spike_lee_s_diary",
-        "original_owner": null,
-        "raw_asset": "Picks 7-15, 9-15",
-        "round": null,
+        "pick_number": 15,
+        "raw_asset": "Picks 7-15",
+        "round": 7,
+        "selection_code": "7-15",
         "to_team": "da_bum_tiss"
       },
       {
-        "asset_type": "draft_pick",
-        "draft_year": null,
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 9-15",
+        "draft_year": 2023,
+        "from_team": "spike_lee_s_diary",
+        "pick_number": 15,
+        "raw_asset": "9-15",
+        "round": 9,
+        "selection_code": "9-15",
+        "to_team": "da_bum_tiss"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 6-12",
+        "draft_year": 2023,
         "from_team": "da_bum_tiss",
-        "original_owner": null,
-        "raw_asset": "Picks 6-12, 12-12",
-        "round": null,
+        "pick_number": 12,
+        "raw_asset": "Picks 6-12",
+        "round": 6,
+        "selection_code": "6-12",
+        "to_team": "spike_lee_s_diary"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 12-12",
+        "draft_year": 2023,
+        "from_team": "da_bum_tiss",
+        "pick_number": 12,
+        "raw_asset": "12-12",
+        "round": 12,
+        "selection_code": "12-12",
         "to_team": "spike_lee_s_diary"
       }
     ],
-    "confidence": "needs_review",
+    "confidence": "probable",
     "date": "2023-07-24",
     "external_trade_id": "4",
     "notes": "",
-    "problems": [
-      "Could not determine draft_year of Picks 7-15, 9-15",
-      "Could not determine round of Picks 7-15, 9-15",
-      "Could not determine original_owner of Picks 7-15, 9-15",
-      "Could not determine draft_year of Picks 6-12, 12-12",
-      "Could not determine round of Picks 6-12, 12-12",
-      "Could not determine original_owner of Picks 6-12, 12-12"
-    ],
+    "problems": [],
     "season": "2023-24",
     "sources": [
       {
@@ -212,11 +390,14 @@
         "to_team": "syracuse_nationals"
       },
       {
-        "asset_type": "player",
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 11-?",
+        "draft_year": 2023,
         "from_team": "bosh_roid",
-        "player_id": null,
-        "player_name": "11-?",
+        "pick_number": null,
         "raw_asset": "11-?",
+        "round": 11,
+        "selection_code": "11-?",
         "to_team": "syracuse_nationals"
       },
       {
@@ -234,7 +415,7 @@
     "notes": "",
     "problems": [
       "Could not determine original_owner of 2024 1st",
-      "Unrecognized player/other asset: 11-?"
+      "Incomplete inaugural draft selection: 11-?"
     ],
     "season": "2023-24",
     "sources": [
@@ -252,21 +433,34 @@
   {
     "assets": [
       {
-        "asset_type": "draft_pick",
-        "draft_year": 2024,
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 11-17",
+        "draft_year": 2023,
         "from_team": "himmy_butlers",
-        "original_owner": null,
-        "raw_asset": "Picks 11-17, 2024 1st",
-        "round": 1,
+        "pick_number": 17,
+        "raw_asset": "Picks 11-17",
+        "round": 11,
+        "selection_code": "11-17",
         "to_team": "syracuse_nationals"
       },
       {
         "asset_type": "draft_pick",
-        "draft_year": null,
-        "from_team": "syracuse_nationals",
+        "draft_year": 2024,
+        "from_team": "himmy_butlers",
         "original_owner": null,
+        "raw_asset": "2024 1st",
+        "round": 1,
+        "to_team": "syracuse_nationals"
+      },
+      {
+        "asset_type": "inaugural_draft_pick",
+        "description": "2023 inaugural draft selection 9-8",
+        "draft_year": 2023,
+        "from_team": "syracuse_nationals",
+        "pick_number": 8,
         "raw_asset": "Pick 9-8",
-        "round": null,
+        "round": 9,
+        "selection_code": "9-8",
         "to_team": "himmy_butlers"
       }
     ],
@@ -275,10 +469,7 @@
     "external_trade_id": "5",
     "notes": "",
     "problems": [
-      "Could not determine original_owner of Picks 11-17, 2024 1st",
-      "Could not determine draft_year of Pick 9-8",
-      "Could not determine round of Pick 9-8",
-      "Could not determine original_owner of Pick 9-8"
+      "Could not determine original_owner of 2024 1st"
     ],
     "season": "2023-24",
     "sources": [

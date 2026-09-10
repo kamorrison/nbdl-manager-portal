@@ -10,7 +10,7 @@
     "published_baseline": {
       "current_franchise_id": "31_savage",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -27,7 +27,7 @@
     "published_baseline": {
       "current_franchise_id": "ben_s_swag_team",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -44,7 +44,7 @@
     "published_baseline": {
       "current_franchise_id": "bosh_roid",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -61,7 +61,7 @@
     "published_baseline": {
       "current_franchise_id": "da_bum_tiss",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -78,7 +78,7 @@
     "published_baseline": {
       "current_franchise_id": "da_docta_s_perfect_team",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -95,7 +95,7 @@
     "published_baseline": {
       "current_franchise_id": "fade_away_2_excellence",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -112,7 +112,7 @@
     "published_baseline": {
       "current_franchise_id": "gamma_squad",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -129,7 +129,7 @@
     "published_baseline": {
       "current_franchise_id": "girth_god",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -146,7 +146,7 @@
     "published_baseline": {
       "current_franchise_id": "guns_buns",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -163,7 +163,7 @@
     "published_baseline": {
       "current_franchise_id": "hart_of_new_york",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -178,9 +178,9 @@
     "pick_id": "2026-R1-himmy_butlers",
     "publication_reason": "User-confirmed current pick transfer",
     "published_baseline": {
-      "current_franchise_id": "himmy_butlers",
-      "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "current_franchise_id": "legendary",
+      "ownership_confirmed": true,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "verified",
@@ -204,7 +204,7 @@
     "published_baseline": {
       "current_franchise_id": "legendary",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -221,7 +221,7 @@
     "published_baseline": {
       "current_franchise_id": "motorcade_scooter",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -236,9 +236,9 @@
     "pick_id": "2026-R1-speedsters",
     "publication_reason": "User-confirmed current pick transfer",
     "published_baseline": {
-      "current_franchise_id": "speedsters",
-      "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "current_franchise_id": "walson_s_wonderful_team",
+      "ownership_confirmed": true,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "verified",
@@ -260,9 +260,9 @@
     "pick_id": "2026-R1-spike_lee_s_diary",
     "publication_reason": "User-confirmed current pick transfer",
     "published_baseline": {
-      "current_franchise_id": "spike_lee_s_diary",
-      "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "current_franchise_id": "guns_buns",
+      "ownership_confirmed": true,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "verified",
@@ -286,7 +286,7 @@
     "published_baseline": {
       "current_franchise_id": "steveblake_express",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -303,7 +303,7 @@
     "published_baseline": {
       "current_franchise_id": "sub_0_j",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -320,7 +320,7 @@
     "published_baseline": {
       "current_franchise_id": "syracuse_nationals",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -337,7 +337,7 @@
     "published_baseline": {
       "current_franchise_id": "walson_s_wonderful_team",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -354,7 +354,7 @@
     "published_baseline": {
       "current_franchise_id": "wemby_s",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 1,
     "status": "needs_review",
@@ -371,7 +371,7 @@
     "published_baseline": {
       "current_franchise_id": "31_savage",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -388,7 +388,7 @@
     "published_baseline": {
       "current_franchise_id": "ben_s_swag_team",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -405,7 +405,7 @@
     "published_baseline": {
       "current_franchise_id": "bosh_roid",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -422,7 +422,7 @@
     "published_baseline": {
       "current_franchise_id": "da_bum_tiss",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -439,7 +439,7 @@
     "published_baseline": {
       "current_franchise_id": "da_docta_s_perfect_team",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -456,7 +456,7 @@
     "published_baseline": {
       "current_franchise_id": "fade_away_2_excellence",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -473,7 +473,7 @@
     "published_baseline": {
       "current_franchise_id": "gamma_squad",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -490,7 +490,7 @@
     "published_baseline": {
       "current_franchise_id": "girth_god",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -507,7 +507,7 @@
     "published_baseline": {
       "current_franchise_id": "guns_buns",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -524,7 +524,7 @@
     "published_baseline": {
       "current_franchise_id": "hart_of_new_york",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -539,9 +539,9 @@
     "pick_id": "2026-R2-himmy_butlers",
     "publication_reason": "User-confirmed current pick transfer",
     "published_baseline": {
-      "current_franchise_id": "himmy_butlers",
-      "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "current_franchise_id": "31_savage",
+      "ownership_confirmed": true,
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "verified",
@@ -565,7 +565,7 @@
     "published_baseline": {
       "current_franchise_id": "legendary",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -582,7 +582,7 @@
     "published_baseline": {
       "current_franchise_id": "motorcade_scooter",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -599,7 +599,7 @@
     "published_baseline": {
       "current_franchise_id": "speedsters",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -616,7 +616,7 @@
     "published_baseline": {
       "current_franchise_id": "spike_lee_s_diary",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -633,7 +633,7 @@
     "published_baseline": {
       "current_franchise_id": "steveblake_express",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -650,7 +650,7 @@
     "published_baseline": {
       "current_franchise_id": "sub_0_j",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -667,7 +667,7 @@
     "published_baseline": {
       "current_franchise_id": "syracuse_nationals",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -684,7 +684,7 @@
     "published_baseline": {
       "current_franchise_id": "walson_s_wonderful_team",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",
@@ -701,7 +701,7 @@
     "published_baseline": {
       "current_franchise_id": "wemby_s",
       "ownership_confirmed": false,
-      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34299953981"
+      "source_reference": "https://github.com/kamorrison/nbdl-manager-portal/actions/runs/34337798509"
     },
     "round": 2,
     "status": "needs_review",

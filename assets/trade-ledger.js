@@ -26,7 +26,7 @@
     if(view==='trades') {
       select('season','Season',unique(trades.map(t=>t.season)));
       select('year','Draft year',unique(trades.flatMap(t=>t.assets.map(a=>a.draft_year))));
-      select('type','Asset type',[['player','Player'],['draft_pick','Draft pick'],['cash','FAAB / cash'],['other','Other / swap']]);
+      select('type','Asset type',[['player','Player'],['draft_pick','Rookie draft pick'],['inaugural_draft_pick','Inaugural draft pick'],['cash','FAAB / cash'],['other','Other / swap']]);
       const label=node('label','Player '), input=node('input'); input.type='search'; input.placeholder='Player name'; input.addEventListener('input',render); label.append(input); filters.append(label); fields.player=input;
     }
     function assetLabel(a) {
