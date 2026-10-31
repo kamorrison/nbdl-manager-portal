@@ -1,6 +1,6 @@
 [
   {
-    "category_record": "105-64-2",
+    "category_record": "6-3-0",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -115,121 +115,115 @@
       "2026-R2-P17",
       "2026-R2-P20"
     ],
-    "platform_team_id": "466.l.7100.t.2",
+    "platform_team_id": "478.l.10554.t.2",
     "playoff_seed": 2,
-    "rank": 1,
+    "rank": 2,
     "required_yahoo_keepers": 12,
     "roster": [
       {
-        "player_id": "466.p.6395",
+        "player_id": "478.p.10304",
+        "player_name": "Ajay Mitchell",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10108",
+        "player_name": "Amen Thompson",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10597",
+        "player_name": "Cameron Carr",
+        "position": "SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10465",
+        "player_name": "Cedric Coward",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6226",
+        "player_name": "Daniel Gafford",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6401",
+        "player_name": "Deni Avdija",
+        "position": "SG,SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10510",
+        "player_name": "Dylan Cardwell",
+        "position": "PF,C",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.6698",
+        "player_name": "Dyson Daniels",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5681",
+        "player_name": "Georges Niang",
+        "position": "PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5640",
+        "player_name": "Jakob Poeltl",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10279",
+        "player_name": "Jaylon Tyson",
+        "position": "SG,SF,PF",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.6548",
+        "player_name": "Josh Giddey",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10274",
+        "player_name": "Kel'el Ware",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10470",
+        "player_name": "Kobe Sanders",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10272",
+        "player_name": "Kyshawn George",
+        "position": "SG,SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6395",
         "player_name": "LaMelo Ball",
         "position": "PG",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.10108",
-        "player_name": "Amen Thompson",
-        "position": "SG",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6401",
-        "player_name": "Deni Avdija",
-        "position": "G",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6701",
-        "player_name": "Ousmane Dieng",
-        "position": "SF",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10274",
-        "player_name": "Kel'el Ware",
-        "position": "PF",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10489",
-        "player_name": "Jamir Watkins",
-        "position": "F",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6600",
-        "player_name": "Jericho Sims",
-        "position": "C",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5640",
-        "player_name": "Jakob Poeltl",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10304",
-        "player_name": "Ajay Mitchell",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6047",
+        "player_id": "478.p.6047",
         "player_name": "Mitchell Robinson",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6698",
-        "player_name": "Dyson Daniels",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6548",
-        "player_name": "Josh Giddey",
-        "position": "BN",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.10465",
-        "player_name": "Cedric Coward",
-        "position": "BN",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.10316",
-        "player_name": "Daniss Jenkins",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6742",
-        "player_name": "Karlo Matković",
-        "position": "BN",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6226",
-        "player_name": "Daniel Gafford",
-        "position": "IL+",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10279",
-        "player_name": "Jaylon Tyson",
-        "position": "IL+",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10272",
-        "player_name": "Kyshawn George",
-        "position": "IL+",
-        "status": "Injured"
+        "position": "C",
+        "status": ""
       }
     ],
-    "roster_count": 18,
+    "roster_count": 17,
     "slug": "31-savage",
     "submitted_at": "",
     "team_name": "31 Savage",
@@ -239,7 +233,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "90-79-2",
+    "category_record": "5-3-1",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -340,100 +334,100 @@
       "2026-R1-P12",
       "2026-R2-P12"
     ],
-    "platform_team_id": "466.l.7100.t.3",
-    "playoff_seed": null,
-    "rank": 9,
+    "platform_team_id": "478.l.10554.t.3",
+    "playoff_seed": 5,
+    "rank": 5,
     "required_yahoo_keepers": 13,
     "roster": [
       {
-        "player_id": "466.p.4390",
-        "player_name": "Russell Westbrook",
-        "position": "PG",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6754",
-        "player_name": "Julian Champagnie",
-        "position": "SG",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6022",
-        "player_name": "Shai Gilgeous-Alexander",
-        "position": "G",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6745",
+        "player_id": "478.p.6745",
         "player_name": "Gui Santos",
-        "position": "SF",
-        "status": "Available"
+        "position": "SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.5769",
+        "player_id": "478.p.10075",
+        "player_name": "Jordan Walsh",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6754",
+        "player_name": "Julian Champagnie",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5327",
+        "player_name": "Jusuf Nurkić",
+        "position": "C",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.6742",
+        "player_name": "Karlo Matković",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10574",
+        "player_name": "Kingston Flemings",
+        "position": "PG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5769",
         "player_name": "Lauri Markkanen",
-        "position": "PF",
-        "status": "Injured"
+        "position": "SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.5324",
-        "player_name": "Zach LaVine",
-        "position": "F",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.5471",
+        "player_id": "478.p.5471",
         "player_name": "Myles Turner",
         "position": "C",
-        "status": "Injured"
+        "status": ""
       },
       {
-        "player_id": "466.p.4901",
-        "player_name": "Tobias Harris",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10075",
-        "player_name": "Jordan Walsh",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5327",
-        "player_name": "Jusuf Nurkić",
-        "position": "Util",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6766",
-        "player_name": "Simone Fontecchio",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10498",
-        "player_name": "Sion James",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6175",
-        "player_name": "Tyler Herro",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10275",
-        "player_name": "Tristan da Silva",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5905",
+        "player_id": "478.p.5905",
         "player_name": "Royce O'Neale",
-        "position": "BN",
-        "status": "Available"
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6022",
+        "player_name": "Shai Gilgeous-Alexander",
+        "position": "PG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10498",
+        "player_name": "Sion James",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.4901",
+        "player_name": "Tobias Harris",
+        "position": "PF",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.10275",
+        "player_name": "Tristan da Silva",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6175",
+        "player_name": "Tyler Herro",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5324",
+        "player_name": "Zach LaVine",
+        "position": "PG,SG,SF",
+        "status": ""
       }
     ],
     "roster_count": 15,
@@ -446,7 +440,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "88-83-0",
+    "category_record": "2-6-1",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -546,118 +540,118 @@
       "2026-R1-P10",
       "2026-R2-P10"
     ],
-    "platform_team_id": "466.l.7100.t.7",
+    "platform_team_id": "478.l.10554.t.4",
     "playoff_seed": null,
-    "rank": 11,
+    "rank": 20,
     "required_yahoo_keepers": 13,
     "roster": [
       {
-        "player_id": "466.p.10333",
-        "player_name": "Jamal Shead",
-        "position": "PG",
-        "status": "Available"
+        "player_id": "478.p.10462",
+        "player_name": "Ace Bailey",
+        "position": "SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.6516",
-        "player_name": "Jalen Suggs",
-        "position": "SG",
-        "status": "Available"
+        "player_id": "478.p.10115",
+        "player_name": "Brandin Podziemski",
+        "position": "PG,SG",
+        "status": ""
       },
       {
-        "player_id": "466.p.6218",
-        "player_name": "Kevin Porter Jr.",
-        "position": "G",
-        "status": "Injured"
+        "player_id": "478.p.10097",
+        "player_name": "Dereck Lively II",
+        "position": "C",
+        "status": "O"
       },
       {
-        "player_id": "466.p.6515",
-        "player_name": "Scottie Barnes",
-        "position": "SF",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6514",
+        "player_id": "478.p.6514",
         "player_name": "Evan Mobley",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10577",
+        "player_name": "Hannes Steinbach",
         "position": "PF",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.6420",
-        "player_name": "Jaden McDaniels",
-        "position": "F",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6564",
+        "player_id": "478.p.6564",
         "player_name": "Isaiah Jackson",
         "position": "C",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.6691",
-        "player_name": "Paolo Banchero",
-        "position": "Util",
-        "status": "Available"
+        "player_id": "478.p.6420",
+        "player_name": "Jaden McDaniels",
+        "position": "SF",
+        "status": ""
       },
       {
-        "player_id": "466.p.10485",
-        "player_name": "Will Richard",
-        "position": "Util",
-        "status": "Available"
+        "player_id": "478.p.6516",
+        "player_name": "Jalen Suggs",
+        "position": "PG,SG",
+        "status": "O"
       },
       {
-        "player_id": "466.p.10452",
+        "player_id": "478.p.10333",
+        "player_name": "Jamal Shead",
+        "position": "PG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6613",
+        "player_name": "Jose Alvarado",
+        "position": "PG",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.10452",
         "player_name": "Kasparas Jakučionis",
-        "position": "Util",
-        "status": "Available"
+        "position": "PG,SG",
+        "status": ""
       },
       {
-        "player_id": "466.p.10494",
-        "player_name": "Javon Small",
-        "position": "BN",
-        "status": "Available"
+        "player_id": "478.p.6218",
+        "player_name": "Kevin Porter Jr.",
+        "position": "PG,SG",
+        "status": "NA"
       },
       {
-        "player_id": "466.p.10462",
-        "player_name": "Ace Bailey",
-        "position": "BN",
-        "status": "Available"
+        "player_id": "478.p.6691",
+        "player_name": "Paolo Banchero",
+        "position": "PF",
+        "status": "O"
       },
       {
-        "player_id": "466.p.10456",
-        "player_name": "Danny Wolf",
-        "position": "BN",
-        "status": "Injured"
+        "player_id": "478.p.6515",
+        "player_name": "Scottie Barnes",
+        "position": "SF,PF,C",
+        "status": ""
       },
       {
-        "player_id": "466.p.10115",
-        "player_name": "Brandin Podziemski",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10110",
+        "player_id": "478.p.10110",
         "player_name": "Taylor Hendricks",
-        "position": "BN",
-        "status": "Injured"
+        "position": "PF,C",
+        "status": ""
       },
       {
-        "player_id": "466.p.10097",
-        "player_name": "Dereck Lively II",
-        "position": "IL+",
-        "status": "Injured"
+        "player_id": "478.p.10295",
+        "player_name": "Tidjane Salaün",
+        "position": "PF,C",
+        "status": ""
       },
       {
-        "player_id": "466.p.5823",
-        "player_name": "Zach Collins",
-        "position": "IL+",
-        "status": "Injured"
+        "player_id": "478.p.10441",
+        "player_name": "Yanic Konan Niederhäuser",
+        "position": "C",
+        "status": "O"
       },
       {
-        "player_id": "466.p.10305",
-        "player_name": "Johnny Furphy",
-        "position": "IL+",
-        "status": "Injured"
+        "player_id": "478.p.6552",
+        "player_name": "Ziaire Williams",
+        "position": "SG,SF",
+        "status": "Q"
       }
     ],
     "roster_count": 18,
@@ -670,7 +664,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "55-116-0",
+    "category_record": "5-4-0",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -771,118 +765,118 @@
       "2026-R1-P1",
       "2026-R2-P1"
     ],
-    "platform_team_id": "466.l.7100.t.4",
-    "playoff_seed": null,
-    "rank": 20,
+    "platform_team_id": "478.l.10554.t.5",
+    "playoff_seed": 6,
+    "rank": 6,
     "required_yahoo_keepers": 13,
     "roster": [
       {
-        "player_id": "466.p.6551",
+        "player_id": "478.p.10592",
+        "player_name": "Cameron Boozer",
+        "position": "PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10527",
+        "player_name": "Chaney Johnson",
+        "position": "PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10589",
+        "player_name": "Chris Cenac Jr.",
+        "position": "PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6551",
         "player_name": "Davion Mitchell",
         "position": "PG",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.5317",
-        "player_name": "Marcus Smart",
-        "position": "SG",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5159",
-        "player_name": "Kentavious Caldwell-Pope",
-        "position": "G",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.4912",
-        "player_name": "Jimmy Butler III",
-        "position": "SF",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.10121",
-        "player_name": "Noah Clowney",
-        "position": "PF",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6402",
-        "player_name": "Jalen Smith",
-        "position": "F",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6206",
-        "player_name": "Goga Bitadze",
-        "position": "C",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6408",
-        "player_name": "Isaiah Stewart",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6450",
-        "player_name": "Paul Reed",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6400",
-        "player_name": "Obi Toppin",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6429",
-        "player_name": "Vít Krejčí",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6581",
-        "player_name": "Neemias Queta",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5637",
-        "player_name": "Buddy Hield",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5294",
-        "player_name": "Joel Embiid",
-        "position": "BN",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.3930",
-        "player_name": "Chris Paul",
-        "position": "BN",
-        "status": "NotAvailable"
-      },
-      {
-        "player_id": "466.p.6791",
+        "player_id": "478.p.6791",
         "player_name": "Dominick Barlow",
-        "position": "IL+",
-        "status": "Available"
+        "position": "PF,C",
+        "status": "O"
       },
       {
-        "player_id": "466.p.6757",
+        "player_id": "478.p.6408",
+        "player_name": "Isaiah Stewart",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6402",
+        "player_name": "Jalen Smith",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6269",
+        "player_name": "Javonte Green",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.4912",
+        "player_name": "Jimmy Butler III",
+        "position": "SF,PF",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.5294",
+        "player_name": "Joel Embiid",
+        "position": "C",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.5159",
+        "player_name": "Kentavious Caldwell-Pope",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5464",
+        "player_name": "Kristaps Porziņģis",
+        "position": "C",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.5317",
+        "player_name": "Marcus Smart",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6581",
+        "player_name": "Neemias Queta",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10121",
+        "player_name": "Noah Clowney",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6450",
+        "player_name": "Paul Reed",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6757",
         "player_name": "Scotty Pippen Jr.",
-        "position": "IL+",
-        "status": "Injured"
+        "position": "PG",
+        "status": "Q"
       },
       {
-        "player_id": "466.p.6404",
+        "player_id": "478.p.6404",
         "player_name": "Tyrese Haliburton",
-        "position": "IL+",
-        "status": "Injured"
+        "position": "PG,SG",
+        "status": "O"
       }
     ],
     "roster_count": 18,
@@ -895,7 +889,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "58-111-2",
+    "category_record": "3-6-0",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -996,100 +990,100 @@
       "2026-R1-P5",
       "2026-R2-P5"
     ],
-    "platform_team_id": "466.l.7100.t.5",
+    "platform_team_id": "478.l.10554.t.6",
     "playoff_seed": null,
-    "rank": 19,
+    "rank": 17,
     "required_yahoo_keepers": 13,
     "roster": [
       {
-        "player_id": "466.p.10276",
-        "player_name": "Jared McCain",
-        "position": "PG",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10461",
-        "player_name": "Walter Clayton Jr.",
-        "position": "SG",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6021",
-        "player_name": "Mikal Bridges",
-        "position": "G",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6597",
+        "player_id": "478.p.6597",
         "player_name": "Aaron Wiggins",
-        "position": "SF",
-        "status": "Available"
+        "position": "SG,SF",
+        "status": ""
       },
       {
-        "player_id": "466.p.6396",
-        "player_name": "Patrick Williams",
-        "position": "PF",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6422",
-        "player_name": "Desmond Bane",
-        "position": "F",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10080",
-        "player_name": "Trayce Jackson-Davis",
-        "position": "C",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6035",
+        "player_id": "478.p.6035",
         "player_name": "Anfernee Simons",
-        "position": "Util",
-        "status": "Injured"
+        "position": "PG,SG",
+        "status": ""
       },
       {
-        "player_id": "466.p.10281",
-        "player_name": "Rob Dillingham",
-        "position": "Util",
-        "status": "Available"
+        "player_id": "478.p.10582",
+        "player_name": "Darius Acuff Jr.",
+        "position": "PG",
+        "status": ""
       },
       {
-        "player_id": "466.p.10445",
+        "player_id": "478.p.6422",
+        "player_name": "Desmond Bane",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10445",
         "player_name": "Egor Dëmin",
-        "position": "Util",
-        "status": "Injured"
+        "position": "PG,SG",
+        "status": "O"
       },
       {
-        "player_id": "466.p.5013",
+        "player_id": "478.p.5013",
         "player_name": "Harrison Barnes",
-        "position": "BN",
-        "status": "Available"
+        "position": "PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.5490",
-        "player_name": "Kevon Looney",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6030",
-        "player_name": "Kevin Huerter",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6693",
+        "player_id": "478.p.6693",
         "player_name": "Jabari Smith Jr.",
-        "position": "BN",
-        "status": "Available"
+        "position": "PF,C",
+        "status": ""
       },
       {
-        "player_id": "466.p.6016",
+        "player_id": "478.p.10276",
+        "player_name": "Jared McCain",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6030",
+        "player_name": "Kevin Huerter",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5490",
+        "player_name": "Kevon Looney",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6021",
+        "player_name": "Mikal Bridges",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6396",
+        "player_name": "Patrick Williams",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10281",
+        "player_name": "Rob Dillingham",
+        "position": "PG,SG",
+        "status": "NA"
+      },
+      {
+        "player_id": "478.p.6016",
         "player_name": "Trae Young",
-        "position": "IL+",
-        "status": "Injured"
+        "position": "PG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10461",
+        "player_name": "Walter Clayton Jr.",
+        "position": "PG,SG",
+        "status": ""
       }
     ],
     "roster_count": 15,
@@ -1102,7 +1096,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "64-106-1",
+    "category_record": "4-5-0",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -1201,109 +1195,121 @@
       "2026-R1-P2",
       "2026-R2-P2"
     ],
-    "platform_team_id": "466.l.7100.t.12",
+    "platform_team_id": "478.l.10554.t.7",
     "playoff_seed": null,
-    "rank": 17,
+    "rank": 12,
     "required_yahoo_keepers": 13,
     "roster": [
       {
-        "player_id": "466.p.10508",
-        "player_name": "Caleb Love",
-        "position": "PG",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6569",
-        "player_name": "Cam Thomas",
-        "position": "SG",
-        "status": "NotAvailable"
-      },
-      {
-        "player_id": "466.p.5187",
-        "player_name": "Dennis Schröder",
-        "position": "G",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.3704",
-        "player_name": "LeBron James",
+        "player_id": "478.p.10599",
+        "player_name": "AJ Dybantsa",
         "position": "SF",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.6412",
-        "player_name": "Precious Achiuwa",
-        "position": "PF",
-        "status": "Available"
+        "player_id": "478.p.6569",
+        "player_name": "Cam Thomas",
+        "position": "PG,SG",
+        "status": "NA"
       },
       {
-        "player_id": "466.p.6217",
-        "player_name": "Keldon Johnson",
-        "position": "F",
-        "status": "Available"
+        "player_id": "478.p.5161",
+        "player_name": "CJ McCollum",
+        "position": "PG,SG",
+        "status": ""
       },
       {
-        "player_id": "466.p.6703",
+        "player_id": "478.p.10316",
+        "player_name": "Daniss Jenkins",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5187",
+        "player_name": "Dennis Schröder",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5858",
+        "player_name": "Dillon Brooks",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5642",
+        "player_name": "Domantas Sabonis",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6397",
+        "player_name": "Isaac Okoro",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6703",
         "player_name": "Jalen Duren",
         "position": "C",
-        "status": "Available"
+        "status": "O"
       },
       {
-        "player_id": "466.p.10471",
-        "player_name": "Mohamed Diawara",
-        "position": "Util",
-        "status": "Available"
+        "player_id": "478.p.6217",
+        "player_name": "Keldon Johnson",
+        "position": "SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.10084",
-        "player_name": "Jordan Miller",
-        "position": "Util",
-        "status": "Available"
+        "player_id": "478.p.3704",
+        "player_name": "LeBron James",
+        "position": "SF,PF",
+        "status": "O"
       },
       {
-        "player_id": "466.p.6397",
-        "player_name": "Isaac Okoro",
-        "position": "Util",
-        "status": "Injured"
+        "player_id": "478.p.6717",
+        "player_name": "Nikola Jović",
+        "position": "PF,C",
+        "status": ""
       },
       {
-        "player_id": "466.p.5161",
-        "player_name": "CJ McCollum",
-        "position": "BN",
-        "status": "Available"
+        "player_id": "478.p.6400",
+        "player_name": "Obi Toppin",
+        "position": "SF,PF",
+        "status": "Q"
       },
       {
-        "player_id": "466.p.6568",
-        "player_name": "Bones Hyland",
-        "position": "BN",
-        "status": "Available"
+        "player_id": "478.p.6701",
+        "player_name": "Ousmane Dieng",
+        "position": "SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.10078",
+        "player_id": "478.p.6412",
+        "player_name": "Precious Achiuwa",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10292",
+        "player_name": "Ryan Dunn",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10078",
         "player_name": "Tristan Vukcevic",
-        "position": "BN",
-        "status": "Injured"
+        "position": "C",
+        "status": "O"
       },
       {
-        "player_id": "466.p.5858",
-        "player_name": "Dillon Brooks",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5642",
-        "player_name": "Domantas Sabonis",
-        "position": "IL+",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6712",
+        "player_id": "478.p.6712",
         "player_name": "Walker Kessler",
-        "position": "IL+",
-        "status": "Injured"
+        "position": "C",
+        "status": ""
       }
     ],
-    "roster_count": 16,
+    "roster_count": 18,
     "slug": "fade-away-2-excellence",
     "submitted_at": "",
     "team_name": "Fade Away 2 Excellence",
@@ -1313,7 +1319,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "58-111-2",
+    "category_record": "6-3-0",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -1378,7 +1384,7 @@
     "intended_rookie_selections": 2,
     "keeper_status": "action_required",
     "keepers_declared": null,
-    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/0a1c294dbc2c71011ee0a723a00ee91aae79392ca7f0e6f61465058076abd047.png",
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/6095084e0c0ff2b140942c430892e8c09198ac03329c1a8cddefb3813079ea4d.png",
     "manager_id": "kurt",
     "manager_name": "Kurt",
     "owned_picks": [
@@ -1414,112 +1420,112 @@
       "2026-R1-P6",
       "2026-R2-P6"
     ],
-    "platform_team_id": "466.l.7100.t.6",
-    "playoff_seed": null,
-    "rank": 18,
+    "platform_team_id": "478.l.10554.t.8",
+    "playoff_seed": 3,
+    "rank": 3,
     "required_yahoo_keepers": 13,
     "roster": [
       {
-        "player_id": "466.p.6513",
-        "player_name": "Jalen Green",
+        "player_id": "478.p.5600",
+        "player_name": "Ben Simmons",
         "position": "PG",
-        "status": "Available"
+        "status": "O"
       },
       {
-        "player_id": "466.p.6073",
-        "player_name": "Duncan Robinson",
-        "position": "SG",
-        "status": "Available"
+        "player_id": "478.p.10575",
+        "player_name": "Christian Anderson",
+        "position": "PG",
+        "status": ""
       },
       {
-        "player_id": "466.p.6032",
-        "player_name": "Grayson Allen",
-        "position": "G",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6025",
-        "player_name": "Michael Porter Jr.",
-        "position": "SF",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.5658",
-        "player_name": "Pascal Siakam",
-        "position": "PF",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.5185",
-        "player_name": "Giannis Antetokounmpo",
-        "position": "F",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.4886",
-        "player_name": "Jonas Valančiūnas",
-        "position": "C",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5651",
-        "player_name": "Caris LeVert",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6036",
-        "player_name": "Moritz Wagner",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5739",
-        "player_name": "Gary Payton II",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6171",
-        "player_name": "Rui Hachimura",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5693",
-        "player_name": "Dorian Finney-Smith",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6452",
-        "player_name": "Sam Merrill",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10145",
-        "player_name": "Craig Porter Jr.",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6256",
-        "player_name": "Dean Wade",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.4840",
-        "player_name": "Kyrie Irving",
-        "position": "IL+",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6166",
+        "player_id": "478.p.6166",
         "player_name": "De'Andre Hunter",
-        "position": "IL+",
-        "status": "Injured"
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6256",
+        "player_name": "Dean Wade",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6073",
+        "player_name": "Duncan Robinson",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5739",
+        "player_name": "Gary Payton II",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5185",
+        "player_name": "Giannis Antetokounmpo",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6032",
+        "player_name": "Grayson Allen",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6513",
+        "player_name": "Jalen Green",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10585",
+        "player_name": "Keaton Wagler",
+        "position": "SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.4840",
+        "player_name": "Kyrie Irving",
+        "position": "PG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6025",
+        "player_name": "Michael Porter Jr.",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6036",
+        "player_name": "Moritz Wagner",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6556",
+        "player_name": "Moses Moody",
+        "position": "SG,SF,PF",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.5658",
+        "player_name": "Pascal Siakam",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6171",
+        "player_name": "Rui Hachimura",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6452",
+        "player_name": "Sam Merrill",
+        "position": "SG,SF",
+        "status": ""
       }
     ],
     "roster_count": 17,
@@ -1532,7 +1538,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "102-67-2",
+    "category_record": "4-5-0",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -1633,115 +1639,103 @@
       "2026-R1-P18",
       "2026-R2-P18"
     ],
-    "platform_team_id": "466.l.7100.t.8",
-    "playoff_seed": 5,
-    "rank": 4,
+    "platform_team_id": "478.l.10554.t.9",
+    "playoff_seed": null,
+    "rank": 13,
     "required_yahoo_keepers": 13,
     "roster": [
       {
-        "player_id": "466.p.4622",
-        "player_name": "Jrue Holiday",
-        "position": "PG",
-        "status": "Available"
+        "player_id": "478.p.6406",
+        "player_name": "Aaron Nesmith",
+        "position": "SG,SF",
+        "status": ""
       },
       {
-        "player_id": "466.p.6165",
-        "player_name": "RJ Barrett",
-        "position": "SG",
-        "status": "Available"
+        "player_id": "478.p.4245",
+        "player_name": "Al Horford",
+        "position": "PF,C",
+        "status": ""
       },
       {
-        "player_id": "466.p.4244",
-        "player_name": "Kevin Durant",
-        "position": "G",
-        "status": "Injured"
+        "player_id": "478.p.5015",
+        "player_name": "Andre Drummond",
+        "position": "C",
+        "status": ""
       },
       {
-        "player_id": "466.p.10277",
+        "player_id": "478.p.10277",
         "player_name": "Baylor Scheierman",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10468",
+        "player_name": "Cooper Flagg",
+        "position": "SG,SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10580",
+        "player_name": "Dailyn Swain",
         "position": "SF",
-        "status": "Available"
+        "status": "Q"
       },
       {
-        "player_id": "466.p.6619",
-        "player_name": "Sam Hauser",
-        "position": "PF",
-        "status": "Available"
+        "player_id": "478.p.4622",
+        "player_name": "Jrue Holiday",
+        "position": "PG,SG",
+        "status": ""
       },
       {
-        "player_id": "466.p.6735",
-        "player_name": "Josh Minott",
-        "position": "F",
-        "status": "Injured"
+        "player_id": "478.p.4244",
+        "player_name": "Kevin Durant",
+        "position": "SG,SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.10313",
+        "player_id": "478.p.4897",
+        "player_name": "Nikola Vučević",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5506",
+        "player_name": "Norman Powell",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5836",
+        "player_name": "OG Anunoby",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10313",
         "player_name": "Oso Ighodaro",
         "position": "C",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.5506",
-        "player_name": "Norman Powell",
-        "position": "Util",
-        "status": "Available"
+        "player_id": "478.p.6165",
+        "player_name": "RJ Barrett",
+        "position": "SG,SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.6406",
-        "player_name": "Aaron Nesmith",
-        "position": "Util",
-        "status": "Injured"
+        "player_id": "478.p.6619",
+        "player_name": "Sam Hauser",
+        "position": "SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.5836",
-        "player_name": "OG Anunoby",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5647",
-        "player_name": "Guerschon Yabusele",
-        "position": "BN",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.10468",
-        "player_name": "Cooper Flagg",
-        "position": "BN",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.10310",
-        "player_name": "Justin Edwards",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5015",
-        "player_name": "Andre Drummond",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6053",
-        "player_name": "Bruce Brown",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.4612",
+        "player_id": "478.p.4612",
         "player_name": "Stephen Curry",
-        "position": "IL+",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.4897",
-        "player_name": "Nikola Vučević",
-        "position": "IL+",
-        "status": "Available"
+        "position": "PG",
+        "status": ""
       }
     ],
-    "roster_count": 17,
+    "roster_count": 15,
     "slug": "girth-god",
     "submitted_at": "",
     "team_name": "Girth God",
@@ -1751,7 +1745,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "66-105-0",
+    "category_record": "3-4-2",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -1866,112 +1860,112 @@
       "2026-R1-P7",
       "2026-R2-P7"
     ],
-    "platform_team_id": "466.l.7100.t.9",
+    "platform_team_id": "478.l.10554.t.10",
     "playoff_seed": null,
-    "rank": 16,
+    "rank": 14,
     "required_yahoo_keepers": 12,
     "roster": [
       {
-        "player_id": "466.p.10114",
-        "player_name": "Marcus Sasser",
-        "position": "PG",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.4892",
-        "player_name": "Klay Thompson",
+        "player_id": "478.p.10590",
+        "player_name": "Darryn Peterson",
         "position": "SG",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.10112",
-        "player_name": "Julian Strawther",
-        "position": "G",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6557",
-        "player_name": "Corey Kispert",
-        "position": "SF",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6163",
-        "player_name": "Zion Williamson",
-        "position": "PF",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.5832",
-        "player_name": "John Collins",
-        "position": "F",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5958",
+        "player_id": "478.p.5958",
         "player_name": "Deandre Ayton",
         "position": "C",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.5197",
-        "player_name": "Rudy Gobert",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10265",
-        "player_name": "Matas Buzelis",
-        "position": "Util",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6617",
-        "player_name": "Jay Huff",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10447",
-        "player_name": "Khaman Maluach",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6632",
-        "player_name": "Justin Champagnie",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10051",
-        "player_name": "Sidy Cissoko",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10464",
-        "player_name": "Yang Hansen",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6267",
-        "player_name": "Max Strus",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6695",
-        "player_name": "Jaden Ivey",
-        "position": "IL+",
-        "status": "NotAvailable"
-      },
-      {
-        "player_id": "466.p.6164",
+        "player_id": "478.p.6164",
         "player_name": "Ja Morant",
-        "position": "IL+",
-        "status": "Injured"
+        "position": "PG",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.6617",
+        "player_name": "Jay Huff",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5832",
+        "player_name": "John Collins",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10112",
+        "player_name": "Julian Strawther",
+        "position": "SG,SF",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.6632",
+        "player_name": "Justin Champagnie",
+        "position": "SF,PF",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.10447",
+        "player_name": "Khaman Maluach",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.4892",
+        "player_name": "Klay Thompson",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10598",
+        "player_name": "Labaron Philon Jr.",
+        "position": "PG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10114",
+        "player_name": "Marcus Sasser",
+        "position": "PG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10265",
+        "player_name": "Matas Buzelis",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6267",
+        "player_name": "Max Strus",
+        "position": "SF,PF",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.10588",
+        "player_name": "Mikel Brown Jr.",
+        "position": "PG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10308",
+        "player_name": "Quinten Post",
+        "position": "C",
+        "status": "D"
+      },
+      {
+        "player_id": "478.p.5197",
+        "player_name": "Rudy Gobert",
+        "position": "C",
+        "status": "Q"
+      },
+      {
+        "player_id": "478.p.6163",
+        "player_name": "Zion Williamson",
+        "position": "PF,C",
+        "status": ""
       }
     ],
     "roster_count": 17,
@@ -1984,7 +1978,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "90-80-1",
+    "category_record": "6-2-1",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -2085,121 +2079,109 @@
       "2026-R1-P11",
       "2026-R2-P11"
     ],
-    "platform_team_id": "466.l.7100.t.10",
-    "playoff_seed": null,
-    "rank": 10,
+    "platform_team_id": "478.l.10554.t.11",
+    "playoff_seed": 1,
+    "rank": 1,
     "required_yahoo_keepers": 13,
     "roster": [
       {
-        "player_id": "466.p.6772",
-        "player_name": "Pat Spencer",
-        "position": "PG",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6755",
-        "player_name": "AJ Green",
-        "position": "SG",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6014",
-        "player_name": "Luka Dončić",
-        "position": "G",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.5843",
-        "player_name": "Josh Hart",
-        "position": "SF",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5482",
-        "player_name": "Bobby Portis",
-        "position": "PF",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6173",
-        "player_name": "Cameron Johnson",
-        "position": "F",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5959",
-        "player_name": "Marvin Bagley III",
+        "player_id": "478.p.10335",
+        "player_name": "Adem Bona",
         "position": "C",
-        "status": "Injured"
+        "status": ""
       },
       {
-        "player_id": "466.p.6709",
-        "player_name": "Jake LaRavia",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6733",
-        "player_name": "Moussa Diabaté",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6471",
-        "player_name": "Anthony Gill",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6606",
-        "player_name": "Austin Reaves",
-        "position": "BN",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6210",
-        "player_name": "Grant Williams",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10476",
-        "player_name": "Ryan Kalkbrenner",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5292",
+        "player_id": "478.p.5292",
         "player_name": "Andrew Wiggins",
-        "position": "BN",
-        "status": "Available"
+        "position": "SG,SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.5464",
-        "player_name": "Kristaps Porziņģis",
-        "position": "BN",
-        "status": "Available"
+        "player_id": "478.p.6606",
+        "player_name": "Austin Reaves",
+        "position": "PG,SG,SF",
+        "status": ""
       },
       {
-        "player_id": "466.p.5660",
+        "player_id": "478.p.5482",
+        "player_name": "Bobby Portis Jr.",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10576",
+        "player_name": "Brayden Burries",
+        "position": "SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6173",
+        "player_name": "Cameron Johnson",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5660",
         "player_name": "Dejounte Murray",
-        "position": "IL+",
-        "status": "Injured"
+        "position": "PG",
+        "status": ""
       },
       {
-        "player_id": "466.p.6037",
-        "player_name": "Landry Shamet",
-        "position": "IL+",
-        "status": "Available"
+        "player_id": "478.p.6709",
+        "player_name": "Jake LaRavia",
+        "position": "SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.6694",
+        "player_id": "478.p.6614",
+        "player_name": "Jock Landale",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5843",
+        "player_name": "Josh Hart",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6694",
         "player_name": "Keegan Murray",
-        "position": "IL+",
-        "status": "Injured"
+        "position": "SF,PF",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.6014",
+        "player_name": "Luka Dončić",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5465",
+        "player_name": "Mario Hezonja",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6017",
+        "player_name": "Mo Bamba",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6733",
+        "player_name": "Moussa Diabaté",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10607",
+        "player_name": "Trevon Brazile",
+        "position": "PF",
+        "status": ""
       }
     ],
-    "roster_count": 18,
+    "roster_count": 16,
     "slug": "hart-of-new-york",
     "submitted_at": "",
     "team_name": "Hart of New York",
@@ -2209,7 +2191,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "104-66-1",
+    "category_record": "5-4-0",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -2274,124 +2256,124 @@
     "intended_rookie_selections": 0,
     "keeper_status": "action_required",
     "keepers_declared": null,
-    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/71dbeabb6945c4a00e23172a0d9b6809fd3a6c8cecda9d8edcbccb3a4cffc861.jpg",
+    "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/10a347e762c0652b4ba0343a6346969c43a757bef871b39fb6db9a8e978c33dc.jpg",
     "manager_id": "kooks",
     "manager_name": "Kooks",
     "owned_picks": [],
     "picks_skipped": [],
     "picks_used": [],
-    "platform_team_id": "466.l.7100.t.11",
-    "playoff_seed": 4,
-    "rank": 5,
+    "platform_team_id": "478.l.10554.t.12",
+    "playoff_seed": 7,
+    "rank": 7,
     "required_yahoo_keepers": 15,
     "roster": [
       {
-        "player_id": "466.p.10278",
-        "player_name": "Ja'Kobe Walter",
-        "position": "PG",
-        "status": "Available"
+        "player_id": "478.p.6568",
+        "player_name": "Bones Hyland",
+        "position": "PG,SG",
+        "status": ""
       },
       {
-        "player_id": "466.p.10312",
-        "player_name": "Pelle Larsson",
-        "position": "SG",
-        "status": "Available"
+        "player_id": "478.p.6571",
+        "player_name": "Day'Ron Sharpe",
+        "position": "C",
+        "status": ""
       },
       {
-        "player_id": "466.p.6411",
-        "player_name": "Saddiq Bey",
-        "position": "SF",
-        "status": "Injured"
+        "player_id": "478.p.5473",
+        "player_name": "Devin Booker",
+        "position": "PG,SG",
+        "status": ""
       },
       {
-        "player_id": "466.p.6724",
-        "player_name": "Jaylin Williams",
-        "position": "PF",
-        "status": "Available"
+        "player_id": "478.p.6028",
+        "player_name": "Donte DiVincenzo",
+        "position": "SG,SF",
+        "status": "O"
       },
       {
-        "player_id": "466.p.6556",
-        "player_name": "Moses Moody",
-        "position": "F",
-        "status": "Injured"
+        "player_id": "478.p.6550",
+        "player_name": "Franz Wagner",
+        "position": "SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.5352",
+        "player_id": "478.p.4563",
+        "player_name": "James Harden",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6170",
+        "player_name": "Jaxson Hayes",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6549",
+        "player_name": "Jonathan Kuminga",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6735",
+        "player_name": "Josh Minott",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6499",
+        "player_name": "Naji Marshall",
+        "position": "SG,SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6253",
+        "player_name": "Naz Reid",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5352",
         "player_name": "Nikola Jokić",
         "position": "C",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.6499",
-        "player_name": "Naji Marshall",
-        "position": "Util",
-        "status": "Injured"
+        "player_id": "478.p.10479",
+        "player_name": "Noah Penda",
+        "position": "SF,PF",
+        "status": "O"
       },
       {
-        "player_id": "466.p.6596",
+        "player_id": "478.p.10312",
+        "player_name": "Pelle Larsson",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6411",
+        "player_name": "Saddiq Bey",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6596",
         "player_name": "Sandro Mamukelashvili",
-        "position": "Util",
-        "status": "Available"
+        "position": "PF,C",
+        "status": ""
       },
       {
-        "player_id": "466.p.6212",
-        "player_name": "Ty Jerome",
-        "position": "Util",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6572",
+        "player_id": "478.p.6572",
         "player_name": "Santi Aldama",
-        "position": "BN",
-        "status": "Injured"
+        "position": "PF",
+        "status": "O"
       },
       {
-        "player_id": "466.p.6028",
-        "player_name": "Donte DiVincenzo",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5473",
-        "player_name": "Devin Booker",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6253",
-        "player_name": "Naz Reid",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.4563",
-        "player_name": "James Harden",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6549",
-        "player_name": "Jonathan Kuminga",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6571",
-        "player_name": "Day'Ron Sharpe",
-        "position": "IL+",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.10463",
-        "player_name": "Thomas Sorber",
-        "position": "IL+",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6550",
-        "player_name": "Franz Wagner",
-        "position": "IL+",
-        "status": "Available"
+        "player_id": "478.p.6212",
+        "player_name": "Ty Jerome",
+        "position": "PG,SG",
+        "status": "Q"
       }
     ],
     "roster_count": 18,
@@ -2404,7 +2386,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "72-96-3",
+    "category_record": "4-3-2",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -2519,97 +2501,115 @@
       "2026-R1-P17",
       "2026-R2-P3"
     ],
-    "platform_team_id": "466.l.7100.t.13",
-    "playoff_seed": null,
-    "rank": 15,
+    "platform_team_id": "478.l.10554.t.13",
+    "playoff_seed": 8,
+    "rank": 8,
     "required_yahoo_keepers": 12,
     "roster": [
       {
-        "player_id": "466.p.10282",
-        "player_name": "Isaiah Collier",
-        "position": "PG",
-        "status": "Injured"
+        "player_id": "478.p.5338",
+        "player_name": "Bogdan Bogdanović",
+        "position": "PG,SG,SF",
+        "status": ""
       },
       {
-        "player_id": "466.p.5602",
-        "player_name": "Jaylen Brown",
-        "position": "SG",
-        "status": "Available"
+        "player_id": "478.p.4472",
+        "player_name": "Brook Lopez",
+        "position": "C",
+        "status": ""
       },
       {
-        "player_id": "466.p.5727",
-        "player_name": "Fred VanVleet",
-        "position": "G",
-        "status": "Injured"
+        "player_id": "478.p.5637",
+        "player_name": "Buddy Hield",
+        "position": "SG,SF",
+        "status": ""
       },
       {
-        "player_id": "466.p.5840",
-        "player_name": "Kyle Kuzma",
-        "position": "SF",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.5073",
-        "player_name": "Khris Middleton",
+        "player_id": "478.p.10595",
+        "player_name": "Caleb Wilson",
         "position": "PF",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.6174",
-        "player_name": "P.J. Washington",
-        "position": "F",
-        "status": "Injured"
+        "player_id": "478.p.6167",
+        "player_name": "Darius Garland",
+        "position": "PG",
+        "status": ""
       },
       {
-        "player_id": "466.p.5663",
+        "player_id": "478.p.5069",
+        "player_name": "Draymond Green",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5727",
+        "player_name": "Fred VanVleet",
+        "position": "PG",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.10282",
+        "player_name": "Isaiah Collier",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5663",
         "player_name": "Ivica Zubac",
         "position": "C",
-        "status": "Injured"
+        "status": "O"
       },
       {
-        "player_id": "466.p.10289",
-        "player_name": "Yves Missi",
-        "position": "Util",
-        "status": "Injured"
+        "player_id": "478.p.5602",
+        "player_name": "Jaylen Brown",
+        "position": "SG,SF,PF",
+        "status": "Q"
       },
       {
-        "player_id": "466.p.5350",
+        "player_id": "478.p.5350",
         "player_name": "Jerami Grant",
-        "position": "Util",
-        "status": "Available"
+        "position": "SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.6023",
+        "player_id": "478.p.5840",
+        "player_name": "Kyle Kuzma",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5825",
+        "player_name": "Luke Kennard",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6023",
         "player_name": "Miles Bridges",
-        "position": "Util",
-        "status": "Available"
+        "position": "PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.5069",
-        "player_name": "Draymond Green",
-        "position": "BN",
-        "status": "Available"
+        "player_id": "478.p.10581",
+        "player_name": "Nate Ament",
+        "position": "SF",
+        "status": ""
       },
       {
-        "player_id": "466.p.4472",
-        "player_name": "Brook Lopez",
-        "position": "BN",
-        "status": "Available"
+        "player_id": "478.p.6174",
+        "player_name": "P.J. Washington",
+        "position": "PF,C",
+        "status": ""
       },
       {
-        "player_id": "466.p.6167",
-        "player_name": "Darius Garland",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5433",
-        "player_name": "D'Angelo Russell",
-        "position": "BN",
-        "status": "Injured"
+        "player_id": "478.p.10289",
+        "player_name": "Yves Missi",
+        "position": "C",
+        "status": "O"
       }
     ],
-    "roster_count": 14,
+    "roster_count": 17,
     "slug": "legendary",
     "submitted_at": "",
     "team_name": "Legendary 🤩",
@@ -2619,7 +2619,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "94-77-0",
+    "category_record": "5-4-0",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -2720,115 +2720,109 @@
       "2026-R1-P14",
       "2026-R2-P14"
     ],
-    "platform_team_id": "466.l.7100.t.14",
-    "playoff_seed": 7,
-    "rank": 8,
+    "platform_team_id": "478.l.10554.t.14",
+    "playoff_seed": null,
+    "rank": 9,
     "required_yahoo_keepers": 13,
     "roster": [
       {
-        "player_id": "466.p.5638",
+        "player_id": "478.p.10579",
+        "player_name": "Aday Mara",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6512",
+        "player_name": "Cade Cunningham",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10278",
+        "player_name": "Ja'Kobe Walter",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5638",
         "player_name": "Jamal Murray",
         "position": "PG",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.10470",
-        "player_name": "Kobe Sanders",
-        "position": "SG",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10048",
-        "player_name": "Scoot Henderson",
-        "position": "G",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10280",
-        "player_name": "Terrence Shannon Jr.",
-        "position": "SF",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10103",
+        "player_id": "478.p.10103",
         "player_name": "Jarace Walker",
-        "position": "PF",
-        "status": "Injured"
+        "position": "SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.10315",
+        "player_id": "478.p.10315",
         "player_name": "Kyle Filipowski",
-        "position": "F",
-        "status": "Injured"
+        "position": "PF,C",
+        "status": ""
       },
       {
-        "player_id": "466.p.6018",
+        "player_id": "478.p.5824",
+        "player_name": "Malik Monk",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6705",
+        "player_name": "Mark Williams",
+        "position": "C",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.6725",
+        "player_name": "Max Christie",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10617",
+        "player_name": "Meleek Thomas",
+        "position": "SG",
+        "status": "P"
+      },
+      {
+        "player_id": "478.p.6578",
+        "player_name": "Miles McBride",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10263",
+        "player_name": "Ronald Holland II",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10048",
+        "player_name": "Scoot Henderson",
+        "position": "PG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10280",
+        "player_name": "Terrence Shannon Jr.",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10448",
+        "player_name": "Tre Johnson",
+        "position": "PG,SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6018",
         "player_name": "Wendell Carter Jr.",
         "position": "C",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10511",
-        "player_name": "Ryan Nembhard",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10448",
-        "player_name": "Tre Johnson",
-        "position": "Util",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.10335",
-        "player_name": "Adem Bona",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6512",
-        "player_name": "Cade Cunningham",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10263",
-        "player_name": "Ronald Holland II",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10116",
-        "player_name": "Olivier-Maxence Prosper",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6725",
-        "player_name": "Max Christie",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5824",
-        "player_name": "Malik Monk",
-        "position": "IL+",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6705",
-        "player_name": "Mark Williams",
-        "position": "IL+",
-        "status": "Questionable"
-      },
-      {
-        "player_id": "466.p.6578",
-        "player_name": "Miles McBride",
-        "position": "IL+",
-        "status": "Available"
+        "status": ""
       }
     ],
-    "roster_count": 17,
+    "roster_count": 16,
     "slug": "motorcade-scooter",
     "submitted_at": "",
     "team_name": "MotorCade Scooter 🏍️ 🛵💨",
@@ -2838,7 +2832,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "105-65-1",
+    "category_record": "3-6-0",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -2925,115 +2919,109 @@
     "picks_used": [
       "2026-R2-P19"
     ],
-    "platform_team_id": "466.l.7100.t.15",
-    "playoff_seed": 3,
-    "rank": 3,
+    "platform_team_id": "478.l.10554.t.15",
+    "playoff_seed": null,
+    "rank": 18,
     "required_yahoo_keepers": 14,
     "roster": [
       {
-        "player_id": "466.p.6616",
-        "player_name": "Jordan Goodwin",
-        "position": "PG",
-        "status": "Questionable"
-      },
-      {
-        "player_id": "466.p.6734",
-        "player_name": "Ryan Rollins",
-        "position": "SG",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.5601",
-        "player_name": "Brandon Ingram",
-        "position": "G",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6786",
-        "player_name": "Daeqwon Plowden",
-        "position": "SF",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5827",
+        "player_id": "478.p.5827",
         "player_name": "Bam Adebayo",
-        "position": "PF",
-        "status": "Injured"
+        "position": "PF,C",
+        "status": ""
       },
       {
-        "player_id": "466.p.5765",
-        "player_name": "Jayson Tatum",
-        "position": "F",
-        "status": "Available"
+        "player_id": "478.p.5601",
+        "player_name": "Brandon Ingram",
+        "position": "SG,SF,PF",
+        "status": "O"
       },
       {
-        "player_id": "466.p.10510",
-        "player_name": "Dylan Cardwell",
-        "position": "C",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6418",
-        "player_name": "Payton Pritchard",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10459",
-        "player_name": "Hugo González",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6559",
-        "player_name": "Trey Murphy III",
-        "position": "Util",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6255",
-        "player_name": "John Konchar",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6205",
-        "player_name": "Nickeil Alexander-Walker",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6403",
-        "player_name": "Devin Vassell",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6679",
+        "player_id": "478.p.6679",
         "player_name": "Brandon Williams",
-        "position": "BN",
-        "status": "Injured"
+        "position": "PG",
+        "status": ""
       },
       {
-        "player_id": "466.p.5475",
-        "player_name": "Kelly Oubre Jr.",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6057",
+        "player_id": "478.p.6057",
         "player_name": "De'Anthony Melton",
-        "position": "IL+",
-        "status": "Available"
+        "position": "PG,SG",
+        "status": ""
       },
       {
-        "player_id": "466.p.6398",
+        "player_id": "478.p.6403",
+        "player_name": "Devin Vassell",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10459",
+        "player_name": "Hugo González",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5765",
+        "player_name": "Jayson Tatum",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10460",
+        "player_name": "Joan Beringer",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6616",
+        "player_name": "Jordan Goodwin",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5475",
+        "player_name": "Kelly Oubre Jr.",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10050",
+        "player_name": "Leonard Miller",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6205",
+        "player_name": "Nickeil Alexander-Walker",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6398",
         "player_name": "Onyeka Okongwu",
-        "position": "IL+",
-        "status": "Available"
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6418",
+        "player_name": "Payton Pritchard",
+        "position": "PG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6734",
+        "player_name": "Ryan Rollins",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6559",
+        "player_name": "Trey Murphy III",
+        "position": "SG,SF",
+        "status": ""
       }
     ],
-    "roster_count": 17,
+    "roster_count": 16,
     "slug": "speedsters",
     "submitted_at": "",
     "team_name": "Speedsters",
@@ -3043,7 +3031,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "87-82-2",
+    "category_record": "4-5-0",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -3051,7 +3039,8 @@
     "draft_year": 2026,
     "franchise_id": "spike_lee_s_diary",
     "historical_team_names": [
-      "Spike Lee's Diary"
+      "Spike Lee's Diary",
+      "Spike Lee’s Diary"
     ],
     "history": {
       "best_playoff_finish": null,
@@ -3130,125 +3119,119 @@
     "picks_used": [
       "2026-R2-P4"
     ],
-    "platform_team_id": "466.l.7100.t.16",
+    "platform_team_id": "478.l.10554.t.16",
     "playoff_seed": null,
-    "rank": 12,
+    "rank": 15,
     "required_yahoo_keepers": 14,
     "roster": [
       {
-        "player_id": "466.p.6417",
-        "player_name": "Immanuel Quickley",
-        "position": "PG",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6567",
-        "player_name": "Quentin Grimes",
-        "position": "SG",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6696",
-        "player_name": "Bennedict Mathurin",
-        "position": "G",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10113",
-        "player_name": "Ben Sheppard",
-        "position": "SF",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.5432",
-        "player_name": "Karl-Anthony Towns",
-        "position": "PF",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10466",
-        "player_name": "Carter Bryant",
-        "position": "F",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6604",
-        "player_name": "Trendon Watford",
-        "position": "C",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5835",
-        "player_name": "Jarrett Allen",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6044",
-        "player_name": "Jalen Brunson",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6580",
+        "player_id": "478.p.6580",
         "player_name": "Ayo Dosunmu",
-        "position": "Util",
-        "status": "Available"
+        "position": "PG,SG",
+        "status": ""
       },
       {
-        "player_id": "466.p.5747",
-        "player_name": "Derrick Jones Jr.",
-        "position": "BN",
-        "status": "Available"
+        "player_id": "478.p.10113",
+        "player_name": "Ben Sheppard",
+        "position": "SG,SF",
+        "status": "O"
       },
       {
-        "player_id": "466.p.6562",
-        "player_name": "Jalen Johnson",
-        "position": "BN",
-        "status": "Available"
+        "player_id": "478.p.6696",
+        "player_name": "Bennedict Mathurin",
+        "position": "SG,SF",
+        "status": ""
       },
       {
-        "player_id": "466.p.6433",
-        "player_name": "Tre Jones",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6434",
-        "player_name": "Nick Richards",
-        "position": "BN",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.5009",
+        "player_id": "478.p.5009",
         "player_name": "Bradley Beal",
-        "position": "IL+",
-        "status": "Injured"
+        "position": "SG,SF",
+        "status": "O"
       },
       {
-        "player_id": "466.p.6552",
-        "player_name": "Ziaire Williams",
-        "position": "IL+",
-        "status": "Injured"
+        "player_id": "478.p.10466",
+        "player_name": "Carter Bryant",
+        "position": "SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.6753",
+        "player_id": "478.p.5747",
+        "player_name": "Derrick Jones Jr.",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6417",
+        "player_name": "Immanuel Quickley",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6044",
+        "player_name": "Jalen Brunson",
+        "position": "PG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6562",
+        "player_name": "Jalen Johnson",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5835",
+        "player_name": "Jarrett Allen",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5432",
+        "player_name": "Karl-Anthony Towns",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6753",
         "player_name": "Keon Ellis",
-        "position": "IL+",
-        "status": "Available"
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6434",
+        "player_name": "Nick Richards",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10442",
+        "player_name": "Noa Essengue",
+        "position": "PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6567",
+        "player_name": "Quentin Grimes",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6433",
+        "player_name": "Tre Jones",
+        "position": "PG,SG",
+        "status": ""
       }
     ],
-    "roster_count": 17,
+    "roster_count": 16,
     "slug": "spike-lee-s-diary",
     "submitted_at": "",
-    "team_name": "Spike Lee's Diary",
+    "team_name": "Spike Lee’s Diary",
     "total_owned_picks": 1,
     "usable_owned_picks": 1,
     "validation_messages": [],
     "validation_status": "valid"
   },
   {
-    "category_record": "79-91-1",
+    "category_record": "3-5-1",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -3349,121 +3332,115 @@
       "2026-R1-P8",
       "2026-R2-P8"
     ],
-    "platform_team_id": "466.l.7100.t.17",
+    "platform_team_id": "478.l.10554.t.17",
     "playoff_seed": null,
-    "rank": 14,
+    "rank": 16,
     "required_yahoo_keepers": 13,
     "roster": [
       {
-        "player_id": "466.p.4246",
-        "player_name": "Mike Conley",
-        "position": "PG",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6208",
-        "player_name": "Matisse Thybulle",
-        "position": "SG",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5754",
+        "player_id": "478.p.5754",
         "player_name": "Alex Caruso",
-        "position": "G",
-        "status": "Available"
+        "position": "SG,SF",
+        "status": "O"
       },
       {
-        "player_id": "466.p.6737",
-        "player_name": "Vince Williams Jr.",
-        "position": "SF",
-        "status": "NotAvailable"
+        "player_id": "478.p.10294",
+        "player_name": "Alex Sarr",
+        "position": "C",
+        "status": ""
       },
       {
-        "player_id": "466.p.6052",
-        "player_name": "Jarred Vanderbilt",
+        "player_id": "478.p.5007",
+        "player_name": "Anthony Davis",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6751",
+        "player_name": "Collin Gillespie",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5842",
+        "player_name": "Derrick White",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6652",
+        "player_name": "Dru Smith",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6577",
+        "player_name": "Herbert Jones",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5856",
+        "player_name": "Isaiah Hartenstein",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6015",
+        "player_name": "Jaren Jackson Jr.",
+        "position": "PF,C",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.6724",
+        "player_name": "Jaylin Williams",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6076",
+        "player_name": "Kenrich Williams",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5903",
+        "player_name": "Luke Kornet",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6208",
+        "player_name": "Matisse Thybulle",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10572",
+        "player_name": "Morez Johnson Jr.",
         "position": "PF",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.6269",
-        "player_name": "Javonte Green",
-        "position": "F",
-        "status": "Available"
+        "player_id": "478.p.6219",
+        "player_name": "Nic Claxton",
+        "position": "C",
+        "status": "O"
       },
       {
-        "player_id": "466.p.6038",
+        "player_id": "478.p.6038",
         "player_name": "Robert Williams III",
         "position": "C",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.5903",
-        "player_name": "Luke Kornet",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6751",
-        "player_name": "Collin Gillespie",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5856",
-        "player_name": "Isaiah Hartenstein",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5768",
-        "player_name": "Jonathan Isaac",
-        "position": "BN",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6652",
-        "player_name": "Dru Smith",
-        "position": "BN",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.5842",
-        "player_name": "Derrick White",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6219",
-        "player_name": "Nic Claxton",
-        "position": "BN",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6577",
-        "player_name": "Herbert Jones",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5007",
-        "player_name": "Anthony Davis",
-        "position": "IL+",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6015",
-        "player_name": "Jaren Jackson Jr.",
-        "position": "IL+",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.10294",
-        "player_name": "Alex Sarr",
-        "position": "IL+",
-        "status": "Injured"
+        "player_id": "478.p.5582",
+        "player_name": "T.J. McConnell",
+        "position": "PG",
+        "status": "O"
       }
     ],
-    "roster_count": 18,
+    "roster_count": 17,
     "slug": "steveblake-express",
     "submitted_at": "",
     "team_name": "SteveBlake Express",
@@ -3473,7 +3450,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "108-63-0",
+    "category_record": "4-5-0",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -3574,121 +3551,103 @@
       "2026-R1-P15",
       "2026-R2-P15"
     ],
-    "platform_team_id": "466.l.7100.t.1",
-    "playoff_seed": 1,
-    "rank": 7,
+    "platform_team_id": "478.l.10554.t.1",
+    "playoff_seed": null,
+    "rank": 11,
     "required_yahoo_keepers": 13,
     "roster": [
       {
-        "player_id": "466.p.6721",
+        "player_id": "478.p.6721",
         "player_name": "Andrew Nembhard",
-        "position": "PG",
-        "status": "Injured"
+        "position": "PG,SG",
+        "status": ""
       },
       {
-        "player_id": "466.p.10469",
-        "player_name": "Nique Clifford",
-        "position": "SG",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10458",
-        "player_name": "Ben Saraf",
-        "position": "G",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.4896",
-        "player_name": "Kawhi Leonard",
-        "position": "SF",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10092",
-        "player_name": "Jaime Jaquez Jr.",
-        "position": "PF",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6441",
-        "player_name": "Isaiah Joe",
-        "position": "F",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10444",
-        "player_name": "Derik Queen",
-        "position": "C",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5636",
-        "player_name": "Kris Dunn",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10099",
-        "player_name": "Bilal Coulibaly",
-        "position": "Util",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.10544",
-        "player_name": "LJ Cryer",
-        "position": "Util",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6019",
-        "player_name": "Collin Sexton",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5825",
-        "player_name": "Luke Kennard",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6216",
-        "player_name": "Jordan Poole",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5855",
-        "player_name": "Thomas Bryant",
-        "position": "BN",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6720",
-        "player_name": "Peyton Watson",
-        "position": "BN",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.5012",
-        "player_name": "Damian Lillard",
-        "position": "IL+",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6413",
-        "player_name": "Tyrese Maxey",
-        "position": "IL+",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6355",
+        "player_id": "478.p.6355",
         "player_name": "Anthony Edwards",
-        "position": "IL+",
-        "status": "Available"
+        "position": "PG,SG",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.10099",
+        "player_name": "Bilal Coulibaly",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6019",
+        "player_name": "Collin Sexton",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5012",
+        "player_name": "Damian Lillard",
+        "position": "PG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10444",
+        "player_name": "Derik Queen",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10578",
+        "player_name": "Ebuka Okorie",
+        "position": "PG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6441",
+        "player_name": "Isaiah Joe",
+        "position": "SG,SF",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.10092",
+        "player_name": "Jaime Jaquez Jr.",
+        "position": "SG,SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6216",
+        "player_name": "Jordan Poole",
+        "position": "PG,SG",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.4896",
+        "player_name": "Kawhi Leonard",
+        "position": "SG,SF,PF",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.5636",
+        "player_name": "Kris Dunn",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6720",
+        "player_name": "Peyton Watson",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6776",
+        "player_name": "Quenton Jackson",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6413",
+        "player_name": "Tyrese Maxey",
+        "position": "PG",
+        "status": ""
       }
     ],
-    "roster_count": 18,
+    "roster_count": 15,
     "slug": "sub-0-j",
     "submitted_at": "",
     "team_name": "Sub-0 J",
@@ -3698,7 +3657,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "98-71-2",
+    "category_record": "3-6-0",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -3799,115 +3758,109 @@
       "2026-R1-P16",
       "2026-R2-P16"
     ],
-    "platform_team_id": "466.l.7100.t.18",
-    "playoff_seed": 6,
-    "rank": 6,
+    "platform_team_id": "478.l.10554.t.18",
+    "playoff_seed": null,
+    "rank": 19,
     "required_yahoo_keepers": 13,
     "roster": [
       {
-        "player_id": "466.p.10288",
-        "player_name": "Reed Sheppard",
-        "position": "PG",
-        "status": "Available"
+        "player_id": "478.p.6755",
+        "player_name": "AJ Green",
+        "position": "PG,SG,SF",
+        "status": ""
       },
       {
-        "player_id": "466.p.10450",
-        "player_name": "Kon Knueppel",
-        "position": "SG",
-        "status": "Available"
+        "player_id": "478.p.6558",
+        "player_name": "Alperen Şengün",
+        "position": "PF,C",
+        "status": ""
       },
       {
-        "player_id": "466.p.6707",
-        "player_name": "Tari Eason",
-        "position": "G",
-        "status": "Available"
+        "player_id": "478.p.10095",
+        "player_name": "Anthony Black",
+        "position": "PG,SG,SF",
+        "status": ""
       },
       {
-        "player_id": "466.p.10449",
-        "player_name": "Will Riley",
-        "position": "SF",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10104",
+        "player_id": "478.p.10104",
         "player_name": "Brandon Miller",
-        "position": "PF",
-        "status": "Available"
+        "position": "SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.6558",
-        "player_name": "Alperen Sengun",
-        "position": "F",
-        "status": "Available"
+        "player_id": "478.p.10107",
+        "player_name": "Cason Wallace",
+        "position": "PG,SG,SF",
+        "status": "O"
       },
       {
-        "player_id": "466.p.10285",
+        "player_id": "478.p.6692",
+        "player_name": "Chet Holmgren",
+        "position": "PF,C",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.10443",
+        "player_name": "Collin Murray-Boyles",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10285",
         "player_name": "Donovan Clingan",
         "position": "C",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.6692",
-        "player_name": "Chet Holmgren",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10440",
-        "player_name": "Jeremiah Fears",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10107",
-        "player_name": "Cason Wallace",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10117",
-        "player_name": "Kobe Brown",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5474",
-        "player_name": "Cameron Payne",
-        "position": "BN",
-        "status": "NotAvailable"
-      },
-      {
-        "player_id": "466.p.10296",
-        "player_name": "Zaccharie Risacher",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10283",
-        "player_name": "Cody Williams",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10443",
-        "player_name": "Collin Murray-Boyles",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10340",
+        "player_id": "478.p.10340",
         "player_name": "Jaylen Wells",
-        "position": "IL+",
-        "status": "Injured"
+        "position": "SG,SF",
+        "status": ""
       },
       {
-        "player_id": "466.p.10095",
-        "player_name": "Anthony Black",
-        "position": "IL+",
-        "status": "Available"
+        "player_id": "478.p.10440",
+        "player_name": "Jeremiah Fears",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10450",
+        "player_name": "Kon Knueppel",
+        "position": "SG,SF",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.10288",
+        "player_name": "Reed Sheppard",
+        "position": "PG,SG",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.10476",
+        "player_name": "Ryan Kalkbrenner",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10586",
+        "player_name": "Sergio De Larrea",
+        "position": "PG",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.6707",
+        "player_name": "Tari Eason",
+        "position": "SG,SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10296",
+        "player_name": "Zaccharie Risacher",
+        "position": "SF,PF",
+        "status": ""
       }
     ],
-    "roster_count": 17,
+    "roster_count": 16,
     "slug": "syracuse-nationals",
     "submitted_at": "",
     "team_name": "Syracuse nationals",
@@ -3917,7 +3870,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "82-87-2",
+    "category_record": "5-4-0",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -4032,109 +3985,103 @@
       "2026-R1-P19",
       "2026-R2-P9"
     ],
-    "platform_team_id": "466.l.7100.t.19",
+    "platform_team_id": "478.l.10554.t.19",
     "playoff_seed": null,
-    "rank": 13,
+    "rank": 10,
     "required_yahoo_keepers": 12,
     "roster": [
       {
-        "player_id": "466.p.5767",
+        "player_id": "478.p.5295",
+        "player_name": "Aaron Gordon",
+        "position": "PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10573",
+        "player_name": "Bennett Stirtz",
+        "position": "PG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6169",
+        "player_name": "Coby White",
+        "position": "PG,SG",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.5767",
         "player_name": "De'Aaron Fox",
         "position": "PG",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.10290",
-        "player_name": "Stephon Castle",
-        "position": "SG",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10467",
-        "player_name": "Dylan Harper",
-        "position": "G",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10101",
-        "player_name": "Gradey Dick",
-        "position": "SF",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6655",
-        "player_name": "Micah Potter",
-        "position": "PF",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5318",
-        "player_name": "Julius Randle",
-        "position": "F",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6170",
-        "player_name": "Jaxson Hayes",
-        "position": "C",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10120",
-        "player_name": "Nick Smith Jr.",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6169",
-        "player_name": "Coby White",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6254",
-        "player_name": "Luguentz Dort",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5194",
-        "player_name": "Tim Hardaway Jr.",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5826",
-        "player_name": "Donovan Mitchell",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5357",
-        "player_name": "Jordan Clarkson",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5295",
-        "player_name": "Aaron Gordon",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.4614",
+        "player_id": "478.p.4614",
         "player_name": "DeMar DeRozan",
-        "position": "IL+",
-        "status": "Injured"
+        "position": "SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.4725",
+        "player_id": "478.p.5826",
+        "player_name": "Donovan Mitchell",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10467",
+        "player_name": "Dylan Harper",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10101",
+        "player_name": "Gradey Dick",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5357",
+        "player_name": "Jordan Clarkson",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5318",
+        "player_name": "Julius Randle",
+        "position": "PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6254",
+        "player_name": "Luguentz Dort",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.4725",
         "player_name": "Paul George",
-        "position": "IL+",
-        "status": "Available"
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10290",
+        "player_name": "Stephon Castle",
+        "position": "PG,SG",
+        "status": "Q"
+      },
+      {
+        "player_id": "478.p.5194",
+        "player_name": "Tim Hardaway Jr.",
+        "position": "SG,SF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10571",
+        "player_name": "Yaxel Lendeborg",
+        "position": "PF",
+        "status": ""
       }
     ],
-    "roster_count": 16,
+    "roster_count": 15,
     "slug": "walson-s-wonderful-team",
     "submitted_at": "",
     "team_name": "Walson's Wonderful Team",
@@ -4144,7 +4091,7 @@
     "validation_status": "valid"
   },
   {
-    "category_record": "92-77-2",
+    "category_record": "6-3-0",
     "commissioner_notes": "",
     "decision_is_default": true,
     "decision_is_explicit": false,
@@ -4245,118 +4192,118 @@
       "2026-R1-P13",
       "2026-R2-P13"
     ],
-    "platform_team_id": "466.l.7100.t.20",
-    "playoff_seed": 8,
-    "rank": 2,
+    "platform_team_id": "478.l.10554.t.20",
+    "playoff_seed": 4,
+    "rank": 4,
     "required_yahoo_keepers": 13,
     "roster": [
       {
-        "player_id": "466.p.10455",
-        "player_name": "Nolan Traore",
-        "position": "PG",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.10293",
-        "player_name": "Devin Carter",
-        "position": "SG",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.6711",
-        "player_name": "Christian Braun",
-        "position": "G",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.5322",
-        "player_name": "Doug McDermott",
-        "position": "SF",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10527",
-        "player_name": "Chaney Johnson",
+        "player_id": "478.p.10570",
+        "player_name": "Allen Graves",
         "position": "PF",
-        "status": "Available"
+        "status": ""
       },
       {
-        "player_id": "466.p.10559",
-        "player_name": "Julian Reese",
-        "position": "F",
-        "status": "Available"
+        "player_id": "478.p.10096",
+        "player_name": "Ausar Thompson",
+        "position": "SG,SF,PF",
+        "status": ""
       },
       {
-        "player_id": "466.p.10496",
+        "player_id": "478.p.10122",
+        "player_name": "Brice Sensabaugh",
+        "position": "SG,SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10327",
+        "player_name": "Cam Spencer",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6711",
+        "player_name": "Christian Braun",
+        "position": "SG,SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10070",
+        "player_name": "GG Jackson",
+        "position": "SF,PF,C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.6702",
+        "player_name": "Jalen Williams",
+        "position": "SF,PF",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.10100",
+        "player_name": "Keyonte George",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10496",
         "player_name": "Maxime Raynaud",
         "position": "C",
-        "status": "Available"
+        "status": "O"
       },
       {
-        "player_id": "466.p.10454",
-        "player_name": "VJ Edgecombe",
-        "position": "Util",
-        "status": "Available"
+        "player_id": "478.p.10469",
+        "player_name": "Nique Clifford",
+        "position": "SG,SF",
+        "status": ""
       },
       {
-        "player_id": "466.p.6702",
-        "player_name": "Jalen Williams",
-        "position": "Util",
-        "status": "Available"
+        "player_id": "478.p.10455",
+        "player_name": "Nolan Traore",
+        "position": "PG",
+        "status": ""
       },
       {
-        "player_id": "466.p.10065",
-        "player_name": "Toumani Camara",
-        "position": "Util",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10327",
-        "player_name": "Cam Spencer",
-        "position": "BN",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.10122",
-        "player_name": "Brice Sensabaugh",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10096",
-        "player_name": "Ausar Thompson",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10094",
-        "player_name": "Victor Wembanyama",
-        "position": "BN",
-        "status": "Available"
-      },
-      {
-        "player_id": "466.p.10070",
-        "player_name": "GG Jackson",
-        "position": "BN",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.10287",
-        "player_name": "Zach Edey",
-        "position": "IL+",
-        "status": "Injured"
-      },
-      {
-        "player_id": "466.p.6697",
+        "player_id": "478.p.6697",
         "player_name": "Shaedon Sharpe",
-        "position": "IL+",
-        "status": "Available"
+        "position": "PG,SG",
+        "status": "O"
       },
       {
-        "player_id": "466.p.10100",
-        "player_name": "Keyonte George",
-        "position": "IL+",
-        "status": "Injured"
+        "player_id": "478.p.10051",
+        "player_name": "Sidy Cissoko",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.5163",
+        "player_name": "Steven Adams",
+        "position": "C",
+        "status": "O"
+      },
+      {
+        "player_id": "478.p.10065",
+        "player_name": "Toumani Camara",
+        "position": "SF,PF",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10094",
+        "player_name": "Victor Wembanyama",
+        "position": "C",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10454",
+        "player_name": "VJ Edgecombe",
+        "position": "PG,SG",
+        "status": ""
+      },
+      {
+        "player_id": "478.p.10287",
+        "player_name": "Zach Edey",
+        "position": "C",
+        "status": ""
       }
     ],
     "roster_count": 18,

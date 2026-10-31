@@ -1,11 +1,11 @@
 {
-  "current_season": "2025_26",
-  "generated_at": "2026-09-10T11:11:43.932907+00:00",
+  "current_season": "2026_27",
+  "generated_at": "2026-10-31T19:23:04.674223+00:00",
   "git_commit": "unavailable (workspace has no .git directory)",
   "league": "nbdl",
   "row_counts": {
     "draft_history": 900,
-    "matchups": 596,
+    "matchups": 616,
     "picks": 40,
     "teams": 20
   },
@@ -13,12 +13,12 @@
   "source_file_modified_times": {
     "/Users/kmorrison/Library/Mobile Documents/com~apple~CloudDocs/killanomics_engine/data/manual/nbdl/offseason_decisions_2026.csv": 1784466830.444407,
     "/Users/kmorrison/Library/Mobile Documents/com~apple~CloudDocs/killanomics_engine/data/manual/nbdl/rookie_picks_2026.csv": 1784466834.6593695,
-    "/Users/kmorrison/Library/Mobile Documents/com~apple~CloudDocs/killanomics_engine/data/raw/yahoo/nbdl/2025-26/Yahoo-466.l.7100-Team.csv": 1776777711.9641612
+    "/Users/kmorrison/Library/Mobile Documents/com~apple~CloudDocs/killanomics_engine/data/raw/yahoo/nbdl/2026-27/Yahoo-478.l.10554-Team.csv": 1793474537.224214
   },
   "source_files": [
     "/Users/kmorrison/Library/Mobile Documents/com~apple~CloudDocs/killanomics_engine/data/manual/nbdl/rookie_picks_2026.csv",
     "/Users/kmorrison/Library/Mobile Documents/com~apple~CloudDocs/killanomics_engine/data/manual/nbdl/offseason_decisions_2026.csv",
-    "/Users/kmorrison/Library/Mobile Documents/com~apple~CloudDocs/killanomics_engine/data/raw/yahoo/nbdl/2025-26/Yahoo-466.l.7100-Team.csv"
+    "/Users/kmorrison/Library/Mobile Documents/com~apple~CloudDocs/killanomics_engine/data/raw/yahoo/nbdl/2026-27/Yahoo-478.l.10554-Team.csv"
   ],
   "validation_error_count": 0,
   "validation_warning_count": 56
