@@ -1,0 +1,4439 @@
+{
+  "slug": "nbdl",
+  "season": "2026-27",
+  "week": 3,
+  "league_key": "478.l.10554",
+  "updated_at": "2026-11-09T19:41:36.292324-05:00",
+  "source_type": "live",
+  "method": "Killanomics archived rivalry formula",
+  "stage_points_for_new_matchups": {
+    "quarterfinal": 2.0,
+    "semifinal": 3.0,
+    "third_place": 4.0,
+    "final": 6.0
+  },
+  "leaderboard": [
+    {
+      "pair": [
+        "jim",
+        "kurt"
+      ],
+      "names": [
+        "Jim",
+        "Kurt"
+      ],
+      "record": [
+        3,
+        1,
+        1
+      ],
+      "meetings": 5,
+      "score": 20.5,
+      "tier": "Heated Rivalry"
+    },
+    {
+      "pair": [
+        "jim",
+        "killa"
+      ],
+      "names": [
+        "Jim",
+        "Killa"
+      ],
+      "record": [
+        2,
+        3,
+        0
+      ],
+      "meetings": 5,
+      "score": 17.0,
+      "tier": "Notable Rivalry"
+    },
+    {
+      "pair": [
+        "kooks",
+        "luis"
+      ],
+      "names": [
+        "Kooks",
+        "Luis"
+      ],
+      "record": [
+        1,
+        5,
+        0
+      ],
+      "meetings": 6,
+      "score": 14.5,
+      "tier": "Notable Rivalry"
+    },
+    {
+      "pair": [
+        "derrick",
+        "mitchell"
+      ],
+      "names": [
+        "Derrick",
+        "Mitchell"
+      ],
+      "record": [
+        3,
+        0,
+        1
+      ],
+      "meetings": 4,
+      "score": 13.5,
+      "tier": "Notable Rivalry"
+    },
+    {
+      "pair": [
+        "jim",
+        "kooks"
+      ],
+      "names": [
+        "Jim",
+        "Kooks"
+      ],
+      "record": [
+        3,
+        1,
+        0
+      ],
+      "meetings": 4,
+      "score": 12.0,
+      "tier": "Notable Rivalry"
+    },
+    {
+      "pair": [
+        "bg",
+        "jim"
+      ],
+      "names": [
+        "BG",
+        "Jim"
+      ],
+      "record": [
+        0,
+        4,
+        0
+      ],
+      "meetings": 4,
+      "score": 11.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "derrick"
+      ],
+      "names": [
+        "Dane",
+        "Derrick"
+      ],
+      "record": [
+        1,
+        3,
+        0
+      ],
+      "meetings": 4,
+      "score": 11.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kurt",
+        "luis"
+      ],
+      "names": [
+        "Kurt",
+        "Luis"
+      ],
+      "record": [
+        2,
+        3,
+        0
+      ],
+      "meetings": 5,
+      "score": 10.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "derrick",
+        "jim"
+      ],
+      "names": [
+        "Derrick",
+        "Jim"
+      ],
+      "record": [
+        2,
+        2,
+        0
+      ],
+      "meetings": 4,
+      "score": 10.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kenny",
+        "killa"
+      ],
+      "names": [
+        "Kenny",
+        "Killa"
+      ],
+      "record": [
+        1,
+        3,
+        0
+      ],
+      "meetings": 4,
+      "score": 10.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "knickstape",
+        "kurt"
+      ],
+      "names": [
+        "KnicksTape",
+        "Kurt"
+      ],
+      "record": [
+        2,
+        2,
+        0
+      ],
+      "meetings": 4,
+      "score": 10.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kurt",
+        "prasana"
+      ],
+      "names": [
+        "Kurt",
+        "Prasana"
+      ],
+      "record": [
+        4,
+        0,
+        0
+      ],
+      "meetings": 4,
+      "score": 9.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "killa",
+        "mitchell"
+      ],
+      "names": [
+        "Killa",
+        "Mitchell"
+      ],
+      "record": [
+        3,
+        1,
+        0
+      ],
+      "meetings": 4,
+      "score": 9.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "luis",
+        "mitchell"
+      ],
+      "names": [
+        "Luis",
+        "Mitchell"
+      ],
+      "record": [
+        3,
+        1,
+        0
+      ],
+      "meetings": 4,
+      "score": 9.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "kenny"
+      ],
+      "names": [
+        "4EVRL8",
+        "Kenny"
+      ],
+      "record": [
+        4,
+        1,
+        0
+      ],
+      "meetings": 5,
+      "score": 8.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "jim",
+        "kenny"
+      ],
+      "names": [
+        "Jim",
+        "Kenny"
+      ],
+      "record": [
+        4,
+        0,
+        0
+      ],
+      "meetings": 4,
+      "score": 8.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kelsha",
+        "kurt"
+      ],
+      "names": [
+        "Kelsha",
+        "Kurt"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 8.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "killa",
+        "kooks"
+      ],
+      "names": [
+        "Killa",
+        "Kooks"
+      ],
+      "record": [
+        3,
+        2,
+        0
+      ],
+      "meetings": 5,
+      "score": 7.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "rohan"
+      ],
+      "names": [
+        "BG",
+        "Rohan"
+      ],
+      "record": [
+        2,
+        2,
+        0
+      ],
+      "meetings": 4,
+      "score": 7.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "jim",
+        "luis"
+      ],
+      "names": [
+        "Jim",
+        "Luis"
+      ],
+      "record": [
+        4,
+        0,
+        0
+      ],
+      "meetings": 4,
+      "score": 7.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "jim",
+        "teddy"
+      ],
+      "names": [
+        "Jim",
+        "Teddy"
+      ],
+      "record": [
+        3,
+        1,
+        0
+      ],
+      "meetings": 4,
+      "score": 7.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kenny",
+        "kurt"
+      ],
+      "names": [
+        "Kenny",
+        "Kurt"
+      ],
+      "record": [
+        2,
+        2,
+        0
+      ],
+      "meetings": 4,
+      "score": 7.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "killa",
+        "luis"
+      ],
+      "names": [
+        "Killa",
+        "Luis"
+      ],
+      "record": [
+        3,
+        1,
+        0
+      ],
+      "meetings": 4,
+      "score": 7.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "killa",
+        "rohan"
+      ],
+      "names": [
+        "Killa",
+        "Rohan"
+      ],
+      "record": [
+        4,
+        0,
+        0
+      ],
+      "meetings": 4,
+      "score": 7.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "knickstape",
+        "kooks"
+      ],
+      "names": [
+        "KnicksTape",
+        "Kooks"
+      ],
+      "record": [
+        0,
+        3,
+        1
+      ],
+      "meetings": 4,
+      "score": 7.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "knickstape",
+        "rohan"
+      ],
+      "names": [
+        "KnicksTape",
+        "Rohan"
+      ],
+      "record": [
+        2,
+        1,
+        1
+      ],
+      "meetings": 4,
+      "score": 7.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kooks",
+        "mitchell"
+      ],
+      "names": [
+        "Kooks",
+        "Mitchell"
+      ],
+      "record": [
+        4,
+        0,
+        0
+      ],
+      "meetings": 4,
+      "score": 7.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "derrick",
+        "knickstape"
+      ],
+      "names": [
+        "Derrick",
+        "KnicksTape"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 7.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "derrick",
+        "kurt"
+      ],
+      "names": [
+        "Derrick",
+        "Kurt"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 7.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "derrick",
+        "luis"
+      ],
+      "names": [
+        "Derrick",
+        "Luis"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 7.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "jim",
+        "prasana"
+      ],
+      "names": [
+        "Jim",
+        "Prasana"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 7.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "teddy"
+      ],
+      "names": [
+        "Dane",
+        "Teddy"
+      ],
+      "record": [
+        3,
+        1,
+        0
+      ],
+      "meetings": 4,
+      "score": 6.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "derrick",
+        "teddy"
+      ],
+      "names": [
+        "Derrick",
+        "Teddy"
+      ],
+      "record": [
+        3,
+        1,
+        0
+      ],
+      "meetings": 4,
+      "score": 6.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "knickstape",
+        "prasana"
+      ],
+      "names": [
+        "KnicksTape",
+        "Prasana"
+      ],
+      "record": [
+        2,
+        2,
+        0
+      ],
+      "meetings": 4,
+      "score": 6.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "derrick"
+      ],
+      "names": [
+        "4EVRL8",
+        "Derrick"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 6.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "prasana"
+      ],
+      "names": [
+        "4EVRL8",
+        "Prasana"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 6.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "derrick"
+      ],
+      "names": [
+        "BG",
+        "Derrick"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 6.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "derrick"
+      ],
+      "names": [
+        "Da Docta",
+        "Derrick"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 6.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "prasana"
+      ],
+      "names": [
+        "Dane",
+        "Prasana"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 6.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "derrick",
+        "rohan"
+      ],
+      "names": [
+        "Derrick",
+        "Rohan"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 6.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kelsha",
+        "killa"
+      ],
+      "names": [
+        "Kelsha",
+        "Killa"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 6.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kooks",
+        "kurt"
+      ],
+      "names": [
+        "Kooks",
+        "Kurt"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 6.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "rick",
+        "ross"
+      ],
+      "names": [
+        "Rick",
+        "Ross"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 6.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kelsha",
+        "kooks"
+      ],
+      "names": [
+        "Kelsha",
+        "Kooks"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 6.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "killa"
+      ],
+      "names": [
+        "Dane",
+        "Killa"
+      ],
+      "record": [
+        0,
+        5,
+        0
+      ],
+      "meetings": 5,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "rohan"
+      ],
+      "names": [
+        "4EVRL8",
+        "Rohan"
+      ],
+      "record": [
+        2,
+        2,
+        0
+      ],
+      "meetings": 4,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "walson"
+      ],
+      "names": [
+        "4EVRL8",
+        "Walson"
+      ],
+      "record": [
+        2,
+        2,
+        0
+      ],
+      "meetings": 4,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "da_docta"
+      ],
+      "names": [
+        "BG",
+        "Da Docta"
+      ],
+      "record": [
+        3,
+        1,
+        0
+      ],
+      "meetings": 4,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "kooks"
+      ],
+      "names": [
+        "BG",
+        "Kooks"
+      ],
+      "record": [
+        0,
+        4,
+        0
+      ],
+      "meetings": 4,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "kurt"
+      ],
+      "names": [
+        "Da Docta",
+        "Kurt"
+      ],
+      "record": [
+        0,
+        4,
+        0
+      ],
+      "meetings": 4,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "luis"
+      ],
+      "names": [
+        "Dane",
+        "Luis"
+      ],
+      "record": [
+        2,
+        2,
+        0
+      ],
+      "meetings": 4,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "derrick",
+        "rick"
+      ],
+      "names": [
+        "Derrick",
+        "Rick"
+      ],
+      "record": [
+        4,
+        0,
+        0
+      ],
+      "meetings": 4,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "jim",
+        "mitchell"
+      ],
+      "names": [
+        "Jim",
+        "Mitchell"
+      ],
+      "record": [
+        4,
+        0,
+        0
+      ],
+      "meetings": 4,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kenny",
+        "rick"
+      ],
+      "names": [
+        "Kenny",
+        "Rick"
+      ],
+      "record": [
+        3,
+        1,
+        0
+      ],
+      "meetings": 4,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "ross",
+        "walson"
+      ],
+      "names": [
+        "Ross",
+        "Walson"
+      ],
+      "record": [
+        1,
+        3,
+        0
+      ],
+      "meetings": 4,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "dane"
+      ],
+      "names": [
+        "4EVRL8",
+        "Dane"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "jim"
+      ],
+      "names": [
+        "4EVRL8",
+        "Jim"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "kurt"
+      ],
+      "names": [
+        "4EVRL8",
+        "Kurt"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "kurt"
+      ],
+      "names": [
+        "BG",
+        "Kurt"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "luis"
+      ],
+      "names": [
+        "BG",
+        "Luis"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "jim"
+      ],
+      "names": [
+        "Dane",
+        "Jim"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "mitchell"
+      ],
+      "names": [
+        "Dane",
+        "Mitchell"
+      ],
+      "record": [
+        0,
+        2,
+        1
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "ross"
+      ],
+      "names": [
+        "Dane",
+        "Ross"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "derrick",
+        "kenny"
+      ],
+      "names": [
+        "Derrick",
+        "Kenny"
+      ],
+      "record": [
+        0,
+        2,
+        1
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "derrick",
+        "killa"
+      ],
+      "names": [
+        "Derrick",
+        "Killa"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "derrick",
+        "kooks"
+      ],
+      "names": [
+        "Derrick",
+        "Kooks"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "derrick",
+        "prasana"
+      ],
+      "names": [
+        "Derrick",
+        "Prasana"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "derrick",
+        "ross"
+      ],
+      "names": [
+        "Derrick",
+        "Ross"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "derrick",
+        "walson"
+      ],
+      "names": [
+        "Derrick",
+        "Walson"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "jim",
+        "rick"
+      ],
+      "names": [
+        "Jim",
+        "Rick"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "jim",
+        "ross"
+      ],
+      "names": [
+        "Jim",
+        "Ross"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kenny",
+        "walson"
+      ],
+      "names": [
+        "Kenny",
+        "Walson"
+      ],
+      "record": [
+        2,
+        0,
+        1
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "killa",
+        "kurt"
+      ],
+      "names": [
+        "Killa",
+        "Kurt"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kurt",
+        "rohan"
+      ],
+      "names": [
+        "Kurt",
+        "Rohan"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kurt",
+        "ross"
+      ],
+      "names": [
+        "Kurt",
+        "Ross"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kurt",
+        "walson"
+      ],
+      "names": [
+        "Kurt",
+        "Walson"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "luis",
+        "ross"
+      ],
+      "names": [
+        "Luis",
+        "Ross"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "mitchell",
+        "walson"
+      ],
+      "names": [
+        "Mitchell",
+        "Walson"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "prasana",
+        "rick"
+      ],
+      "names": [
+        "Prasana",
+        "Rick"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "prasana",
+        "walson"
+      ],
+      "names": [
+        "Prasana",
+        "Walson"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "teddy",
+        "walson"
+      ],
+      "names": [
+        "Teddy",
+        "Walson"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "kelsha"
+      ],
+      "names": [
+        "4EVRL8",
+        "Kelsha"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 5.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "ross"
+      ],
+      "names": [
+        "4EVRL8",
+        "Ross"
+      ],
+      "record": [
+        4,
+        0,
+        0
+      ],
+      "meetings": 4,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "prasana"
+      ],
+      "names": [
+        "BG",
+        "Prasana"
+      ],
+      "record": [
+        3,
+        1,
+        0
+      ],
+      "meetings": 4,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "dane"
+      ],
+      "names": [
+        "Da Docta",
+        "Dane"
+      ],
+      "record": [
+        2,
+        2,
+        0
+      ],
+      "meetings": 4,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "killa",
+        "teddy"
+      ],
+      "names": [
+        "Killa",
+        "Teddy"
+      ],
+      "record": [
+        3,
+        1,
+        0
+      ],
+      "meetings": 4,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kooks",
+        "rohan"
+      ],
+      "names": [
+        "Kooks",
+        "Rohan"
+      ],
+      "record": [
+        4,
+        0,
+        0
+      ],
+      "meetings": 4,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "mitchell",
+        "teddy"
+      ],
+      "names": [
+        "Mitchell",
+        "Teddy"
+      ],
+      "record": [
+        4,
+        0,
+        0
+      ],
+      "meetings": 4,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "bg"
+      ],
+      "names": [
+        "4EVRL8",
+        "BG"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "killa"
+      ],
+      "names": [
+        "4EVRL8",
+        "Killa"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "kooks"
+      ],
+      "names": [
+        "4EVRL8",
+        "Kooks"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "rick"
+      ],
+      "names": [
+        "4EVRL8",
+        "Rick"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "dane"
+      ],
+      "names": [
+        "BG",
+        "Dane"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "killa"
+      ],
+      "names": [
+        "BG",
+        "Killa"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "knickstape"
+      ],
+      "names": [
+        "BG",
+        "KnicksTape"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "jim"
+      ],
+      "names": [
+        "Da Docta",
+        "Jim"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "kenny"
+      ],
+      "names": [
+        "Da Docta",
+        "Kenny"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "knickstape"
+      ],
+      "names": [
+        "Da Docta",
+        "KnicksTape"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "kooks"
+      ],
+      "names": [
+        "Da Docta",
+        "Kooks"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "prasana"
+      ],
+      "names": [
+        "Da Docta",
+        "Prasana"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "rick"
+      ],
+      "names": [
+        "Da Docta",
+        "Rick"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "rohan"
+      ],
+      "names": [
+        "Da Docta",
+        "Rohan"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "teddy"
+      ],
+      "names": [
+        "Da Docta",
+        "Teddy"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "walson"
+      ],
+      "names": [
+        "Da Docta",
+        "Walson"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "kenny"
+      ],
+      "names": [
+        "Dane",
+        "Kenny"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "kooks"
+      ],
+      "names": [
+        "Dane",
+        "Kooks"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "rohan"
+      ],
+      "names": [
+        "Dane",
+        "Rohan"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "walson"
+      ],
+      "names": [
+        "Dane",
+        "Walson"
+      ],
+      "record": [
+        1,
+        1,
+        1
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "jim",
+        "knickstape"
+      ],
+      "names": [
+        "Jim",
+        "KnicksTape"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "jim",
+        "rohan"
+      ],
+      "names": [
+        "Jim",
+        "Rohan"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "jim",
+        "walson"
+      ],
+      "names": [
+        "Jim",
+        "Walson"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kenny",
+        "knickstape"
+      ],
+      "names": [
+        "Kenny",
+        "KnicksTape"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kenny",
+        "mitchell"
+      ],
+      "names": [
+        "Kenny",
+        "Mitchell"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kenny",
+        "prasana"
+      ],
+      "names": [
+        "Kenny",
+        "Prasana"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kenny",
+        "rohan"
+      ],
+      "names": [
+        "Kenny",
+        "Rohan"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "killa",
+        "knickstape"
+      ],
+      "names": [
+        "Killa",
+        "KnicksTape"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "killa",
+        "prasana"
+      ],
+      "names": [
+        "Killa",
+        "Prasana"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "killa",
+        "ross"
+      ],
+      "names": [
+        "Killa",
+        "Ross"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "knickstape",
+        "luis"
+      ],
+      "names": [
+        "KnicksTape",
+        "Luis"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "knickstape",
+        "rick"
+      ],
+      "names": [
+        "KnicksTape",
+        "Rick"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "knickstape",
+        "ross"
+      ],
+      "names": [
+        "KnicksTape",
+        "Ross"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kooks",
+        "prasana"
+      ],
+      "names": [
+        "Kooks",
+        "Prasana"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kooks",
+        "ross"
+      ],
+      "names": [
+        "Kooks",
+        "Ross"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kooks",
+        "teddy"
+      ],
+      "names": [
+        "Kooks",
+        "Teddy"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kooks",
+        "walson"
+      ],
+      "names": [
+        "Kooks",
+        "Walson"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kurt",
+        "mitchell"
+      ],
+      "names": [
+        "Kurt",
+        "Mitchell"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kurt",
+        "rick"
+      ],
+      "names": [
+        "Kurt",
+        "Rick"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kurt",
+        "teddy"
+      ],
+      "names": [
+        "Kurt",
+        "Teddy"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "luis",
+        "rick"
+      ],
+      "names": [
+        "Luis",
+        "Rick"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "luis",
+        "rohan"
+      ],
+      "names": [
+        "Luis",
+        "Rohan"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "luis",
+        "teddy"
+      ],
+      "names": [
+        "Luis",
+        "Teddy"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "luis",
+        "walson"
+      ],
+      "names": [
+        "Luis",
+        "Walson"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "mitchell",
+        "prasana"
+      ],
+      "names": [
+        "Mitchell",
+        "Prasana"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "mitchell",
+        "rick"
+      ],
+      "names": [
+        "Mitchell",
+        "Rick"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "prasana",
+        "ross"
+      ],
+      "names": [
+        "Prasana",
+        "Ross"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "prasana",
+        "teddy"
+      ],
+      "names": [
+        "Prasana",
+        "Teddy"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "rick",
+        "rohan"
+      ],
+      "names": [
+        "Rick",
+        "Rohan"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "rick",
+        "teddy"
+      ],
+      "names": [
+        "Rick",
+        "Teddy"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "rick",
+        "walson"
+      ],
+      "names": [
+        "Rick",
+        "Walson"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "rohan",
+        "teddy"
+      ],
+      "names": [
+        "Rohan",
+        "Teddy"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "ross",
+        "teddy"
+      ],
+      "names": [
+        "Ross",
+        "Teddy"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "knickstape"
+      ],
+      "names": [
+        "4EVRL8",
+        "KnicksTape"
+      ],
+      "record": [
+        1,
+        1,
+        0
+      ],
+      "meetings": 2,
+      "score": 4.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kelsha",
+        "knickstape"
+      ],
+      "names": [
+        "Kelsha",
+        "KnicksTape"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 4.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "jim",
+        "kelsha"
+      ],
+      "names": [
+        "Jim",
+        "Kelsha"
+      ],
+      "record": [
+        0,
+        2,
+        0
+      ],
+      "meetings": 2,
+      "score": 4.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kelsha",
+        "luis"
+      ],
+      "names": [
+        "Kelsha",
+        "Luis"
+      ],
+      "record": [
+        1,
+        1,
+        0
+      ],
+      "meetings": 2,
+      "score": 4.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kelsha",
+        "prasana"
+      ],
+      "names": [
+        "Kelsha",
+        "Prasana"
+      ],
+      "record": [
+        2,
+        0,
+        0
+      ],
+      "meetings": 2,
+      "score": 4.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "da_docta"
+      ],
+      "names": [
+        "4EVRL8",
+        "Da Docta"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "luis"
+      ],
+      "names": [
+        "4EVRL8",
+        "Luis"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "mitchell"
+      ],
+      "names": [
+        "4EVRL8",
+        "Mitchell"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "teddy"
+      ],
+      "names": [
+        "4EVRL8",
+        "Teddy"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "mitchell"
+      ],
+      "names": [
+        "BG",
+        "Mitchell"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "rick"
+      ],
+      "names": [
+        "BG",
+        "Rick"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "ross"
+      ],
+      "names": [
+        "BG",
+        "Ross"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "teddy"
+      ],
+      "names": [
+        "BG",
+        "Teddy"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "walson"
+      ],
+      "names": [
+        "BG",
+        "Walson"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "killa"
+      ],
+      "names": [
+        "Da Docta",
+        "Killa"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "mitchell"
+      ],
+      "names": [
+        "Da Docta",
+        "Mitchell"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "ross"
+      ],
+      "names": [
+        "Da Docta",
+        "Ross"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "knickstape"
+      ],
+      "names": [
+        "Dane",
+        "KnicksTape"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "rick"
+      ],
+      "names": [
+        "Dane",
+        "Rick"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kenny",
+        "kooks"
+      ],
+      "names": [
+        "Kenny",
+        "Kooks"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kenny",
+        "luis"
+      ],
+      "names": [
+        "Kenny",
+        "Luis"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kenny",
+        "ross"
+      ],
+      "names": [
+        "Kenny",
+        "Ross"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kenny",
+        "teddy"
+      ],
+      "names": [
+        "Kenny",
+        "Teddy"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "killa",
+        "rick"
+      ],
+      "names": [
+        "Killa",
+        "Rick"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "knickstape",
+        "mitchell"
+      ],
+      "names": [
+        "KnicksTape",
+        "Mitchell"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "knickstape",
+        "teddy"
+      ],
+      "names": [
+        "KnicksTape",
+        "Teddy"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "knickstape",
+        "walson"
+      ],
+      "names": [
+        "KnicksTape",
+        "Walson"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kooks",
+        "rick"
+      ],
+      "names": [
+        "Kooks",
+        "Rick"
+      ],
+      "record": [
+        3,
+        0,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "luis",
+        "prasana"
+      ],
+      "names": [
+        "Luis",
+        "Prasana"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "mitchell",
+        "rohan"
+      ],
+      "names": [
+        "Mitchell",
+        "Rohan"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "mitchell",
+        "ross"
+      ],
+      "names": [
+        "Mitchell",
+        "Ross"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "rohan",
+        "ross"
+      ],
+      "names": [
+        "Rohan",
+        "Ross"
+      ],
+      "record": [
+        0,
+        3,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "rohan",
+        "walson"
+      ],
+      "names": [
+        "Rohan",
+        "Walson"
+      ],
+      "record": [
+        2,
+        1,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "luis"
+      ],
+      "names": [
+        "Da Docta",
+        "Luis"
+      ],
+      "record": [
+        0,
+        2,
+        0
+      ],
+      "meetings": 2,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "kurt"
+      ],
+      "names": [
+        "Dane",
+        "Kurt"
+      ],
+      "record": [
+        1,
+        1,
+        0
+      ],
+      "meetings": 2,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "karl",
+        "walson"
+      ],
+      "names": [
+        "Karl",
+        "Walson"
+      ],
+      "record": [
+        0,
+        2,
+        0
+      ],
+      "meetings": 2,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "killa",
+        "walson"
+      ],
+      "names": [
+        "Killa",
+        "Walson"
+      ],
+      "record": [
+        2,
+        0,
+        0
+      ],
+      "meetings": 2,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "derrick",
+        "karl"
+      ],
+      "names": [
+        "Derrick",
+        "Karl"
+      ],
+      "record": [
+        1,
+        0,
+        0
+      ],
+      "meetings": 1,
+      "score": 3.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "kelsha"
+      ],
+      "names": [
+        "BG",
+        "Kelsha"
+      ],
+      "record": [
+        1,
+        2,
+        0
+      ],
+      "meetings": 3,
+      "score": 3.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "kelsha"
+      ],
+      "names": [
+        "Da Docta",
+        "Kelsha"
+      ],
+      "record": [
+        0,
+        2,
+        0
+      ],
+      "meetings": 2,
+      "score": 3.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "derrick",
+        "kelsha"
+      ],
+      "names": [
+        "Derrick",
+        "Kelsha"
+      ],
+      "record": [
+        0,
+        2,
+        0
+      ],
+      "meetings": 2,
+      "score": 3.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kelsha",
+        "rohan"
+      ],
+      "names": [
+        "Kelsha",
+        "Rohan"
+      ],
+      "record": [
+        1,
+        1,
+        0
+      ],
+      "meetings": 2,
+      "score": 3.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "kenny"
+      ],
+      "names": [
+        "BG",
+        "Kenny"
+      ],
+      "record": [
+        1,
+        1,
+        0
+      ],
+      "meetings": 2,
+      "score": 2.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "karl",
+        "knickstape"
+      ],
+      "names": [
+        "Karl",
+        "KnicksTape"
+      ],
+      "record": [
+        1,
+        1,
+        0
+      ],
+      "meetings": 2,
+      "score": 2.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "karl",
+        "rohan"
+      ],
+      "names": [
+        "Karl",
+        "Rohan"
+      ],
+      "record": [
+        2,
+        0,
+        0
+      ],
+      "meetings": 2,
+      "score": 2.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "prasana",
+        "rohan"
+      ],
+      "names": [
+        "Prasana",
+        "Rohan"
+      ],
+      "record": [
+        1,
+        1,
+        0
+      ],
+      "meetings": 2,
+      "score": 2.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "da_docta",
+        "karl"
+      ],
+      "names": [
+        "Da Docta",
+        "Karl"
+      ],
+      "record": [
+        1,
+        0,
+        0
+      ],
+      "meetings": 1,
+      "score": 2.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "jim",
+        "karl"
+      ],
+      "names": [
+        "Jim",
+        "Karl"
+      ],
+      "record": [
+        1,
+        0,
+        0
+      ],
+      "meetings": 1,
+      "score": 2.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "karl",
+        "kenny"
+      ],
+      "names": [
+        "Karl",
+        "Kenny"
+      ],
+      "record": [
+        0,
+        1,
+        0
+      ],
+      "meetings": 1,
+      "score": 2.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "karl",
+        "kurt"
+      ],
+      "names": [
+        "Karl",
+        "Kurt"
+      ],
+      "record": [
+        0,
+        1,
+        0
+      ],
+      "meetings": 1,
+      "score": 2.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "karl",
+        "rick"
+      ],
+      "names": [
+        "Karl",
+        "Rick"
+      ],
+      "record": [
+        1,
+        0,
+        0
+      ],
+      "meetings": 1,
+      "score": 2.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "kelsha"
+      ],
+      "names": [
+        "Dane",
+        "Kelsha"
+      ],
+      "record": [
+        1,
+        1,
+        0
+      ],
+      "meetings": 2,
+      "score": 2.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kelsha",
+        "kenny"
+      ],
+      "names": [
+        "Kelsha",
+        "Kenny"
+      ],
+      "record": [
+        0,
+        2,
+        0
+      ],
+      "meetings": 2,
+      "score": 2.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kelsha",
+        "rick"
+      ],
+      "names": [
+        "Kelsha",
+        "Rick"
+      ],
+      "record": [
+        2,
+        0,
+        0
+      ],
+      "meetings": 2,
+      "score": 2.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kelsha",
+        "ross"
+      ],
+      "names": [
+        "Kelsha",
+        "Ross"
+      ],
+      "record": [
+        2,
+        0,
+        0
+      ],
+      "meetings": 2,
+      "score": 2.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kelsha",
+        "teddy"
+      ],
+      "names": [
+        "Kelsha",
+        "Teddy"
+      ],
+      "record": [
+        2,
+        0,
+        0
+      ],
+      "meetings": 2,
+      "score": 2.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kelsha",
+        "walson"
+      ],
+      "names": [
+        "Kelsha",
+        "Walson"
+      ],
+      "record": [
+        0,
+        2,
+        0
+      ],
+      "meetings": 2,
+      "score": 2.0,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "4evrl8",
+        "karl"
+      ],
+      "names": [
+        "4EVRL8",
+        "Karl"
+      ],
+      "record": [
+        1,
+        0,
+        0
+      ],
+      "meetings": 1,
+      "score": 1.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "bg",
+        "karl"
+      ],
+      "names": [
+        "BG",
+        "Karl"
+      ],
+      "record": [
+        0,
+        1,
+        0
+      ],
+      "meetings": 1,
+      "score": 1.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "dane",
+        "karl"
+      ],
+      "names": [
+        "Dane",
+        "Karl"
+      ],
+      "record": [
+        1,
+        0,
+        0
+      ],
+      "meetings": 1,
+      "score": 1.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "karl",
+        "killa"
+      ],
+      "names": [
+        "Karl",
+        "Killa"
+      ],
+      "record": [
+        0,
+        1,
+        0
+      ],
+      "meetings": 1,
+      "score": 1.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "karl",
+        "kooks"
+      ],
+      "names": [
+        "Karl",
+        "Kooks"
+      ],
+      "record": [
+        0,
+        1,
+        0
+      ],
+      "meetings": 1,
+      "score": 1.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "karl",
+        "luis"
+      ],
+      "names": [
+        "Karl",
+        "Luis"
+      ],
+      "record": [
+        0,
+        1,
+        0
+      ],
+      "meetings": 1,
+      "score": 1.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "karl",
+        "mitchell"
+      ],
+      "names": [
+        "Karl",
+        "Mitchell"
+      ],
+      "record": [
+        0,
+        1,
+        0
+      ],
+      "meetings": 1,
+      "score": 1.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "karl",
+        "prasana"
+      ],
+      "names": [
+        "Karl",
+        "Prasana"
+      ],
+      "record": [
+        1,
+        0,
+        0
+      ],
+      "meetings": 1,
+      "score": 1.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "karl",
+        "ross"
+      ],
+      "names": [
+        "Karl",
+        "Ross"
+      ],
+      "record": [
+        0,
+        1,
+        0
+      ],
+      "meetings": 1,
+      "score": 1.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "karl",
+        "teddy"
+      ],
+      "names": [
+        "Karl",
+        "Teddy"
+      ],
+      "record": [
+        0,
+        1,
+        0
+      ],
+      "meetings": 1,
+      "score": 1.5,
+      "tier": "Historical Footnote"
+    },
+    {
+      "pair": [
+        "kelsha",
+        "mitchell"
+      ],
+      "names": [
+        "Kelsha",
+        "Mitchell"
+      ],
+      "record": [
+        1,
+        0,
+        0
+      ],
+      "meetings": 1,
+      "score": 1.0,
+      "tier": "Historical Footnote"
+    }
+  ],
+  "updates": [
+    {
+      "id": "478.l.10554:1:478.l.10554.t.10:478.l.10554.t.13",
+      "week": 1,
+      "team_ids": [
+        "478.l.10554.t.10",
+        "478.l.10554.t.13"
+      ],
+      "winner": "478.l.10554.t.13",
+      "pair": [
+        "kenny",
+        "rick"
+      ],
+      "before": 4.5,
+      "after": 5.5,
+      "change": 1.0,
+      "revenge": true,
+      "repeat_wins": 1,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:1:478.l.10554.t.11:478.l.10554.t.4",
+      "week": 1,
+      "team_ids": [
+        "478.l.10554.t.11",
+        "478.l.10554.t.4"
+      ],
+      "winner": "478.l.10554.t.11",
+      "pair": [
+        "4evrl8",
+        "ross"
+      ],
+      "before": 3.5,
+      "after": 4.5,
+      "change": 1.0,
+      "revenge": false,
+      "repeat_wins": 4,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:1:478.l.10554.t.14:478.l.10554.t.9",
+      "week": 1,
+      "team_ids": [
+        "478.l.10554.t.14",
+        "478.l.10554.t.9"
+      ],
+      "winner": "478.l.10554.t.14",
+      "pair": [
+        "dane",
+        "luis"
+      ],
+      "before": 3.5,
+      "after": 5.5,
+      "change": 2.0,
+      "revenge": true,
+      "repeat_wins": 1,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:1:478.l.10554.t.15:478.l.10554.t.2",
+      "week": 1,
+      "team_ids": [
+        "478.l.10554.t.15",
+        "478.l.10554.t.2"
+      ],
+      "winner": "478.l.10554.t.2",
+      "pair": [
+        "derrick",
+        "jim"
+      ],
+      "before": 9.5,
+      "after": 10.5,
+      "change": 1.0,
+      "revenge": false,
+      "repeat_wins": 2,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:1:478.l.10554.t.16:478.l.10554.t.5",
+      "week": 1,
+      "team_ids": [
+        "478.l.10554.t.16",
+        "478.l.10554.t.5"
+      ],
+      "winner": "478.l.10554.t.5",
+      "pair": [
+        "knickstape",
+        "rohan"
+      ],
+      "before": 5.5,
+      "after": 7.5,
+      "change": 2.0,
+      "revenge": true,
+      "repeat_wins": 1,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:1:478.l.10554.t.17:478.l.10554.t.3",
+      "week": 1,
+      "team_ids": [
+        "478.l.10554.t.17",
+        "478.l.10554.t.3"
+      ],
+      "winner": "478.l.10554.t.3",
+      "pair": [
+        "bg",
+        "prasana"
+      ],
+      "before": 3.5,
+      "after": 4.5,
+      "change": 1.0,
+      "revenge": false,
+      "repeat_wins": 2,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:1:478.l.10554.t.18:478.l.10554.t.20",
+      "week": 1,
+      "team_ids": [
+        "478.l.10554.t.18",
+        "478.l.10554.t.20"
+      ],
+      "winner": "478.l.10554.t.20",
+      "pair": [
+        "mitchell",
+        "teddy"
+      ],
+      "before": 3.5,
+      "after": 4.5,
+      "change": 1.0,
+      "revenge": false,
+      "repeat_wins": 4,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:1:478.l.10554.t.19:478.l.10554.t.7",
+      "week": 1,
+      "team_ids": [
+        "478.l.10554.t.19",
+        "478.l.10554.t.7"
+      ],
+      "winner": "478.l.10554.t.19",
+      "pair": [
+        "karl",
+        "walson"
+      ],
+      "before": 1.5,
+      "after": 3.5,
+      "change": 2.0,
+      "revenge": false,
+      "repeat_wins": 2,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:1:478.l.10554.t.1:478.l.10554.t.12",
+      "week": 1,
+      "team_ids": [
+        "478.l.10554.t.1",
+        "478.l.10554.t.12"
+      ],
+      "winner": "478.l.10554.t.12",
+      "pair": [
+        "killa",
+        "kooks"
+      ],
+      "before": 5.5,
+      "after": 7.5,
+      "change": 2.0,
+      "revenge": false,
+      "repeat_wins": 2,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:1:478.l.10554.t.6:478.l.10554.t.8",
+      "week": 1,
+      "team_ids": [
+        "478.l.10554.t.6",
+        "478.l.10554.t.8"
+      ],
+      "winner": "478.l.10554.t.8",
+      "pair": [
+        "da_docta",
+        "kurt"
+      ],
+      "before": 4.5,
+      "after": 5.5,
+      "change": 1.0,
+      "revenge": false,
+      "repeat_wins": 4,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:2:478.l.10554.t.10:478.l.10554.t.2",
+      "week": 2,
+      "team_ids": [
+        "478.l.10554.t.10",
+        "478.l.10554.t.2"
+      ],
+      "winner": "478.l.10554.t.2",
+      "pair": [
+        "derrick",
+        "rick"
+      ],
+      "before": 4.5,
+      "after": 5.5,
+      "change": 1.0,
+      "revenge": false,
+      "repeat_wins": 4,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:2:478.l.10554.t.11:478.l.10554.t.13",
+      "week": 2,
+      "team_ids": [
+        "478.l.10554.t.11",
+        "478.l.10554.t.13"
+      ],
+      "winner": "478.l.10554.t.11",
+      "pair": [
+        "4evrl8",
+        "kenny"
+      ],
+      "before": 7.5,
+      "after": 8.5,
+      "change": 1.0,
+      "revenge": false,
+      "repeat_wins": 2,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:2:478.l.10554.t.12:478.l.10554.t.9",
+      "week": 2,
+      "team_ids": [
+        "478.l.10554.t.12",
+        "478.l.10554.t.9"
+      ],
+      "winner": "478.l.10554.t.9",
+      "pair": [
+        "kooks",
+        "luis"
+      ],
+      "before": 12.5,
+      "after": 14.5,
+      "change": 2.0,
+      "revenge": false,
+      "repeat_wins": 5,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:2:478.l.10554.t.14:478.l.10554.t.6",
+      "week": 2,
+      "team_ids": [
+        "478.l.10554.t.14",
+        "478.l.10554.t.6"
+      ],
+      "winner": "478.l.10554.t.6",
+      "pair": [
+        "da_docta",
+        "dane"
+      ],
+      "before": 3.5,
+      "after": 4.5,
+      "change": 1.0,
+      "revenge": true,
+      "repeat_wins": 1,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:2:478.l.10554.t.15:478.l.10554.t.20",
+      "week": 2,
+      "team_ids": [
+        "478.l.10554.t.15",
+        "478.l.10554.t.20"
+      ],
+      "winner": "478.l.10554.t.15",
+      "pair": [
+        "jim",
+        "mitchell"
+      ],
+      "before": 4.5,
+      "after": 5.5,
+      "change": 1.0,
+      "revenge": false,
+      "repeat_wins": 4,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:2:478.l.10554.t.16:478.l.10554.t.7",
+      "week": 2,
+      "team_ids": [
+        "478.l.10554.t.16",
+        "478.l.10554.t.7"
+      ],
+      "winner": "478.l.10554.t.16",
+      "pair": [
+        "karl",
+        "knickstape"
+      ],
+      "before": 1.5,
+      "after": 2.5,
+      "change": 1.0,
+      "revenge": true,
+      "repeat_wins": 1,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:2:478.l.10554.t.17:478.l.10554.t.8",
+      "week": 2,
+      "team_ids": [
+        "478.l.10554.t.17",
+        "478.l.10554.t.8"
+      ],
+      "winner": "478.l.10554.t.8",
+      "pair": [
+        "kurt",
+        "prasana"
+      ],
+      "before": 7.5,
+      "after": 9.5,
+      "change": 2.0,
+      "revenge": false,
+      "repeat_wins": 4,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:2:478.l.10554.t.19:478.l.10554.t.4",
+      "week": 2,
+      "team_ids": [
+        "478.l.10554.t.19",
+        "478.l.10554.t.4"
+      ],
+      "winner": "478.l.10554.t.19",
+      "pair": [
+        "ross",
+        "walson"
+      ],
+      "before": 4.5,
+      "after": 5.5,
+      "change": 1.0,
+      "revenge": true,
+      "repeat_wins": 1,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:2:478.l.10554.t.1:478.l.10554.t.18",
+      "week": 2,
+      "team_ids": [
+        "478.l.10554.t.1",
+        "478.l.10554.t.18"
+      ],
+      "winner": "478.l.10554.t.18",
+      "pair": [
+        "killa",
+        "teddy"
+      ],
+      "before": 3.5,
+      "after": 4.5,
+      "change": 1.0,
+      "revenge": true,
+      "repeat_wins": 1,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:2:478.l.10554.t.3:478.l.10554.t.5",
+      "week": 2,
+      "team_ids": [
+        "478.l.10554.t.3",
+        "478.l.10554.t.5"
+      ],
+      "winner": "478.l.10554.t.5",
+      "pair": [
+        "bg",
+        "rohan"
+      ],
+      "before": 5.5,
+      "after": 7.5,
+      "change": 2.0,
+      "revenge": true,
+      "repeat_wins": 1,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.10:478.l.10554.t.4",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.10",
+        "478.l.10554.t.4"
+      ],
+      "winner": "478.l.10554.t.10",
+      "pair": [
+        "rick",
+        "ross"
+      ],
+      "before": 4.5,
+      "after": 6.5,
+      "change": 2.0,
+      "revenge": true,
+      "repeat_wins": 1,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.11:478.l.10554.t.19",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.11",
+        "478.l.10554.t.19"
+      ],
+      "winner": "478.l.10554.t.19",
+      "pair": [
+        "4evrl8",
+        "walson"
+      ],
+      "before": 4.5,
+      "after": 5.5,
+      "change": 1.0,
+      "revenge": true,
+      "repeat_wins": 1,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.12:478.l.10554.t.20",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.12",
+        "478.l.10554.t.20"
+      ],
+      "winner": "478.l.10554.t.12",
+      "pair": [
+        "kooks",
+        "mitchell"
+      ],
+      "before": 5.5,
+      "after": 7.5,
+      "change": 2.0,
+      "revenge": false,
+      "repeat_wins": 4,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.13:478.l.10554.t.15",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.13",
+        "478.l.10554.t.15"
+      ],
+      "winner": "478.l.10554.t.15",
+      "pair": [
+        "jim",
+        "kenny"
+      ],
+      "before": 6.5,
+      "after": 8.5,
+      "change": 2.0,
+      "revenge": false,
+      "repeat_wins": 4,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.16:478.l.10554.t.17",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.16",
+        "478.l.10554.t.17"
+      ],
+      "winner": "478.l.10554.t.17",
+      "pair": [
+        "knickstape",
+        "prasana"
+      ],
+      "before": 5.5,
+      "after": 6.5,
+      "change": 1.0,
+      "revenge": true,
+      "repeat_wins": 1,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.18:478.l.10554.t.2",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.18",
+        "478.l.10554.t.2"
+      ],
+      "winner": "478.l.10554.t.2",
+      "pair": [
+        "derrick",
+        "teddy"
+      ],
+      "before": 5.5,
+      "after": 6.5,
+      "change": 1.0,
+      "revenge": false,
+      "repeat_wins": 2,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.1:478.l.10554.t.14",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.1",
+        "478.l.10554.t.14"
+      ],
+      "winner": "478.l.10554.t.1",
+      "pair": [
+        "dane",
+        "killa"
+      ],
+      "before": 4.5,
+      "after": 5.5,
+      "change": 1.0,
+      "revenge": false,
+      "repeat_wins": 5,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.3:478.l.10554.t.6",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.3",
+        "478.l.10554.t.6"
+      ],
+      "winner": "478.l.10554.t.3",
+      "pair": [
+        "bg",
+        "da_docta"
+      ],
+      "before": 4.5,
+      "after": 5.5,
+      "change": 1.0,
+      "revenge": false,
+      "repeat_wins": 2,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.5:478.l.10554.t.7",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.5",
+        "478.l.10554.t.7"
+      ],
+      "winner": "478.l.10554.t.7",
+      "pair": [
+        "karl",
+        "rohan"
+      ],
+      "before": 1.5,
+      "after": 2.5,
+      "change": 1.0,
+      "revenge": false,
+      "repeat_wins": 2,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.8:478.l.10554.t.9",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.8",
+        "478.l.10554.t.9"
+      ],
+      "winner": "478.l.10554.t.8",
+      "pair": [
+        "kurt",
+        "luis"
+      ],
+      "before": 8.5,
+      "after": 10.5,
+      "change": 2.0,
+      "revenge": true,
+      "repeat_wins": 1,
+      "playoff_round": null,
+      "playoff_stage_points": null
+    }
+  ],
+  "warnings": [
+    "Playoff-period exclusions applied: 15 matchups excluded from true playoff records."
+  ],
+  "manager_ids": {
+    "478.l.10554.t.2": "derrick",
+    "478.l.10554.t.3": "bg",
+    "478.l.10554.t.4": "ross",
+    "478.l.10554.t.5": "rohan",
+    "478.l.10554.t.6": "da_docta",
+    "478.l.10554.t.7": "karl",
+    "478.l.10554.t.8": "kurt",
+    "478.l.10554.t.9": "luis",
+    "478.l.10554.t.10": "rick",
+    "478.l.10554.t.11": "4evrl8",
+    "478.l.10554.t.12": "kooks",
+    "478.l.10554.t.13": "kenny",
+    "478.l.10554.t.14": "dane",
+    "478.l.10554.t.15": "jim",
+    "478.l.10554.t.16": "knickstape",
+    "478.l.10554.t.17": "prasana",
+    "478.l.10554.t.1": "killa",
+    "478.l.10554.t.18": "teddy",
+    "478.l.10554.t.19": "walson",
+    "478.l.10554.t.20": "mitchell"
+  },
+  "historical_pairs": 209,
+  "processed_ids": [
+    "478.l.10554:1:478.l.10554.t.10:478.l.10554.t.13",
+    "478.l.10554:1:478.l.10554.t.11:478.l.10554.t.4",
+    "478.l.10554:1:478.l.10554.t.14:478.l.10554.t.9",
+    "478.l.10554:1:478.l.10554.t.15:478.l.10554.t.2",
+    "478.l.10554:1:478.l.10554.t.16:478.l.10554.t.5",
+    "478.l.10554:1:478.l.10554.t.17:478.l.10554.t.3",
+    "478.l.10554:1:478.l.10554.t.18:478.l.10554.t.20",
+    "478.l.10554:1:478.l.10554.t.19:478.l.10554.t.7",
+    "478.l.10554:1:478.l.10554.t.1:478.l.10554.t.12",
+    "478.l.10554:1:478.l.10554.t.6:478.l.10554.t.8",
+    "478.l.10554:2:478.l.10554.t.10:478.l.10554.t.2",
+    "478.l.10554:2:478.l.10554.t.11:478.l.10554.t.13",
+    "478.l.10554:2:478.l.10554.t.12:478.l.10554.t.9",
+    "478.l.10554:2:478.l.10554.t.14:478.l.10554.t.6",
+    "478.l.10554:2:478.l.10554.t.15:478.l.10554.t.20",
+    "478.l.10554:2:478.l.10554.t.16:478.l.10554.t.7",
+    "478.l.10554:2:478.l.10554.t.17:478.l.10554.t.8",
+    "478.l.10554:2:478.l.10554.t.19:478.l.10554.t.4",
+    "478.l.10554:2:478.l.10554.t.1:478.l.10554.t.18",
+    "478.l.10554:2:478.l.10554.t.3:478.l.10554.t.5",
+    "478.l.10554:3:478.l.10554.t.10:478.l.10554.t.4",
+    "478.l.10554:3:478.l.10554.t.11:478.l.10554.t.19",
+    "478.l.10554:3:478.l.10554.t.12:478.l.10554.t.20",
+    "478.l.10554:3:478.l.10554.t.13:478.l.10554.t.15",
+    "478.l.10554:3:478.l.10554.t.16:478.l.10554.t.17",
+    "478.l.10554:3:478.l.10554.t.18:478.l.10554.t.2",
+    "478.l.10554:3:478.l.10554.t.1:478.l.10554.t.14",
+    "478.l.10554:3:478.l.10554.t.3:478.l.10554.t.6",
+    "478.l.10554:3:478.l.10554.t.5:478.l.10554.t.7",
+    "478.l.10554:3:478.l.10554.t.8:478.l.10554.t.9"
+  ]
+}

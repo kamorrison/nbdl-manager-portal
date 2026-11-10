@@ -1,0 +1,322 @@
+{
+  "slug": "nbdl",
+  "season": "2026-27",
+  "week": 3,
+  "league_key": "478.l.10554",
+  "updated_at": "2026-11-09T19:41:36.292324-05:00",
+  "source_type": "live",
+  "events": [
+    {
+      "id": "478.l.10554:3:478.l.10554.t.16:478.l.10554.t.17",
+      "league_id": "nbdl",
+      "league_key": "478.l.10554",
+      "season": "2026-27",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.16",
+        "478.l.10554.t.17"
+      ],
+      "winner": "478.l.10554.t.17",
+      "names": [
+        "SteveBlake Express",
+        "Spike Lee’s Diary"
+      ],
+      "margin": 3,
+      "tags": [
+        "first_win",
+        "jump",
+        "revenge",
+        "upset"
+      ],
+      "priority": 14.0,
+      "rivalry_change": 1.0,
+      "fact": "SteveBlake Express beat Spike Lee’s Diary, 6–3 in categories.",
+      "details": [
+        "SteveBlake Express moved to 1-2-0 in weekly matchups, with Spike Lee’s Diary at 1-2-0.",
+        "Going in, Spike Lee’s Diary had the better matchup record (1-1-0 to 0-2-0).",
+        "It was the first matchup win of the season for SteveBlake Express.",
+        "SteveBlake Express climbed from No. 17 to No. 10 in the UFBball standings.",
+        "SteveBlake Express reversed the result of the previous recorded meeting between these managers."
+      ],
+      "source": "/league/478.l.10554/scoreboard;week=3"
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.1:478.l.10554.t.14",
+      "league_id": "nbdl",
+      "league_key": "478.l.10554",
+      "season": "2026-27",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.1",
+        "478.l.10554.t.14"
+      ],
+      "winner": "478.l.10554.t.1",
+      "names": [
+        "Sub-0 J",
+        "MotorCade Scooter 🏍️ 🛵💨"
+      ],
+      "margin": 3,
+      "tags": [
+        "first_win",
+        "jump",
+        "repeat",
+        "upset"
+      ],
+      "priority": 14.0,
+      "rivalry_change": 1.0,
+      "fact": "Sub-0 J beat MotorCade Scooter 🏍️ 🛵💨, 6–3 in categories.",
+      "details": [
+        "Sub-0 J moved to 1-2-0 in weekly matchups, with MotorCade Scooter 🏍️ 🛵💨 at 1-2-0.",
+        "Going in, MotorCade Scooter 🏍️ 🛵💨 had the better matchup record (1-1-0 to 0-2-0).",
+        "It was the first matchup win of the season for Sub-0 J.",
+        "Sub-0 J climbed from No. 16 to No. 9 in the UFBball standings.",
+        "The winning manager has taken 5 straight recorded meetings in this series."
+      ],
+      "source": "/league/478.l.10554/scoreboard;week=3"
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.10:478.l.10554.t.4",
+      "league_id": "nbdl",
+      "league_key": "478.l.10554",
+      "season": "2026-27",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.10",
+        "478.l.10554.t.4"
+      ],
+      "winner": "478.l.10554.t.10",
+      "names": [
+        "Guns & Buns",
+        "Bosh Roid"
+      ],
+      "margin": 1,
+      "tags": [
+        "close",
+        "first_win",
+        "revenge",
+        "streak"
+      ],
+      "priority": 13.0,
+      "rivalry_change": 2.0,
+      "fact": "Guns & Buns beat Bosh Roid, 5–4 in categories.",
+      "details": [
+        "Guns & Buns moved to 1-2-0 in weekly matchups, with Bosh Roid at 0-3-0.",
+        "It was the first matchup win of the season for Guns & Buns.",
+        "Bosh Roid has a 3-matchup losing streak.",
+        "Guns & Buns reversed the result of the previous recorded meeting between these managers."
+      ],
+      "source": "/league/478.l.10554/scoreboard;week=3"
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.8:478.l.10554.t.9",
+      "league_id": "nbdl",
+      "league_key": "478.l.10554",
+      "season": "2026-27",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.8",
+        "478.l.10554.t.9"
+      ],
+      "winner": "478.l.10554.t.8",
+      "names": [
+        "Gamma Squad",
+        "Girth God"
+      ],
+      "margin": 1,
+      "tags": [
+        "close",
+        "revenge",
+        "streak",
+        "unbeaten"
+      ],
+      "priority": 12.0,
+      "rivalry_change": 2.0,
+      "fact": "Gamma Squad beat Girth God, 5–4 in categories.",
+      "details": [
+        "Gamma Squad moved to 3-0-0 in weekly matchups, with Girth God at 1-2-0.",
+        "Gamma Squad is still unbeaten.",
+        "Gamma Squad has a 3-matchup winning streak.",
+        "Gamma Squad reversed the result of the previous recorded meeting between these managers."
+      ],
+      "source": "/league/478.l.10554/scoreboard;week=3"
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.5:478.l.10554.t.7",
+      "league_id": "nbdl",
+      "league_key": "478.l.10554",
+      "season": "2026-27",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.5",
+        "478.l.10554.t.7"
+      ],
+      "winner": "478.l.10554.t.7",
+      "names": [
+        "Fade Away 2 Excellence",
+        "Da Bum Tiss"
+      ],
+      "margin": 3,
+      "tags": [
+        "first_win",
+        "jump",
+        "upset"
+      ],
+      "priority": 11.0,
+      "rivalry_change": 1.0,
+      "fact": "Fade Away 2 Excellence beat Da Bum Tiss, 6–3 in categories.",
+      "details": [
+        "Fade Away 2 Excellence moved to 1-2-0 in weekly matchups, with Da Bum Tiss at 2-1-0.",
+        "Going in, Da Bum Tiss had the better matchup record (2-0-0 to 0-2-0).",
+        "It was the first matchup win of the season for Fade Away 2 Excellence.",
+        "Fade Away 2 Excellence climbed from No. 18 to No. 12 in the UFBball standings."
+      ],
+      "source": "/league/478.l.10554/scoreboard;week=3"
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.11:478.l.10554.t.19",
+      "league_id": "nbdl",
+      "league_key": "478.l.10554",
+      "season": "2026-27",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.11",
+        "478.l.10554.t.19"
+      ],
+      "winner": "478.l.10554.t.19",
+      "names": [
+        "Walson's Wonderful Team",
+        "Hart of New York"
+      ],
+      "margin": 3,
+      "tags": [
+        "revenge",
+        "streak",
+        "unbeaten"
+      ],
+      "priority": 9.0,
+      "rivalry_change": 1.0,
+      "fact": "Walson's Wonderful Team beat Hart of New York, 6–3 in categories.",
+      "details": [
+        "Walson's Wonderful Team moved to 3-0-0 in weekly matchups, with Hart of New York at 2-1-0.",
+        "Walson's Wonderful Team is still unbeaten.",
+        "Walson's Wonderful Team has a 3-matchup winning streak.",
+        "Walson's Wonderful Team reversed the result of the previous recorded meeting between these managers."
+      ],
+      "source": "/league/478.l.10554/scoreboard;week=3"
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.12:478.l.10554.t.20",
+      "league_id": "nbdl",
+      "league_key": "478.l.10554",
+      "season": "2026-27",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.12",
+        "478.l.10554.t.20"
+      ],
+      "winner": "478.l.10554.t.12",
+      "names": [
+        "Himmy Butlers",
+        "Wemby's"
+      ],
+      "margin": 1,
+      "tags": [
+        "close",
+        "repeat"
+      ],
+      "priority": 7.0,
+      "rivalry_change": 2.0,
+      "fact": "Himmy Butlers beat Wemby's, 5–4 in categories.",
+      "details": [
+        "Himmy Butlers moved to 2-1-0 in weekly matchups, with Wemby's at 1-2-0.",
+        "The winning manager has taken 4 straight recorded meetings in this series."
+      ],
+      "source": "/league/478.l.10554/scoreboard;week=3"
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.13:478.l.10554.t.15",
+      "league_id": "nbdl",
+      "league_key": "478.l.10554",
+      "season": "2026-27",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.13",
+        "478.l.10554.t.15"
+      ],
+      "winner": "478.l.10554.t.15",
+      "names": [
+        "Speedsters",
+        "Legendary 🤩"
+      ],
+      "margin": 1,
+      "tags": [
+        "close",
+        "repeat"
+      ],
+      "priority": 7.0,
+      "rivalry_change": 2.0,
+      "fact": "Speedsters beat Legendary 🤩, 5–4 in categories.",
+      "details": [
+        "Speedsters moved to 2-1-0 in weekly matchups, with Legendary 🤩 at 1-2-0.",
+        "The winning manager has taken 4 straight recorded meetings in this series."
+      ],
+      "source": "/league/478.l.10554/scoreboard;week=3"
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.18:478.l.10554.t.2",
+      "league_id": "nbdl",
+      "league_key": "478.l.10554",
+      "season": "2026-27",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.18",
+        "478.l.10554.t.2"
+      ],
+      "winner": "478.l.10554.t.2",
+      "names": [
+        "31 Savage",
+        "Syracuse nationals"
+      ],
+      "margin": 3,
+      "tags": [
+        "streak",
+        "unbeaten"
+      ],
+      "priority": 6.0,
+      "rivalry_change": 1.0,
+      "fact": "31 Savage beat Syracuse nationals, 6–3 in categories.",
+      "details": [
+        "31 Savage moved to 3-0-0 in weekly matchups, with Syracuse nationals at 1-2-0.",
+        "31 Savage is still unbeaten.",
+        "31 Savage has a 3-matchup winning streak."
+      ],
+      "source": "/league/478.l.10554/scoreboard;week=3"
+    },
+    {
+      "id": "478.l.10554:3:478.l.10554.t.3:478.l.10554.t.6",
+      "league_id": "nbdl",
+      "league_key": "478.l.10554",
+      "season": "2026-27",
+      "week": 3,
+      "team_ids": [
+        "478.l.10554.t.3",
+        "478.l.10554.t.6"
+      ],
+      "winner": "478.l.10554.t.3",
+      "names": [
+        "Ben's Swag Team",
+        "Da Docta's Perfect Team"
+      ],
+      "margin": 3,
+      "tags": [],
+      "priority": 1.0,
+      "rivalry_change": 1.0,
+      "fact": "Ben's Swag Team beat Da Docta's Perfect Team, 6–3 in categories.",
+      "details": [
+        "Ben's Swag Team moved to 2-1-0 in weekly matchups, with Da Docta's Perfect Team at 1-2-0."
+      ],
+      "source": "/league/478.l.10554/scoreboard;week=3"
+    }
+  ],
+  "article_url": null
+}
